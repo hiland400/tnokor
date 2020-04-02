@@ -1,46 +1,46 @@
 ﻿l_english:
 
- GER_burgundian_system:0 "Großgermanisches Reich"
- GER_burgundian_system_DEF:0 "Das Großgermanische Reich"
- GER_burgundian_system_ADJ:0 "German"
- GER_national_socialism:0 "Großgermanisches Reich"
+ GER_burgundian_system:0 "대게르만국"
+ GER_burgundian_system_DEF:0 "대게르만국"
+ GER_burgundian_system_ADJ:0 "독일"
+ GER_national_socialism:0 "대게르만국"
 
- GER_ultranational_socialism:0 "Großgermanisches Reich"
- GER_ultranational_socialism_DEF:0 "Das Großgermanische Reich"
- GER_ultranational_socialism_ADJ:0 "German"
+ GER_ultranational_socialism:0 "대게르만국"
+ GER_ultranational_socialism_DEF:0 "대게르만국"
+ GER_ultranational_socialism_ADJ:0 "독일"
 
- GER_national_socialism_DEF:0 "Das Großgermanische Reich"
- GER_national_socialism_ADJ:0 "German"
+ GER_national_socialism_DEF:0 "대게르만국"
+ GER_national_socialism_ADJ:0 "독일"
 
- GER_fascism:0 "Großgermanisches Reich"
- GER_fascism_DEF:0 "Das Großgermanische Reich"
- GER_fascism_ADJ:0 "German"
+ GER_fascism:0 "대게르만국"
+ GER_fascism_DEF:0 "대게르만국"
+ GER_fascism_ADJ:0 "독일"
 
- GER_despotism:0 "Großgermanisches Reich"
- GER_despotism_DEF:0 "Das Großgermanische Reich"
- GER_despotism_ADJ:0 "German"
+ GER_despotism:0 "대게르만국"
+ GER_despotism_DEF:0 "대게르만국"
+ GER_despotism_ADJ:0 "독일"
 
- GER_authoritarian_democrat:0 "Großgermanisches Reich"
- GER_authoritarian_democrat_DEF:0 "Das Großgermanische Reich"
- GER_authoritarian_democrat_ADJ:0 "German"
+ GER_authoritarian_democrat:0 "대게르만국"
+ GER_authoritarian_democrat_DEF:0 "대게르만국"
+ GER_authoritarian_democrat_ADJ:0 "독일"
 
- GER_communist:0 "Großgermanisches Reich"
- GER_communist_DEF:0 "Das Großgermanische Reich"
- GER_communist_ADJ:0 "German"
+ GER_communist:0 "대게르만국"
+ GER_communist_DEF:0 "대게르만국"
+ GER_communist_ADJ:0 "독일"
  
 ### PARTIES ###
- GER_burgundian_system_party:0 "NSDAP - SS Faction"
- GER_burgundian_system_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ GER_burgundian_system_party:0 "NSDAP - SS파"
+ GER_burgundian_system_party_long:0 "국가사회주의독일노동자당"
 
  GER_national_socialism_party:0 "NSDAP"
- GER_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ GER_national_socialism_party_long:0 "국가사회주의독일노동자당"
 
- GER_fascism_party:0 "NSDAP - Reformist Faction"
- GER_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ GER_fascism_party:0 "NSDAP - 개혁파"
+ GER_fascism_party_long:0 "국가사회주의독일노동자당"
 
 ### LEADER DESCRIPTIONS ###
- POLITICS_ADOLF_HITLER_DESC:0 "How does one begin to define Adolf Hitler, Führer and Reichskanzler of the Greater German Reich, the undisputed tyrant of 19 countries, the architect of Welthauptstadt Germania, Supreme Commander of the Wehrmacht, Führer of the National Socialist German Workers' Party, and Time Magazine's Man of the Year in 1938, 1946, and 1961?\n\nA man of humble beginnings, the son of Austrian Innkeepers, he was educated in Munich and Vienna, and served with distinction with the German Army during the First World War. His rise to power was meteoric, none can deny, and even failed attempts like the Beer Hall Putsch served only to further his ambitions. His combination of violence and showmanship drove the communists and democrats out of the Reichstag and placed him into its highest office. Under his leadership, Germany broke the chains of the Versailles Treaty, developed a terrifying new military, and forced the other nations of Europe to their knees until the Swastika flew over all of Europe, from the shores of the Atlantic Ocean to the Black Sea. Under his guidance, the Reich built such wonders as Atlantropa and Germania, and under his watchful eye, the Undesirables of Europe were viciously exterminated and fed to the flames.\n\nBut the lord and master of all Germany, of all Europe between the Urals and the Pyrenees, has grown old. Where his voice could once command a crowd's rapt attention there is now only quiet rasping, and a cold calculating mind of steel has gone to rust. The hands that penned Mein Kampf constantly tremble now, as he adds the final touches to a watercolor of those long-dead faces slipping from his memory. The greatest conqueror the world has ever known since Alexander and Napoleon is an old and frail man. In 1962, he is 73 years of age, and some dare to whisper that he is not long for this world. The fear of all the world is that once the Führer's funeral pyre is lit, it will spread the great conflagration of war all across Europe once more."
- REICHSTAG_EMERGENCY_COUNCIL_DESC:0 "The Führer has tragically passed, and the Reich was shocked by the news. After all, who could expect such an invincible man to die?\n\nNot the Reichstag, apparently.\n\nDespite the Führer's clear designation as to who his successor will be, many within the government are up in arms. The reformists, conservatives, hardliners, and fanatics are all at each other's throats, and all pretenses of a peaceful and orderly transfer of power are rapidly vanishing. As a result, a group of fence-sitters, no-name bureaucrats, and other Reichstag members too unpopular to be courted by any faction have bounded together to declare themselves the official intermediary executive branch until the new Führer's inauguration, as per a constitution that everyone had collectively ignored for the past thirty years.\n\nThe main contenders for the Führership have all paid little attention the emergency council, viewing them as benchwarmers at best and insubordinate traitors at worst. The only light side is that their presence has given a shadow of stability in Germania, stopping the city from spiraling into chaos so that a more competent leader can (hopefully) take charge. They may have saved Rome from burning, but they are content to fiddle as the rest of the empire goes up in flames."
+ POLITICS_ADOLF_HITLER_DESC:0 "대독일국의 영도자이자 총리이며 19개 국가를 다스리는 의심할 여지 없는 폭군, 세계수도 게르마니아의 건축가, 독일 국방군의 최고사령관, 국가사회주의독일노동자당의 영도자, 그리고 타임지의 1938년, 1946년, 그리고 1961년의 올해의 인물인 아돌프 히틀러를 정의하기 위해서는 과연 어디부터 시작해야 할까요?\n\n오스트리아 여관 주인의 아들이라는 겸손한 시작을 한 그는 뮌헨과 빈에서 수학하였고 제1차 세계대전 당시 독일군에서 복무하며 뛰어난 공훈을 세웠습니다. 그가 혜성과 같이 나타나 정권을 잡았다는 사실은 그 누구도 부인할 수 없으며, 뮌헨 봉기와 같은 실패한 시도들은 오로지 그의 야망을 더더욱 키워주었을 뿐이었습니다. 그의 폭력과 쇼맨십의 조합은 공산주의자들과 민주주의자들을 라이히스탁에서 몰아냈으며 그를 최고의 자리에 올려놓았습니다. 그의 영도 하에서, 독일은 베르사유 조약의 족쇄를 끊었으며, 새롭고 무시무시한 군대를 육성하였고, 대서양 해안가에서 흑해에 이르기까지 전 유럽에 스바스티카가 휘날리도록 유럽의 다른 국가들을 무릎 꿇게 만들었습니다. 그의 영도 하에서 라이히는 아틀란트로파와 게르마니아 같은 불가사의를 건설하였고, 그의 감시 하에 유럽의 악질분자들은 맹렬히 절멸되었고 불길의 먹이가 되었습니다.\n\n그러나 독일 전역과 우랄과 피레네 사이의 유럽 전역의 구세주이자 지도자는, 늙었습니다. 한때 넋빠진 청중들의 이목을 좌지우지하던 그의 목소리는 이제는 단지 쉬었을 뿐이며, 차갑고 타산적인 강철의 정신은 녹슬었습니다. 그의 기억에서 미끄러져 나가는 오래 전에 죽은 이들의 얼굴에 최후의 붓놀림을 더하면서, 나의 투쟁을 집필한 손은 이제는 끊임없이 흔들리고 있습니다. 알렉산드로스와 나폴레옹 이후 세계 최고의 정복자는 이제는 늙고 노쇠한 인간입니다. 1962년, 그는 73세이며, 몇몇은 감히 그가 이 세계에 남을 날이 그리 길지 않다고 속삭이고 있습니다. 만일 영도자의 장례식이 거행된다면, 유럽 전역에 다시 한 번 전쟁의 불길이 타오르리라고, 전세계는 두려움에 떨고 있습니다." 
+ REICHSTAG_EMERGENCY_COUNCIL_DESC:0 "영도자께서는 비극적으로 돌아가셨으며, 라이히는 그 소식에 충격받았습니다. 그 누가 과연 그 천하무적의 인간이 죽으리라고 생각했을까요?\n\n분명히 라이히스탁은 아닐 것입니다.\n\n그의 후계자가 누가 될 것인지 영도자 각하께서 확실하게 지정하셨음에도 불구하고, 정부의 많은 이들은 무기를 들었습니다. 개혁주의자들, 보수주의자들, 강경주의자들, 그리고 광신주의자들은 서로 맹렬히 싸우고 있습니다. 결과적으로, 그 어떤 파벌의 일원이 되기에는 지나치게 인기가 없는 형세관망자들과 무명의 관료들, 그리고 다른 라이히스탁 의원들은 서로 뭉쳐, 지난 30년 동안 집단적으로 무시받던 헌법에 의거하여 자신들을 새로운 영도자가 취임할 때까지의 공식적인 중개 행정부라고 선언하였습니다.\n\n총통직의 주 경쟁자들은 모두 이 비상회의에 매우 적은 관심을 두고 있으며 좋게 말하자면 후보 선수, 나쁘게 말하자면 불순종적인 반역자라고 보고 있습니다. 이들의 존재가 주는 가장 긍정적인 효과는 게르마니아에 안정의 그림자라도 드리우게 되었다는 것이며, 도시가 혼돈에 빠져드는 것을 막음으로서 더 적합한 지도자가 (희망적으로) 주도할 수 있게 만드는 것입니다. 그들은 로마를 대화재로부터 막아냈으나 제국의 나머지 지역들이 불길에 휩싸이는 것을 방관할 것입니다." 
  POLITICS_HANS_SPIEDEL_DESC:0 "Long has Speidel served proudly in the Wehrmacht and long has the nation been proud to host him. First rising to fame after narrowly staving off a Civil War in the 50s thanks to his quick coup against the SS in the east during the heights of the West Russian War, where he was awarded the Knight's Cross with Golden Oak Leaves, Swords and Diamonds for gallantry in battle. A rising star, he further rode off the popularity of his old leader and personal friend, Rommel and became one of the most beloved figures in Germany. Later Speidel challenged the Reich's many militarists, namely Ferdinand Schörner, sabotaging Schörner's career and for the second time in Speidel's life preventing a coup in the Reich when he prevented Schörner from taking control of the Wehrmacht for his own gains.\n\nStill, Speidel is not a politician and feels strongly against the increasing ties between the Wehrmacht and the government. Fearing military control of the Reich would destroy it, he has refused all attempts to bribe and cajole him into one of the various factions in the Reich and continues to state that as a soldier his duty will always be to the people. While noble, this means that Speidel is a small island in a swirling sea, and every day the tide comes ever higher."
  POLITICS_SPEER_GERMANY_DESC:0 "Many things are said of Albert Speer, yet none can deny his ambition.\n\nUnlike many others, he did not join the NSDAP that fateful day in 1931 for the late Führer's fiery rhetoric. It was Adolf Hitler's calm and collected speech given during a rally in Berlin that intoxicated the young architect, leading him to join the Party the year after.\n\nWhat started as a favor to a fellow member became a recommendation to Joseph Goebbels; the recommendation became a commission to renovate the local NSDAP headquarters. Before long, he had drawn the personal interest of the Führer. Hitler became a passionate admirer of his vision, and together they drafted plans of a new Germany.\n\nBy the war's end, Speer was a close friend of the Führer, presided over his own ministry and touted a reputation as the man who transformed the Reich's economy into a war-winning machine. No matter the cost of life, the dream of a new Germany had been realized. Reputation is rarely truth - but he made sure that everyone knew of his.\n\nIt was in the midst of Germania's construction that the economy crashed, and his lofty dreams with it. Pinning the blame was easy. Slavery, the very system Speer created to win the war, doomed Germany in peace. It was an unprecedented disaster - one that Speer could not ignore. The Reich and Volk deserved greatness. His dreams deserved reality. Reform was necessary.\n\nYears of open criticism of NSDAP policy followed, and he soon found himself somewhere unexpected once again: as the figurehead of the largest reform movement Germany had seen in decades. Speer's ambitious goals and reputation as a dissenter enveloped countless of young dreamers and old rivals around him in a political maelstrom unlike any other.\n\nAnd as he now walks this perilous tightrope he crafted, he balances not only his own future but also that of the Reich."
  POLITICS_HERMANN_GORING_DESC:0 "Göring once made a public challenge that if any Allied bomber dare reach the Reich that forever after he would be known as Hermann Meier. The success of Nazism in the World War proved his bluff wise, and Göring was soon sure to cut himself a piece of the great pie the victors greedily dove into once the Allies lie destroyed.\n\nUsing a mix of a somewhat political able mind and several excessive uses of blunt force, namely in the deployment of thugs, militias and 'patriots' to harass and drive off any threats to his power, Göring has centered himself as the sole politician in the Reich who truly listens to the pleas of the soldiery. Seeing no other way to power, he has surrounded himself by uniformed sycophants who have convinced the aging Führer that the only way for the Reich to prosperity would be through the utter destruction of its enemies.\n\nNow, Göring goose-step arm and arm on what many consider a rapid road to the destruction of the Reich. That is assuming he is soon stopped however, for one can only imagine what may happen once Göring sets his sights overseas..."
