@@ -1,0 +1,76 @@
+﻿l_english:
+ ### Country Names ###
+ ##Reichskommissariat Moskowien
+ MCW_GER_national_socialism:0 "Reichskommissariat Moskowien"
+ MCW_GER_national_socialism_DEF:0 "Das Reichskommissariat Moskowien"
+ MCW_GER_national_socialism_ADJ:0 "Moskauer"
+
+ MCW_GER_fascism:0 "Reichskommissariat Moskowien"
+ MCW_GER_fascism_ADJ:0 "Moskauer"
+ MCW_fascism:0 "Muscovy"
+ MCW_fascism_DEF:0 "Muscovy"
+ MCW_fascism_ADJ:0 "Muscovian"
+
+ MCW_social_liberal:0 "Muscovy"
+ MCW_social_liberal_DEF:0 "Muscovy"
+ MCW_social_liberal_ADJ:0 "Muscovian"
+ 
+ MCW_market_liberal:0 "Muscovy"
+ MCW_market_liberal_DEF:0 "Muscovy"
+ MCW_market_liberal_ADJ:0 "Muscovian"
+ 
+ MCW_social_conservative:0 "Muscovy"
+ MCW_social_conservative_DEF:0 "Muscovy"
+ MCW_social_conservative_ADJ:0 "Muscovian"
+ 
+ MCW_authoritarian_democrat:0 "Muscovy"
+ MCW_authoritarian_democrat_DEF:0 "Muscovy"
+ MCW_authoritarian_democrat_ADJ:0 "Muscovian"
+ 
+ MCW_despotism:0 "Muscovy"
+ MCW_despotism_DEF:0 "Muscovy"
+ MCW_despotism_ADJ:0 "Muscovian"
+ 
+ MCW_communist:0 "Muscovy"
+ MCW_communist_DEF:0 "Muscovy"
+ MCW_communist_ADJ:0 "Muscovian"
+ 
+ MCW_socialist:0 "Muscovy"
+ MCW_socialist_DEF:0 "Muscovy"
+ MCW_socialist_ADJ:0 "Muscovian"
+ 
+ 
+ MCW_national_socialism:0 "Muscovy"
+ MCW_national_socialism_DEF:0 "Muscovy"
+ MCW_national_socialism_ADJ:0 "Muscovian"
+ 
+ MCW_ultranational_socialism:0 "Reichskommissariat Moskowien"
+ MCW_ultranational_socialism_DEF:0 "Reichskommissariat Moskowien"
+ MCW_ultranational_socialism_ADJ:0 "Muscovian"
+
+ 
+ ### Parties ###
+ MCW_communist_party:0 "CPSU"
+ MCW_communist_party_long:0 "Communist Party of the Soviet Union"
+ MCW_socialist_party:0 "Russian Anarchists"
+ MCW_socialist_party_long:0 "Russian Anarchists"
+ MCW_social_democrat_party:0 "FMP"
+ MCW_social_democrat_party_long:0 "Free Menshevik Party"
+ MCW_social_liberal_party:0 "RLP"
+ MCW_social_liberal_party_long:0 "Russian Liberty Party"
+ MCW_market_liberal_party:0 "LMP"
+ MCW_market_liberal_party_long:0 "Liberal Market Party"
+ MCW_social_conservative_party:0 "NRM"
+ MCW_social_conservative_party_long:0 "New Russian Movement"
+ MCW_authoritarian_democrat_party:0 "IRP"
+ MCW_authoritarian_democrat_party_long:0 "Invincible Russia Party"
+ MCW_despotism_party:0 "Russian Monarchists"
+ MCW_despotism_party_long:0 "Russian Monarchists"
+ MCW_fascism_party:0 "Helldorff's Clique"
+ MCW_fascism_party_long:0 "Helldorff's Clique"
+ MCW_national_socialism_party:0 "Kasche Government"
+ MCW_national_socialism_party_long:0 "Kasche Government"
+ MCW_ultranational_socialism_party:0 "Globotschnig's Clique"
+ MCW_ultranational_socialism_party_long:0 "Globotschnig's Clique"
+
+ POLITICS_SIEGFRIED_KASCHE_DESC:0 "Siegfried Kasche has had many postings: a career officer and paramilitary agent, Gauleiter, diplomat, committed Nazi. Now he has risen to the dizzying heights of administration in the New Order he has helped impose on a continent, and rules over one of the biggest Reichskommissariats in the Pakt with an iron fist. He is fair in his treatment, absolute in his will and utterly, completely devoted to the National Socialist Order. That is what the newspapers say, of course, and none would dare disagree.\n\nThe story many in his regime would tell is very, very different.\n\nKasche's posting to Moskowien was the cruelest form of karmic justice he could receive. The former SA officer who begged Goering into reprieve from the Night of the Long Knives now faces an endless repeat of his desperate pleas, day after day, with the endless factions that have sprung up across his land. The military man is hamstrung by circumstances; he cannot risk direct action against the partisans, the bandits and the internal enemies that plague him lest he destroy even the barest semblance of internal control. And the politician must watch helplessly, as his regime and state strangles its own effectiveness just to keep itself together, even betraying the ideology it is committed to.\n\nKasche is a hard man, but keeping it all together is taking its toll. If the Rock of Moskowien is cleft in twain by his own rule, the ship of Moskowien will be left unmoored; and storms are lurking on the grey horizon of the Steppes."

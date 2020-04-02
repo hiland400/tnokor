@@ -1,0 +1,22 @@
+﻿l_english:
+ ### Leader Descriptions ###
+ POLITICS_SAUD_DESC:0 "Saudi Arabia is a harsh land, but Saud bin Abdulaziz is a surprisingly gentle ruler. To an extent, of course, but most rulers are usually defined by nuance. This is not an age of moderation, however, and the ground beneath the King's feet is always shifting. For the faith of the Saudis is ancient, but the world surrounding them is distressingly new.\n\nThe King grew up in a barren land dominated by his father's conquests; he was advised by his father, when he became an heir, to serve God and love his subjects. In the chaos of the 1940s and 1950s he did his level best to continue with the reforms he had put into place in education and infrastructure, bringing Saudi Arabia into the modern world. Hasty deals conducted with the land-hungry Italian Empire managed to keep Arabia independent, or at least that is what the royal publications claim. Why the Empire would want a country with so little to its name is something no Saudi has ever questioned.\n\nThings were stable, until the seismographic sensors picked up liquid gold beneath the sands of the East. Saudi Arabia's oil industry exploded to prominence, and with the money came the fame - and attention. Now the King must balance the voracious hunger of the world powers for the oil it holds, and manage an increasingly restive and conservative populace. And its neighbours in Egypt and Iraq are suspiciously silent, as internal instability threatens to spill over into Arabia itself.\n\nThe Saudi court and king watch, and plot. And toy with the motors of the world, waiting to make their move."
+ 
+ ### Party Names ###
+ SAU_communist_party:0 "MSS"
+ SAU_communist_party_long:0 "Munazamat al-Shuyuīn al-Su'ūdīyn"
+ SAU_socialist_party:0 "ASJA"
+ SAU_socialist_party_long:0 "Aitihad al-Shaeb fi al-Jazirat al-'Arabīyah"
+ SAU_social_democrat_party:0 "HAA - Left Wing"
+ SAU_social_democrat_party_long:0 "Harakat al-'Amra al-'Ahrar - Left Wing"
+ SAU_social_liberal_party:0 "HAA - Center Wing"
+ SAU_social_liberal_party_long:0 "Harakat al-'Amra al-'Ahrar - Center Wing"
+ SAU_social_conservative_party:0 "HAA - Right Wing"
+ SAU_social_conservative_party_long:0 "Harakat al-'Amra al-'Ahrar - Right Wing"
+ SAU_authoritarian_democrat_party:0 "al-Su'ūd - Reformist Wing"
+ SAU_authoritarian_democrat_party_long:0 "al-'Usra al-Su'ūd - Reformist Wing"
+ SAU_despotism_party:0 "al-Su'ūd - Traditionalist Wing"
+ SAU_despotism_party_long:0 "al-'Usra al-Su'ūd - Traditionalist Wing"
+ SAU_fascism_party:0 "MTIJA"
+ SAU_fascism_party_long:0 "Munazamat ath-Thawrah al-Islamīyah fi al-Jazīrah al-'Arabīyah"
+ SAU_ultranational_socialism_party:0 "Ikhwan"

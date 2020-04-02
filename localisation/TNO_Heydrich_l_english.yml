@@ -1,0 +1,16 @@
+﻿l_english:
+
+ ### Country Names ###
+ HGR_burgundian_system:0 "Heydrich's Germany"
+ HGR_burgundian_system_DEF:0 "Heydrich's Germany"
+ HGR_burgundian_system_ADJ:0 "German"
+
+ ### Parties ###
+ HGR_national_socialism_party:0 "NSDAP"
+ HGR_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ HGR_burgundian_system_party:0 "NSDAP - SS Faction"
+ HGR_burgundian_system_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ 
+ ### Leaders ###
+ POLITICS_REINHARD_HEYDRICH_DESC:0 "Heydrich has many names. The Blonde Beast. The Butcher of Prague. The Young Evil God of Death. After narrowly surviving an assassination attempt during the World War, Heydrich personally assisted his men in hunting down and wiping out thousands in the former Czechoslovakia. Pictures of him standing triumphantly over the ruins and destruction he had sown were used as German propaganda throughout the war, and Goebbels even (though reportedly rather begrudgingly) had filmed a propaganda film over the matter.\n\nNow, however, Heydrich serves a much more sinister cause. A puppet master under a puppet master, on dark strings he bobs to and fro at the behest of Reichsführer der burgundischen-SS Heinrich Himmler to fulfill his will in Germany and abroad.\n\nA trusted and feared servant of Burgundy, nevertheless many have noted an almost dismissive attitude from his master. Heydrich follows behind no matter, earning him a reputation as a toady and yuppy by many. Of course, none would ever dare say so to his face."
+ POLITICS_HEYDRICH_COLLAPSED_AUTHORITY_DESC:0 "Reinhard Heydrich is dead, struck down by a mysterious assassin during the valiant struggle for Germany. With the Reichsführer der Deutschen SS now dead, throwing the entire SS gamble into jeopardy, Burgundy's interest in supporting Heydrich's forces has seemingly died with him. As the chain of command begins to break down, with Gruppenführers launching power plays and desperate last stands, all centralized authority inside the German SS has collapsed."

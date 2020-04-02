@@ -1,0 +1,27 @@
+﻿l_english:
+ ### Parties ###
+ AMR_communist_party:0 "VKP(b)"
+ AMR_communist_party_long:0 "Vsesoyuznaya Kommunisticheskaya Partiya (Bolshevikov)"
+ AMR_socialist_party:0 "Sablintsy"
+ AMR_socialist_party_long:0 "Sablintsy"
+ AMR_social_democrat_party:0 "RNP"
+ AMR_social_democrat_party_long:0 "Rossiyskaya Narodnaya Partiya"
+ AMR_social_liberal_party:0 "DPS"
+ AMR_social_liberal_party_long:0 "Demokraticheskaya Partiya Sibiri"
+ AMR_social_conservative_party:0 "PSR"
+ AMR_social_conservative_party_long:0 "Partiya Sotsial'noy Reformy"
+ AMR_authoritarian_democrat_party:0 "PSR"
+ AMR_authoritarian_democrat_party_long:0 "Partiya Sotsial'noy Reformy"
+ AMR_despotism_party:0 "RTL"
+ AMR_despotism_party_long:0 "Rossiyskaya Tsarskaya Liga"
+ AMR_fascism_party:0 "RFP"
+ AMR_fascism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ AMR_national_socialism_party:0 "RFP"
+ AMR_national_socialism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ AMR_ultranational_socialism_party:0 "RFP"
+ AMR_ultranational_socialism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ 
+ ### Leader Desc ###
+ POLITICS_KONSTANTIN_RODZAEVSKY_DESC:0 "Konstantin Vladimirovich Rodzaevsky was always a man of the East. The perceived oppression of the new Soviet system which he despised from a young age pushed him to flee Blagoveschensk in the Union for Harbin, the city in which the emigrés thrived. There, he became convinced that a system to rival Bolshevism had to be created; he found that system in Europe, where Fascism had just been born. The nascent ideology was adopted by many Russians, bitter from their loss in the civil war. A young and charismatic Rodzaevsky grabbed the chance to unite them all under the banner of the swastika, setting crowds on fires with his speeches. He made a promise to return to his homeland one day, and liberate its people.\n\nShortly after its foundation, the Russian Fascist Party forged a close relationship with the new overlords of Manchuria, Japan. The greatest benefactors of the party supported it throughout its entire existence, until the opportunity for reclamation came with the collapse of the Presidium.\n\nEmboldened by the enthusiasm of his Japanese allies, the leader of the RFP went on a noble crusade to crush Judeo-Bolshevism. However, his dreams of complete liberation were dashed by his rivals: the generals and their Tsar, and worse of all, Mikhail Matkovsky and his band of traitors who looked across the Pacific for help. Konstantin Rodzaevsky, left alone in Zeya as the leader of a mere warlord state, has become enraged, and has vowed to get revenge against all of Russia's enemies, whoever they may be: Jews, Reds, Matkovskyites, Tsarists, anyone who dares challenge the Vozhd. To him, it is the only way to restore the nation to its old days of glory, yet that dream seems further and further away."
+ 
+ the_vozhd_of_the_russians:0 "The Vozhd of the Russians"

@@ -1,0 +1,83 @@
+﻿l_english:
+
+ TNO_PEACE_POPUP_TITLE:0 "DIPLOMATIC ALERT"
+ TNO_PEACE_POPUP_DESCRIPTION:0 "[GetWarStatus]"
+ TNO_PEACE_POPUP_FLAVOR:0 "[GetFlavor]"
+
+ TNO_PEACE_POPUP_CLOSE:0 "CLOSE"
+
+ TNO_PEACE_POPUP_COUNTRY_PLURAL:0 " and their allies "
+ TNO_PEACE_POPUP_COUNTRY_SINGULAR:0 " "
+
+ TNO_PEACE_POPUP_COUNTRY_PLURAL_HAS:0 " and their allies have "
+ TNO_PEACE_POPUP_COUNTRY_SINGULAR_HAS:0 " has "
+
+ #TNO_PEACE_POPUP_WINNER_FACTION_LEADER:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§!"
+ #TNO_PEACE_POPUP_WINNER_NOT_FACTION_LEADER:0 "As part of §Y[winning_country.GetFactionName]§!, [winning_country.GetFlag] §Y[winning_country.GetNameDef]§!, "
+#
+ #TNO_PEACE_POPUP_LOSER_FACTION_LEADER:0 "[losing_country.GetFlag] §Y[losing_country.GetNameDef]§!"
+ #TNO_PEACE_POPUP_LOSER_NOT_FACTION_LEADER:0 "[losing_country.GetFlag] §Y[losing_country.GetNameDef]§!, as part of §Y[losing_country.GetFactionName]§!,"
+
+ #Peace event/war loc
+ TNO_PEACE_POPUP_WAR_CONCLUSION:0 "[GetWarConclusionLoc]"
+ TNO_PEACE_POPUP_WAR_CONTINUING:0 "[GetWarContinuationLoc]"
+
+ #Wars that have finished
+ TNO_PEACE_POPUP_WAR_CONCLUSION_OSTLAND:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]defeated [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]as the battle for control of §YOstland§! rages on."
+ 
+ TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_WIN:0 "The §YSouth African War§! has come to a close, with [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]finally defeating [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]."
+ TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_LOSE:0 "The §YSouth African War§! has come to a close, with [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]finally defeating [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]."
+ 
+ TNO_PEACE_POPUP_WAR_CONCLUSION_BRG_FRA:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]seized land from [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in the chaos of §YThe German Civil War§!"
+
+ TNO_PEACE_POPUP_WAR_CONCLUSION_GCW:0 "The delicate balance of power in §YThe German Civil War§! continues to shift as [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]conquers [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]"
+
+ TNO_PEACE_POPUP_WAR_CONCLUSION_DEFAULT:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]defeated [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]in a war."
+ 
+ TNO_PEACE_POPUP_WAR_CONCLUSION_TURKISH_VICTORY:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! has taken its claims from the [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in a §Yborder skirmish§! in the aftermath of the bombing of the §YMalta Conference§!."
+
+ TNO_PEACE_POPUP_WAR_CONCLUSION_IME_VICTORY:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! has halted the assault from [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in a §Yborder skirmish§! in the aftermath of the bombing of the §YMalta Conference§!."
+
+ TNO_PEACE_POPUP_WAR_ECW_HMMLR_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! have bested [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! and taken their first steps towards reuniting Great Britain."
+
+ TNO_PEACE_POPUP_WAR_ECW_COLLABS_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! defended their postition from [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! and prevented the country from falling into anarchy."
+
+ #Capitulation (war continuing) events
+ 
+ TNO_PEACE_POPUP_WAR_CONTINUING_DEFAULT:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! has defeated [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in an ongoing conflict."
+ 
+ #Flavor loc
+ 
+ TNO_PEACE_POPUP_FLAVOR_DEFAULT:0 "War is hell."
+
+ #Ostland flavor
+ TNO_PEACE_POPUP_FLAVOR_KOVNER:0 "But what happens to a dream deferred?"
+ TNO_PEACE_POPUP_FLAVOR_MEYER:0 "The caged bird cries no more."
+ TNO_PEACE_POPUP_FLAVOR_OSTLAND:0 "The status quo lies destroyed."
+ TNO_PEACE_POPUP_FLAVOR_JECKELN:0 "The sun sets on the SS."
+ TNO_PEACE_POPUP_FLAVOR_VITUSKA:0 "A pauper's crown lies shattered."
+ TNO_PEACE_POPUP_FLAVOR_DRECHSLER:0 "The talons have been clipped."
+
+ #Mongolia flavor
+ TNO_PEACE_POPUP_FLAVOR_MEN:0 "The Mongol nation, united."
+ TNO_PEACE_POPUP_FLAVOR_MON:0 "Order has been restored to the steppe."
+ TNO_PEACE_POPUP_FLAVOR_SVO_MEN:0 "Mongolia has been unified."
+ 
+ #BRG-BRT-FRA flavor
+ TNO_PEACE_POPUP_FLAVOR_FRA:0 "A shadow falls over France."
+
+ #2nd Italo Turkish War
+ TNO_PEACE_POPUP_FLAVOR_IME:0 "O, mia patria, sì bella e perduta!"
+ TNO_PEACE_POPUP_FLAVOR_TUR:0 "Del Giordano le rive saluta, di Sionne le torri atterrate..."
+ 
+ #SAF flavor
+ TNO_PEACE_POPUP_FLAVOR_ANC:0 "The Pan-African dream lies defeated."
+ TNO_PEACE_POPUP_FLAVOR_BOR:0 "The Boer state has been ended, but the conflict has not."
+ TNO_PEACE_POPUP_FLAVOR_SAF:0 "The light of democracy has been extinguished in Africa."
+ TNO_PEACE_POPUP_FLAVOR_ANG:0 "The airport of Africa could not stand up to the Americans in the air."
+ TNO_PEACE_POPUP_FLAVOR_MZB:0 "So ends Huttig's reign of terror."
+
+ #ECW flavor
+ TNO_PEACE_POPUP_FLAVOR_ENG:0 "Bind her, grind her, burn her with fire, Cast her ashes into the sea,- She shall escape, she shall aspire, She shall arise to make men free;"
+ TNO_PEACE_POPUP_FLAVOR_FEN:0 "This precious stone set in the silver sea, Which serves it in the office of a wall Or as a moat defensive to a house, Against the envy of less happier lands, This blessed plot, this earth, this realm, this England!"
+

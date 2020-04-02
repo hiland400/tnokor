@@ -1,0 +1,25 @@
+﻿l_english:
+ ### Parties ###
+ ARL_communist_party:0 "Qızıl Äskeri"
+ ARL_communist_party_long:0 "Qızıl Äskeri"
+ ARL_socialist_party:0 "QKP"
+ ARL_socialist_party_long:0 "Qazaqstan Kommýnıstik Partııasy"
+ ARL_social_democrat_party:0 "QEP"
+ ARL_social_democrat_party_long:0 "Qazaqstarlia Enbek Partiyasi"
+ ARL_social_liberal_party:0 "DFP"
+ ARL_social_liberal_party_long:0 "Demokoratiyalia Fermerler Partiyasi"
+ ARL_social_conservative_party:0 "QUDP"
+ ARL_social_conservative_party_long:0 "Qazaq Ultiq-Demokratiyalia Partiyasi"
+ ARL_authoritarian_democrat_party:0 "QUDP"
+ ARL_authoritarian_democrat_party_long:0 "Qazaq Ultiq-Demokratiyalia Partiyasi - Avtoritarliq"
+ ARL_despotism_party:0 "ISB"
+ ARL_despotism_party_long:0 "Islam Sindiq Brigadasi"
+ ARL_fascism_party:0 "UJP"
+ ARL_fascism_party_long:0 "Ultiq Janartu Partiyasi"
+ ARL_national_socialism_party:0 "QTP"
+ ARL_national_socialism_party_long:0 "Qazaq Tami Partiyasi"
+ ARL_ultranational_socialism_party:0 "QTP"
+ ARL_ultranational_socialism_party_long:0 "Qazaq Tami Partiyasi - Ekstremistik"
+
+ ### Leader Descriptions ###
+ POLITICS_NIKOLAI_ONOPRIENKO_DESC:0 "Colonel Nikolai Onoprienko did all he could to fight for the Soviet Union, but now he fights for Kazakhstan. A soldier during the war, Onoprienko achieved great victories during his career and quickly became one of the more decorated Kazakhs in the Soviet army. as the Germans pushed east, Onoprienko was ordered away from the front lines. He became the commander of a peacekeeping division with the goal of maintaining order in his home region of Aktobe, Kazakhstan, in the wake of Soviet collapse.\n\nEventually, Onoprienko came to realize that the Soviets were holding Kazkhstan back - not driving it forward. Onoprienko and his fellow officers eventually split from Momyshuly's Kazakh government to create their own military clique. He personally authored an ideology based around discipline, combining the best elements of communism, capitalism, and fascism, known as National Renewal. His clique has a firm control of the Aktobe region, with his headquarters in Khromtau. He is destined to bring Kazakhstan into the 20th century, even if it is kicking and screaming in the meanwhile - or he will die trying."

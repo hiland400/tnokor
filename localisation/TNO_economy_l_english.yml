@@ -1,0 +1,429 @@
+﻿l_english:
+
+###GUI###
+topbar_economy_button_tt:0 "§YEconomy§!\nView the economic status of your nation."
+economy_view_title:0 "Economy"
+
+economy_view_GDP:0 "§GGDP§"
+economy_view_debt:0 "§SDEBT§"
+economy_view_income:0 "§nINCOME§"
+economy_view_expenditures:0 "§YEXPENDITURES§"
+economy_view_deficit_reserves:0 "§ODEFICIT & RESERVES§"
+
+military_buttons_value:0 "MILITARY SPENDING"
+civilian_buttons_value:0 "CIVILIAN SPENDING"
+reserves_buttons_value:0 "LIQUID RESERVES"
+construction_buttons_value:0 "CONSTRUCTION"
+
+gdp_value:0 "Total GDP: §W[ROOT.Get_GDP]§"
+income_rate_value:0 "Annual Income Rate: §W[?ROOT.income_rate|%]§"
+gdp_growth_value:0 "Annual GDP Growth: §W[?ROOT.GDP_growth|%]§"
+misc_income_value:0 "Other Income: §W[ROOT.Get_misc_income]§"
+annual_budget_value:0 "Annual Revenue: §W[ROOT.Get_total_budget]§"
+deficit_value:0 "Annual Deficit: §W[ROOT.Get_deficit]§"
+national_debt_value:0 "National Debt: §W[ROOT.Get_national_debt]§"
+national_debt_interest_value:0 "Annual Debt Interest: §W[?ROOT.interest_rates|%]§"
+civilian_expenditures_value:0 "Civilian Spending: §W[ROOT.Get_civilian_expenditures]§"
+military_expenditures_value:0 "Military Spending: §W[ROOT.Get_military_expenditures]§"
+construction_expenditures_value:0 "Constr. Spending: §W[ROOT.Get_construction_expenditures]§"
+misc_costs_value:0 "Other Expenditures: §W[ROOT.Get_misc_costs]§"
+money_reserves_value:0 "Liquid Reserves: §W[ROOT.Get_money_reserves]§"
+total_expenditures_value:0 "Total Expenditures: §W[ROOT.Get_total_expenditures]§"
+economy_line_break:0 "--------------------------------------------"
+
+economy_topbar_GDP_text:0 "[ROOT.Get_GDP_topbar]"
+economy_topbar_GDP_short_tt:0 "Our §YGDP§! is currently §Y[ROOT.Get_GDP]§!\nOur §YGDP growth rate§! is [?ROOT.GDP_growth|2Y%] annually\n\nOur §YAnnual Budget§! is §Y[ROOT.Get_total_budget]§!\n\nOur §YDeficit to Income§! ratio is [Get_deficit_ratio]"
+economy_topbar_GDP_long_tt:0 "The §YGDP§! (§YGross Domestic Product§!) of our nation is a monetary measure of the value of all goods and services produced within a year, measured in §Y1960 USD§!."
+
+economy_topbar_debt_text:0 "[ROOT.Get_national_debt_topbar]"
+economy_topbar_debt_short_tt:0 "Our §YInterest Rates§! are currently [?ROOT.interest_rates|%Y]\nAnnual §YCivilian Expenditures§!: §Y[ROOT.Get_civilian_expenditures]§!\nAnnual §YMilitary Expenditures§!: §Y[ROOT.Get_military_expenditures]§!\nAnnual §YConstruction & Trade Expenditures§!: §Y[ROOT.Get_construction_expenditures]§!"
+economy_topbar_debt_long_tt:0 "The §YNational Debt§! represents the total unpaid funds carried by our national government, typically valued by the outstanding securities issued by our treasury, measured in §Y1960 USD§!. As creditors are not in the business of providing free money, we must pay a certain percentage of our national debt as interest each month, determined by our §YInterest Rates§!."
+
+military_expenditures_value_tt:0 "Personnel Costs\n--------------\nApproximate Fielded Manpower: [?approx_fielded_manpower|Y0]\n§Y75k§! USD per man annually\n\nMultiplicative Factors:\n[Get_training]\n[Get_military_supervision]\n[Get_oilcrisis_military]\n\nTotal: [Get_manpower_costs]\n\nProduction Costs\n--------------\nUsed Military Factories: [?used_mil_facs|Y0]\n§Y200M§! USD per factory annually\n\nMultiplicative Factors:\n[Get_industrial_expertise]\n[Get_industrial_equipment]\n\nTotal: [ROOT.Get_military_factory_costs]\n\nNuclear Stockpile Costs:\n--------------\n[Get_nuclear_weapons_cost]"
+military_expenditures_value_short_tt:0 "Personnel Costs: [Get_manpower_costs]\nProduction Costs: [Get_military_factory_costs]\n[Get_nuclear_weapons_cost]\n[Get_military_budget_modifier]"
+income_rate_value_tt:0 "Proportional Income (% of GDP): [?ROOT.income_rate|%G]"
+income_rate_value_tt_delayed:0 "[Get_tax_rate]\n[Get_income_tax]"
+civilian_expenditures_value_short_tt:0 "Proportional Costs (% of GDP): [?civilian_expenditures_factor|-1%][Get_civilian_budget_modifier]"
+civilian_expenditures_value_tt:0 "[Get_health_care]\n[Get_education]\n[Get_security_service]\n[Get_pensions]\n[Get_unemployment]\n[Get_oilcrisis_civilian]"
+construction_expenditures_value_short_tt:0 "Proportional Costs (% of GDP): [?construction_expenditures_factor|-1%]"
+construction_expenditures_value_tt:0 "Construction Level:\n[Get_construction_level]\n\nMultiplicative Factors:\n[Get_safety]\n[Get_pollution]\n[Get_penal_system]\n[Get_minimum_wage]\n[Get_max_workhours]\n[Get_child_labor]"
+national_debt_value_short_tt:0 "Minimum Annual Debt Interest Payment: [Get_annual_debt_payments]"
+national_debt_value_tt:0 "In order to keep our creditors happy and maintain a healthy economy, we need to ensure that, at the very least, we pay the minimum interest as determined by our interest rates and total debt. Failure to do so will result in us borrowing more than we can afford, leaving us with no money for civil and military services, reducing investory confidence, and potentially triggering an §REconomic Crisis§!!"
+deficit_value_short_tt:0 "Our current deficit to budget ratio is: [Get_deficit_ratio]"
+
+tno_nuclear_stockpile_none_econ_tt:0 "Non-Nuclear Power: §Y0.00§! USD"
+tno_nuclear_stockpile_one_econ_tt:0 "Single Nuclear Weapon: §Y100.00M§! USD"
+tno_nuclear_stockpile_few_econ_tt:0 "Multiple Weapon Stockpile: §Y1.00B§! USD"
+tno_nuclear_stockpile_many_econ_tt:0 "Large Nuclear Stockpile: §Y5.00B§! USD"
+tno_nuclear_stockpile_massive_econ_tt:0 "Massive Nuclear Stockpile: §Y15.00B§! USD"
+tno_nuclear_stockpile_apocalyptic_econ_tt:0 "Apocalyptic Nuclear Stockpile: §Y50.00B§! USD"
+
+#Income Rate Factors
+tno_tax_rate_no_taxation_gui:0 "No Taxation: §Y+0.0%§!"
+tno_tax_rate_low_taxation_gui:0 "Low Taxation: §G+10.0%§!"
+tno_tax_rate_medium_taxation_gui:0 "Medium Taxation: §G+20.0%§!"
+tno_tax_rate_high_taxes_gui:0 "High Taxation: §G+30.0%§!"
+tno_tax_rate_exploitative_taxation_gui:0 "Exploitative Taxation: §G+40.0%§!"
+
+tno_income_taxation_elite_tax_exemptions_gui:0 "Elite Tax Exemptions: §G+2.5%§!"
+tno_income_taxation_tax_havens_gui:0 "Tax Havens: §G+5.0%§!"
+tno_income_taxation_low_income_weighted_gui:0 "Low-Income Weighted: §G+7.5%§!"
+tno_income_taxation_flat_taxes_gui:0 "Flax Taxes: §G+10%§!"
+tno_income_taxation_high_income_weighted_gui:0 "High-Income Weighted: §G+12.5%§!"
+
+#Civilian Expenditure Factors
+tno_health_care_no_health_care_gui:0 "No Healthcare: §Y+0.0%§!"
+tno_health_care_private_health_care_gui:0 "Private Healthcare: §R+1.0%§!"
+tno_health_care_public_health_care_gui:0 "Public Healthcare: §R+7.5%§!"
+tno_health_care_universal_health_care_gui:0 "Universal Healthcare: §R+15.0%§!"
+tno_health_care_free_universal_care_gui:0 "Free Universal Healthcare: §R+25.0%§!"
+
+tno_education_elite_only_gui:0 "Elite Only Education: §R+1.0%§!"
+tno_education_public_education_gui:0 "Public Education: §R+5.0%§!"
+tno_education_subsidised_higher_education_gui:0 "Subsidized Higher Education: §R+10.0%§!"
+tno_education_public_higher_education_gui:0 "Public Higher Education: §R+15.0%§!"
+tno_education_free_education_gui:0 "Free Education: §R+20.0%§!"
+
+tno_security_anarchic_gui:0 "Anarchic Security: §Y+0.0%§!"
+tno_security_police_gui:0 "Police: §R+5.0%§!"
+tno_security_security_service_gui:0 "Security Service: §R+7.5%§!"
+tno_security_data_cohesion_gui:0 "Data Cohesion: §R+10.0%§!"
+tno_security_wire_tapping_gui:0 "Wiretapping: §R+12.5%§!"
+tno_security_preemptive_security_gui:0 "Preemptive Security: §R+15.0%§!"
+
+tno_pensions_no_pensions_gui:0 "No Pensions: §Y+0.0%§!"
+tno_pensions_trinket_pensions_gui:0 "Trinket Pensions: §R+3.0%§!"
+tno_pensions_low_pensions_gui:0 "Low Pensions: §R+6.0%§!"
+tno_pensions_acceptable_pensions_gui:0 "Acceptable Pensions: §R+9.0%§!"
+tno_pensions_good_pensions_gui:0 "Good Pensions: §R+15.0%§!"
+
+tno_unemployment_no_subsidies_gui:0 "No Unemployment Subsidies: §Y+0.0%§!"
+tno_unemployment_trinket_subsidies_gui:0 "Trinket Unemployment Subsidies: §R+3.0%§!"
+tno_unemployment_low_subsidies_gui:0 "Low Unemployment Subsidies: §R+6.0%§!"
+tno_unemployment_generous_subsidies_gui:0 "Generous Employment Subsidies: §R+9.0%§!"
+tno_unemployment_basic_income_gui:0 "Universal Basic Income: §R+15.0%§!"
+
+tno_oil_crisis_civilian_expenditure:0 "Oil Crisis: §R+8.0%§!\n"
+
+#Military Expenditure Factors
+tno_training_none_gui:0 "No Training: §G60%§!"
+tno_training_minimal_training_gui:0 "Minimal Training: §G80%§!"
+tno_training_basic_training_gui:0 "Basic Training: §Y100%§!"
+tno_training_combat_schooling_gui:0 "Combat Schooling: §R120%§!"
+tno_training_advanced_training_methods_gui:0 "Advanced Training Methods: §R140%§!"
+
+tno_military_supervision_kill_em_all_gui:0 "Kill 'em All: §G80%§!"
+tno_military_supervision_no_supervision_gui:0 "No Supervision: §G90%§!"
+tno_military_supervision_military_policing_gui:0 "Military Policing: §Y100%§!"
+tno_military_supervision_rules_of_engagement_gui:0 "Rules of Engangement: §R110%§!"
+tno_military_supervision_watchdog_groups_gui:0 "Watchdog Groups: §R120%§!"
+tno_military_supervision_total_supervision_gui:0 "Total Supervision: §R130%§!"
+
+tno_industrial_expertise_pre_industrial_gui:0 "Pre-Industrial Methods: §G50%§!"
+tno_industrial_expertise_incompetent_gui:0 "Incompetent Industry: §G65%§!"
+tno_industrial_expertise_nascent_gui:0 "Nascent Industry: §G80%§!"
+tno_industrial_expertise_experienced_gui:0 "Experienced Industry: §Y100%§!"
+tno_industrial_expertise_innovative_gui:0 "Innovative Industry: §R120%§!"
+
+tno_industrial_equipment_hand_tools_gui:0 "Hand Tools: §G50%§!"
+tno_industrial_equipment_power_tools_gui:0 "Power Tools: §G65%§!"
+tno_industrial_equipment_manufacturing_lines_gui:0 "Manufacturing Lines: §G80%§!"
+tno_industrial_equipment_factory_complexes_gui:0 "Factory Complexes: §G90%§!"
+tno_industrial_equipment_modern_gui:0 "Modern Industrial Equipment: §Y100%§!"
+tno_industrial_equipment_cutting_edge_gui:0 "Cutting-Edge Equipment: §R120%§!"
+
+tno_oil_crisis_military_expenditure:0 "Oil Crisis: §Y125%§!\n"
+
+#Construction Expenditure Factors
+construction_level_not_applicable_gui:0 "§YNo§! Utilization: §Y0.0%§! of GDP"
+construction_level_0_gui:0 "§YNo§! Utilization: §Y0.0%§! of GDP"
+construction_level_1_gui:0 "§Y10%§! Utilization: §R5.0%§! of GDP"
+construction_level_2_gui:0 "§Y20%§! Utilization: §R10.0%§! of GDP"
+construction_level_3_gui:0 "§Y30%§! Utilization: §R15.0%§! of GDP"
+construction_level_4_gui:0 "§Y40%§! Utilization: §R20.0%§! of GDP"
+construction_level_5_gui:0 "§Y50%§! Utilization: §R25.0%§! of GDP"
+construction_level_6_gui:0 "§Y60%§! Utilization: §R30.0%§! of GDP"
+construction_level_7_gui:0 "§Y70%§! Utilization: §R35.0%§! of GDP"
+construction_level_8_gui:0 "§Y80%§! Utilization: §R40.0%§! of GDP"
+construction_level_9_gui:0 "§Y90%§! Utilization: §R45.0%§! of GDP"
+
+tno_safety_no_regulations_gui:0 "No Safety Regulations: §G80%§!"
+tno_safety_minimal_regulations_gui:0 "Minimal Safety Regulations: §G90%§!"
+tno_safety_limited_regulations_gui:0 "Limited Safety Regulations: §Y100%§!"
+tno_safety_acceptable_regulations_gui:0 "Acceptable Safety Regulations: §R110%§!"
+tno_safety_excellent_regulations_gui:0 "Excellent Safety Regulations: §R120%§!"
+
+tno_pollution_no_controls_gui:0 "No Pollution Controls: §G80%§!"
+tno_pollution_few_regulations_gui:0 "Few Pollution Controls: §G90%§!"
+tno_pollution_some_regulations_gui:0 "Some Pollution Controls: §Y100%§!"
+tno_pollution_good_regulations_gui:0 "Good Pollution Controls: §R110%§!"
+tno_pollution_strict_regulations_gui:0 "Strict Pollution Controls: §R120%§!"
+
+tno_penal_system_penal_slavery_gui:0 "Penal Slavery: §G70%§!"
+tno_penal_system_capital_punishment_gui:0 "Capital Punishment: §G80%§!"
+tno_penal_system_penal_labor_gui:0 "Penal Labor: §G90%§!"
+tno_penal_system_incarceration_gui:0 "Incarceration: §G95%§!"
+tno_penal_system_rehabilitation_gui:0 "Rehabilitation: §Y100%§!"
+
+tno_minimum_wage_no_minimum_wage_gui:0 "No Minimum Wage: §G80%§!"
+tno_minimum_wage_trinket_minimum_wage_gui:0 "Trinket Minimum Wage: §G90%§!"
+tno_minimum_wage_low_minimum_wage_gui:0 "Low Minimum Wage: §Y100%§!"
+tno_minimum_wage_acceptable_minimum_gui:0 "Acceptable Minimum Wage: §R110%§!"
+tno_minimum_wage_good_minimum_wage_gui:0 "Good Minimum Wage: §R120%§!"
+
+tno_max_workhours_unlimited_work_day_gui:0 "Unlimited Work Day: §G80%§!"
+tno_max_workhours_14_hour_work_day_gui:0 "14 Hour Work Day: §G90%§!"
+tno_max_workhours_12_hour_work_day_gui:0 "12 Hour Work Day: §Y100%§!"
+tno_max_workhours_8_hour_work_day_gui:0 "8 Hour Work Day: §R110%§!"
+tno_max_workhours_6_hour_work_day_gui:0 "6 Hour Work Day: §R110%§!"
+
+tno_child_labor_legal_gui:0 "Legal Child Labor: §G70%§!"
+tno_child_labor_restricted_gui:0 "Restricted Child Labor: §G85%§!"
+tno_child_labor_illegal_gui:0 "Illegal Child Labor: §Y100%§!"
+
+GDP_billion:0 "[?ROOT.GDP_billion|2]B USD"
+GDP_million:0 "[?ROOT.GDP|2]M USD"
+GDP_thousand:0 "[?ROOT.GDP_thousand|2]k USD"
+
+GDP_billion_topbar:0 "[?ROOT.GDP_billion|2]B"
+GDP_million_topbar:0 "[?ROOT.GDP|2]M"
+GDP_thousand_topbar:0 "[?ROOT.GDP_thousand|2]K"
+
+total_budget_billion:0 "[?ROOT.total_budget_billion|2]B USD"
+total_budget_million:0 "[?ROOT.total_budget|2]M USD"
+total_budget_thousand:0 "[?ROOT.total_budget_thousand|2]k USD"
+
+total_expenditures_billion:0 "[?ROOT.total_expenditures_billion|2]B USD"
+total_expenditures_million:0 "[?ROOT.total_expenditures|2]M USD"
+total_expenditures_thousand:0 "[?ROOT.total_expenditures_thousand|2]k USD"
+
+civilian_expenditures_billion:0 "[?ROOT.civilian_expenditures_billion|2]B USD"
+civilian_expenditures_million:0 "[?ROOT.civilian_expenditures|2]M USD"
+civilian_expenditures_thousand:0 "[?ROOT.civilian_expenditures_thousand|2]K USD"
+
+military_expenditures_billion:0 "[?ROOT.military_expenditures_billion|2]B USD"
+military_expenditures_million:0 "[?ROOT.military_expenditures|2]M USD"
+military_expenditures_thousand:0 "[?ROOT.military_expenditures_thousand|2]K USD"
+
+construction_expenditures_billion:0 "[?ROOT.construction_expenditures_billion|2]B USD"
+construction_expenditures_million:0 "[?ROOT.construction_expenditures|2]M USD"
+construction_expenditures_thousand:0 "[?ROOT.construction_expenditures_thousand|2]K USD"
+
+money_reserves_billion:0 "[?ROOT.money_reserves_billion|2]B USD"
+money_reserves_million:0 "[?ROOT.money_reserves|2]M USD"
+money_reserves_thousand:0 "[?ROOT.money_reserves_thousand|2]K USD"
+
+national_debt_billion:0 "[?ROOT.national_debt_billion|2]B USD"
+national_debt_million:0 "[?ROOT.national_debt|2]M USD"
+national_debt_thousand:0 "[?ROOT.national_debt_thousand|2]K USD"
+
+national_debt_billion_topbar:0 "[?ROOT.national_debt_billion|2]B"
+national_debt_million_topbar:0 "[?ROOT.national_debt|2]M"
+national_debt_thousand_topbar:0 "[?ROOT.national_debt_thousand|2]K"
+
+deficit_billion:0 "[?ROOT.deficit_billion|2]B USD"
+deficit_million:0 "[?ROOT.deficit|2]M USD"
+deficit_thousand:0 "[?ROOT.deficit_thousand|2]K USD"
+
+manpower_costs_billion:0 "§Y[?ROOT.manpower_costs_billion|2]B§! USD"
+manpower_costs_million:0 "§Y[?ROOT.manpower_costs|2]M§! USD"
+manpower_costs_thousand:0 "§Y[?ROOT.manpower_costs_thousand|2]K§! USD"
+
+military_factory_costs_billion:0 "§Y[?ROOT.military_factory_costs_billion|2]B§! USD"
+military_factory_costs_million:0 "§Y[?ROOT.military_factory_costs|2]M§! USD"
+military_factory_costs_thousand:0 "§Y[?ROOT.military_factory_costs_thousand|2]K§! USD"
+
+misc_costs_billion:0 "[?ROOT.misc_costs_billion|2]B USD"
+misc_costs_million:0 "[?ROOT.misc_costs|2]M USD"
+misc_costs_thousand:0 "[?ROOT.misc_costs_thousand|2]K USD"
+
+misc_income_billion:0 "[?ROOT.misc_income_billion|2]B USD"
+misc_income_million:0 "[?ROOT.misc_income|2]M USD"
+misc_income_thousand:0 "[?ROOT.misc_income_thousand|2]K USD"
+
+annual_debt_payments_billion:0 "§Y[?ROOT.annual_debt_payments_billion|2]B§! USD"
+annual_debt_payments_million:0 "§Y[?ROOT.annual_debt_payments|2]M§! USD"
+annual_debt_payments_thousand:0 "§Y[?ROOT.annual_debt_payments_thousand|2]K§! USD"
+
+civilian_budget_cuts_gui:0 "\n(Modified by §G85%§! due to recent austerity measures)"
+civilian_budget_boost_gui:0 "\n(Modified by §R115%§! due to recent funding boosts)"
+civilian_budget_cuts_heavy_gui:0 "\n(Modified by §G70%§! due to recent emergency austerity measures)"
+bankrupt_civilian_gui:0 "\n(Modified by §G40%§! due to recent bankrupcy)"
+
+military_budget_cuts_gui:0 "\n(Modified by §G85%§! due to recent austerity measures)"
+military_budget_boost_gui:0 "\n(Modified by §R115%§! due to recent funding boosts)"
+military_budget_cuts_heavy_gui:0 "\n(Modified by §G70%§! due to recent emergency austerity measures)"
+bankrupt_military_gui:0 "\n(Modified by §G40%§! due to recent bankrupcy)"
+
+deficit_ratio_green:0 "[?deficit_ratio|1G%]"
+deficit_ratio_yellow:0 "[?deficit_ratio|1Y%]"
+deficit_ratio_red:0 "[?deficit_ratio|1R%]"
+
+increase_construction_budget_text:0 "£increase_texticon"
+increase_construction_budget_tt:0 "Increase Construction Budget\nCost: £pol_power 25\nUse §Y10%§! more Civilian Factories\nIncrease §Rcosts§! by §Y5%§!"
+increase_construction_budget_tt_delayed:0 "[!increase_construction_budget_click]"
+
+decrease_construction_budget_text:0 "£decrease_texticon"
+decrease_construction_budget_tt:0 "Decrease Construction Budget\nCost: £pol_power 25\nUse §Y10%§! less Civilian Factories\nDecrease §Rcosts§! by §Y5%§!"
+decrease_construction_budget_tt_delayed:0 "[!decrease_construction_budget_click]"
+
+increase_military_budget_tt:0 "Increase Military Budget:\nTemporarily increases the military budget by §Y15%§! for §Y120 days§!, with corresponding benefits."
+increase_military_budget_tt_delayed:0 "[!increase_military_budget_click]"
+
+decrease_military_budget_tt:0 "Decrease Military Budget:\nTemporarily decreases the military budget by §Y15%§! for §Y120 days§!, with corresponding penalties."
+decrease_military_budget_tt_delayed:0 "[!decrease_military_budget_click]"
+
+increase_civilian_budget_tt:0 "Increase Civilian Budget:\nTemporarily increases the civilian budget by §Y15%§! for §Y120 days§!, with corresponding benefits."
+increase_civilian_budget_tt_delayed:0 "[!increase_civilian_budget_click]"
+
+decrease_civilian_budget_tt:0 "Decrease Civilian Budget:\nTemporarily decreases the civilian budget by §Y15%§! for §Y120 days§!, with corresponding penalties."
+decrease_civilian_budget_tt_delayed:0 "[!decrease_civilian_budget_click]"
+
+dump_liquid_reserves_tt:0 "Use all your liquid reserves to pay off national debt."
+dump_liquid_reserves_tt_delayed:0 "[!dump_liquid_reserves_click]"
+
+invest_liquid_reserves_tt:0 "Invest your liquid reserves to increase GDP."
+invest_liquid_reserves_tt_delayed:0 "[!invest_liquid_reserves_click]"
+
+econ_invest_money_tt:0 "Your liquid reserves will be converted to GDP at a rate of §Y33%§!."
+econ_invest_money_no_money_tt:0 "You need your liquid reserves to be §Yabove 0§! in order to invest any money!"
+econ_dump_reserves_money_tt:0 "This will put §YALL§! your current liquid reserves to paying off national debt. Are you sure of this?"
+econ_dump_reserves_no_debt_tt:0 "...You don't have any debt you need to pay off."
+econ_dump_reserves_no_money_tt:0 "You need your liquid reserves to be §Yabove 0§! in order to use any money!"
+
+econ_wait_for_expiration:0 "\nWait for the current modifier to expire before selecting a new one!"
+econ_positive_budget:0 "\nWe have enough money for minimum payments on our debt (i.e. We have a positive annual budget)"
+econ_default_debt:0 "\n§RWe will default on all our national debt!§!"
+econ_use_liquid_reserves_tt:0 "We will put all our reserves towards paying off our national debt."
+
+econ_debt_rate_generic_increase:0 "\n§RInterest rates on our debt will increase!§!\n"
+econ_debt_rate_10_percent_increase:0 "\n§YInterest rates on our debt will increase by 10%.§!\n"
+econ_debt_rate_20_percent_increase:0 "\n§YInterest rates on our debt will increase by 20%.§!\n"
+econ_debt_rate_30_percent_increase:0 "\n§YInterest rates on our debt will increase by 30%.§!\n"
+econ_debt_rate_40_percent_increase:0 "\n§YInterest rates on our debt will increase by 40%.§!\n"
+econ_debt_rate_50_percent_increase:0 "\n§YInterest rates on our debt will increase by 50%.§!\n"
+econ_debt_rate_60_percent_increase:0 "\n§RInterest rates on our debt will increase by 60%!§!\n"
+econ_debt_rate_70_percent_increase:0 "\n§RInterest rates on our debt will increase by 70%!§!\n"
+econ_debt_rate_80_percent_increase:0 "\n§RInterest rates on our debt will increase by 80%!§!\n"
+econ_debt_rate_90_percent_increase:0 "\n§RInterest rates on our debt will increase by 90%!§!\n"
+econ_debt_rate_100_percent_increase:0 "\n§RInterest rates on our debt will double!§!\n"
+econ_debt_rate_200_percent_increase:0 "\n§RInterest rates on our debt will triple!§!\n"
+econ_debt_rate_generic_decrease:0 "\n§YInterest rates on our debt will be decreased.§!\n"
+
+##USEFUL TOOLTIPS
+
+#maybe make an interest rates tooltip? idk
+
+econ_decrease_GDP_small:0 "\n§YOur §YGDP§! will take a small hit.§!\n"
+econ_decrease_GDP:0 "\n§YOur §YGDP§! will take a serious hit!§!\n"
+econ_decrease_GDP_large:0 "\n§ROur §YGDP§! §Rwill tank!§!\n"
+
+econ_increase_GDP_small:0 "\nOur §YGDP§! will receive a small boost.\n"
+econ_increase_GDP:0 "\nOur §YGDP§! will receive a large boost!\n"
+econ_increase_GDP_large:0 "\n§GOur §YGDP§! §Gwill boom!§!\n"
+
+econ_decrease_GDP_growth_small:0 "\nOur §YGDP Growth§! will §Rdecrease§! a little.\n"
+econ_decrease_GDP_growth:0 "\nOur §YGDP Growth§! will §Rdecrease§!.\n"
+econ_decrease_GDP_growth_large:0 "\nOur §YGDP Growth§! will §Rdecrease§! a lot.\n"
+
+econ_increase_GDP_growth_small:0 "\nOur §YGDP Growth§! will §Gincrease a little.§!\n"
+econ_increase_GDP_growth:0 "\nOur §YGDP Growth§! will §Gincrease.§!\n"
+econ_increase_GDP_growth_large:0 "\nOur §YGDP Growth§! will §Gincrease a lot.§!\n"
+
+econ_increase_money_reserves_small:0 "\n§GA small amount of money will enter our reserves.§!\n"
+econ_increase_money_reserves:0 "\n§GOur reserves will receive an influx of cash.§!\n"
+econ_increase_money_reserves_large:0 "\n§GOur reserves will receive a large influx of cash!§!\n"
+
+econ_decrease_money_reserves_small:0 "\n§RA small amount of money will taken from our reserves.§!\n"
+econ_decrease_money_reserves:0 "\n§ROur reserves will lose some money.§!\n"
+econ_decrease_money_reserves_large:0 "\n§ROur reserves will lose a large amount of money!§!\n"
+
+econ_decrease_debt_small:0 "\n§YOur national debt will decrease a little.§!\n"
+econ_decrease_debt:0 "\n§YOur national debt will decrease.§!\n"
+econ_decrease_debt_large:0 "\n§ROur national debt will decrease sharply.§!\n"
+
+econ_increase_debt_small:0 "\n§YOur national debt will rise a little.§!\n"
+econ_increase_debt:0 "\n§YOur national debt will rise.§!\n"
+econ_increase_debt_large:0 "\n§ROur national debt will rise sharply.§!\n"
+
+econ_misc_expenses_add_small_increase:0 "\n§ROur expenses will rise a little.§!\n"
+econ_misc_expenses_add_medium_increase:0 "\n§ROur expenses will rise.§!\n"
+econ_misc_expenses_add_large_increase:0 "\n§ROur expenses will rise sharply.§!\n"
+
+econ_misc_expenses_add_small_decrease:0 "\n§GOur expenses will decrease a little.§!\n"
+econ_misc_expenses_add_medium_decrease:0 "\n§GOur expenses will decrease.§!\n"
+econ_misc_expenses_add_large_decrease:0 "\n§GOur expenses will decrease sharply.§!\n"
+
+econ_misc_costs_add_1_percent:0 "\n§RWe will have new expenses, costing 1% of our current GDP.§!\n"
+econ_misc_costs_add_2_percent:0 "\n§RWe will have new expenses, costing 2% of our current GDP.§!\n"
+econ_misc_costs_add_3_percent:0 "\n§RWe will have new expenses, costing 3% of our current GDP.§!\n"
+econ_misc_costs_add_4_percent:0 "\n§RWe will have new expenses, costing 4% of our current GDP.§!\n"
+econ_misc_costs_add_5_percent:0 "\n§RWe will have new expenses, costing 5% of our current GDP.§!\n"
+econ_misc_costs_add_6_percent:0 "\n§RWe will have new expenses, costing 6% of our current GDP.§!\n"
+econ_misc_costs_add_7_percent:0 "\n§RWe will have new expenses, costing 7% of our current GDP.§!\n"
+econ_misc_costs_add_8_percent:0 "\n§RWe will have new expenses, costing 8% of our current GDP.§!\n"
+econ_misc_costs_add_9_percent:0 "\n§RWe will have new expenses, costing 9% of our current GDP.§!\n"
+econ_misc_costs_add_10_percent:0 "\n§RWe will have new expenses, costing 10% of our current GDP.§!\n"
+
+econ_misc_income_add_small_increase:0 "\n§GWe will have a small new source of income.§!\n"
+econ_misc_income_add_medium_increase:0 "\n§GWe will have a new source of income.§!\n"
+econ_misc_income_add_large_increase:0 "\n§GWe will have a large new source of income.§!\n"
+
+econ_misc_income_add_small_decrease:0 "\n§RWe will lose a small portion of our income.§!\n"
+econ_misc_income_add_medium_decrease:0 "\n§RWe will lose some of our income.§!\n"
+econ_misc_income_add_large_decrease:0 "\n§RWe will lose a large portion of our income.§!\n"
+
+econ_misc_income_add_1_percent:0 "\n§GWe will have a new source of income, worth 1% of our current GDP.§!\n"
+econ_misc_income_add_2_percent:0 "\n§GWe will have a new source of income, worth 2% of our current GDP.§!\n"
+econ_misc_income_add_3_percent:0 "\n§GWe will have a new source of income, worth 3% of our current GDP.§!\n"
+econ_misc_income_add_4_percent:0 "\n§GWe will have a new source of income, worth 4% of our current GDP.§!\n"
+econ_misc_income_add_5_percent:0 "\n§GWe will have a new source of income, worth 5% of our current GDP.§!\n"
+econ_misc_income_add_6_percent:0 "\n§GWe will have a new source of income, worth 6% of our current GDP.§!\n"
+econ_misc_income_add_7_percent:0 "\n§GWe will have a new source of income, worth 7% of our current GDP.§!\n"
+econ_misc_income_add_8_percent:0 "\n§GWe will have a new source of income, worth 8% of our current GDP.§!\n"
+econ_misc_income_add_9_percent:0 "\n§GWe will have a new source of income, worth 9% of our current GDP.§!\n"
+econ_misc_income_add_10_percent:0 "\n§GWe will have a new source of income, worth 10% of our current GDP.§!\n"
+
+###IDEAS###
+construction_level_not_applicable:0 "Not Applicable"
+construction_level_0:0 "No Construction"
+construction_level_1:0 "10% Utilization"
+construction_level_2:0 "20% Utilization"
+construction_level_3:0 "30% Utilization"
+construction_level_4:0 "40% Utilization"
+construction_level_5:0 "50% Utilization"
+construction_level_6:0 "60% Utilization"
+construction_level_7:0 "70% Utilization"
+construction_level_8:0 "80% Utilization"
+construction_level_9:0 "90% Utilization"
+
+construction_laws:0 "Construction Spending"
+
+military_budget_cuts:0 "Military Austerity"
+military_budget_cuts_heavy:0 "Heavy Military Austerity"
+military_budget_boost:0 "Military Budget Boost"
+civilian_budget_cuts:0 "Civilian Austerity"
+civilian_budget_cuts_heavy:0 "Heavy Civilian Austerity"
+civilian_budget_boost:0 "Civilian Budget Boost"
+
+bankrupt_military:0 "Bankrupt Military"
+bankrupt_civilian:0 "Bankrupt Civilian Programs"
+
+###DECISIONS###
+economy_test_category:0 "Economy Crisis"
+economy_test_category_desc:0 "holy fucking shit nibba we can't pay our debts no more"
+
+economic_crisis:0 "Uncontrollable Debt"
+economic_crisis_desc:0 "so basically we're going to die"
+
+econ_emergency_taxes:0 "Emergency Tax Hike"
+econ_emergency_taxes_desc:0 ""
+econ_emergency_military_austerity:0 "Emergency Military Austerity"
+econ_emergency_military_austerity_desc:0 ""
+econ_emergency_civilian_austerity:0 "Emergency Civilian Austerity"
+econ_emergency_civilian_austerity_desc:0 ""
+econ_use_liquid_reserves:0 "Use Liquid Reserves"
+econ_use_liquid_reserves_desc:0 ""
+
+worsen_army_professionalism_small:0 "Our §YArmy Professionalism§! Societal Development will begin to §Rslowly worsen§!\n"
+worsen_army_professionalism_medium:0 "Our §YArmy Professionalism§! Societal Development will begin to §Rworsen§!\n"

@@ -1,0 +1,48 @@
+﻿l_english:
+
+ #################
+ ##Country Names##
+ #################
+ 
+ INS_communist:0 "Indonesia"
+ INS_communist_DEF:0 "Indonesia"
+ INS_socialist:0 "Indonesia"
+ INS_socialist_DEF:0 "Indonesia"
+ INS_social_democrat:0 "Indonesia"
+ INS_social_democrat_DEF:0 "Indonesia"
+ INS_social_liberal:0 "Indonesia"
+ INS_social_liberal_DEF:0 "Indonesia"
+ INS_market_liberal:0 "Indonesia"
+ INS_market_liberal_DEF:0 "Indonesia"
+ INS_social_conservative:0 "Indonesia"
+ INS_social_conservative_DEF:0 "Indonesia"
+ INS_authoritarian_democrat:0 "Indonesia"
+ INS_authoritarian_democrat_DEF:0 "Indonesia"
+ INS_despotism:0 "Indonesia"
+ INS_despotism_DEF:0 "Indonesia"
+ INS_fascism:0 "Indonesia"
+ INS_fascism_DEF:0 "Indonesia"
+ INS_national_socialism:0 "Indonesia"
+ INS_national_socialism_DEF:0 "Indonesia"
+ INS_ultranational_socialism:0 "Indonesia"
+ INS_ultranational_socialism_DEF:0 "Indonesia"
+ INS_burgundian_system:0 "Indonesia"
+ INS_burgundian_system_DEF:0 "Indonesia"
+ INS_communist_ADJ:0 "Indonesian"
+ INS_socialist_ADJ:0 "Indonesian"
+ INS_social_democrat_ADJ:0 "Indonesian"
+ INS_social_liberal_ADJ:0 "Indonesian"
+ INS_market_liberal_ADJ:0 "Indonesian"
+ INS_social_conservative_ADJ:0 "Indonesian"
+ INS_authoritarian_democrat_ADJ:0 "Indonesian"
+ INS_despotism_ADJ:0 "Indonesian"
+ INS_fascism_ADJ:0 "Indonesian"
+ INS_national_socialism_ADJ:0 "Indonesian"
+ INS_ultranational_socialism_ADJ:0 "Indonesian"
+ INS_burgundian_system_ADJ:0 "Indonesian"
+ 
+ INS_fascism_party:0 "PNI - N"
+ INS_fascism_party_long:0 "Partai Nasional Indonesia - Nasakom"
+
+ POLITICS_SUKARNO_DESC:0 "Sukarno, the hero of Indonesia, is a figure unlike any other in the history of the nation. Like many other lands in Asia conquered by Western imperialism, Indonesia was not one nation but rather many squabbling kingdoms and tribes, divided by language, faith, and geography. Sukarno, however, saw that those divisions were nothing more than surface level, and Indonesia was a single nation united by the one thing that mattered, spirit. When the Japanese came forward with a vision of pan-asianism and liberation from the Western powers, Sukarno saw an opportunity unlike any before to free his country and his people from the Dutch, and he was soon the leading figure in the new Japanese-monitored free Indonesian government. \n\nSukarno is a beloved figure to his people, and not even the most radical Islamist or rebel would claim that Sukarno does not care about those he leads, only that the way he does it is wrong. While Sukarno's regime has been loyal to the Co-Prosperity Sphere for decades, his fierce belief in Indonesian independence and freedom is troubling to the more suspicious in Japan, and it is clear that Sukarno will serve the Sphere only as long as he believes the Sphere serves him and his nation. And no matter how loved a man is, a dictator will always have forces that resist him. Despite Sukarno's vision, Indonesia is still vastly diverse, and some doubt that even Sukarno can hold a country like that in one piece. It's his job to prove them wrong."
+ 

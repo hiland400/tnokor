@@ -1,0 +1,23 @@
+﻿l_english:
+ #ministers
+ #parties
+ FRA_communist_party:0 "Various Movements"
+ FRA_communist_party_long:0 "Various Student Mouvements"
+ FRA_socialist_party:0 "Various Movements"
+ FRA_socialist_party_long:0 "Various Student Mouvements"
+ FRA_social_democrat_party:0 "PSP"
+ FRA_social_democrat_party_long:0 "Parti Social-Pétainiste"
+ FRA_social_liberal_party:0 "UDF"
+ FRA_social_liberal_party_long:0 "Union pour la Démocratie Française"
+ FRA_social_conservative_party:0 "RPN"
+ FRA_social_conservative_party_long:0 "Rassemblement pour la Nation"
+ FRA_authoritarian_democrat_party:0 "PN-CNIP"
+ FRA_authoritarian_democrat_party_long:0 "Parti National - Centre National des Indépendants et Paysans"
+ FRA_despotism_party:0 "AF"
+ FRA_despotism_party_long:0 "Action Française"
+ FRA_fascism_party:0 "PN"
+ FRA_fascism_party_long:0 "Parti National"
+ FRA_national_socialism_party:0 "PPF"
+ FRA_national_socialism_party_long:0 "Parti Populaire Français"
+ FRA_ultranational_socialism_party:0 "MF"
+ FRA_ultranational_socialism_party_long:0 "Mouvement Franciste"

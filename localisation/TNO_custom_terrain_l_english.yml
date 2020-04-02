@@ -1,0 +1,14 @@
+﻿l_english:
+ ### Cities
+ berlin:0 "Germania"
+ berlin_desc:0 "Renamed after Germany's victory, Berlin was completely transformed into the largest city on Earth after the war. The cost was one of many causes of the collapse of the German economy, and construction of the city was never truly finished, much of the city being left to deteriorate."
+ la:0 "Los Angeles"
+ laport:0 "Port of Los Angeles"
+ sanfran:0 "San Francisco"
+ sanfranport:0 "Port of San Francisco"
+ nyc:0 "New York City"
+ rome:0 "Rome"
+ madrid:0 "Madrid"
+ 
+ UNIT_TERRAIN_MODIFIER:0 "Unit effects:"
+ MOVEMENT_COST:0 "Movement cost within this terrain type x$VALUE|H$"

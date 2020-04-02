@@ -1,0 +1,50 @@
+﻿l_english:
+
+
+ #Names
+ ILG_fascism:0 "Territorio Militare Algerino"
+ ILG_fascism_DEF:0 "Territorio Militare Algerino"
+ ILG_social_liberal:0 "Territorio Militare Algerino"
+ ILG_social_liberal_DEF:0 "Il Territorio Militare Algerino"
+ ILG_market_liberal:0 "Territorio Militare Algerino"
+ ILG_market_liberal_DEF:0 "Il Territorio Militare Algerino"
+ ILG_social_conservative:0 "Territorio Militare Algerino"
+ ILG_social_conservative_DEF:0 "Il Territorio Militare Algerino"
+ ILG_authoritarian_democrat:0 "Territorio Militare Algerino"
+ ILG_authoritarian_democrat_DEF:0 "Il Territorio Militare Algerino"
+ ILG_despotism:0 "Territorio Militare Algerino"
+ ILG_communist:0 "Territorio Militare Algerino"
+ ILG_communist_DEF:0 "Il Territorio Militare Algerino"
+ ILG_socialist:0 "Territorio Militare Algerino"
+ ILG_socialist_DEF:0 "Il Territorio Militare Algerino"
+ ILG_national_socialism:0 "Territorio Militare Algerino"
+ ILG_national_socialism_DEF:0 "Territorio Militare Algerino"
+ ILG_ultranational_socialism:0 "Territorio Militare Algerino"
+ ILG_ultranational_socialism_DEF:0 "Territorio Militare Algerino"
+ ILG_fascism_ADJ:0 "Italian Algerians"
+ ILG_social_liberal_ADJ:0 "Italian Algerians"
+ ILG_market_liberal_ADJ:0 "Italian Algerians"
+ ILG_social_conservative_ADJ:0 "Italian Algerians"
+ ILG_authoritarian_democrat_ADJ:0 "Italian Algerians"
+ ILG_communist_ADJ:0 "Italian Algerians"
+ ILG_despotism_ADJ:0 "Italian Algerians"
+ ILG_socialist_ADJ:0 "Italian Algerians"
+ ILG_ultranational_socialism_ADJ:0 "Italian Algerians"
+ ILG_national_socialism_ADJ:0 "Italian Algerians"
+
+ #Parties
+ ILG_authoritarian_democrat_party:0 "PNF-A"
+ ILG_authoritarian_democrat_party_long:0 "Partito Nazionale Fascista - Algeria"
+ ILG_despotism_party:0 "Tribal Rulers"
+ ILG_despotism_party_long:0 "Tribal Rulers"
+ ILG_fascism_party:0 "PNF-A"
+ ILG_fascism_party_long:0 "Partito Nazionale Fascista - Algeria"
+ ILG_national_socialism_party:0 "PNF-A"
+ ILG_national_socialism_party_long:0 "Partito Nazionale Fascista - Algeria"
+
+ ILG_authoritarian_democrat_party_provgov:0 "UDMA"
+ ILG_authoritarian_democrat_party_provgov_long:0 "Union Démocratique du Manifeste Algérien"
+
+ ILG_bandit_situation_addressed:0 "The bandit situation has been addressed..."
+#Leader Description
+POLITICS_GIUSEPPE_CASTELLANO_DESC:0 "General Giuseppe Castellano is perhaps one of the most common topics of gossip among the upper circles of the Regio Esercito. A veteran of two world wars, he served with distinction in the Balkans during the last World War, before rising up the ranks of the Italian high command. Castellano's ambition reached high, but destiny had other plans - a few years after the end of the war, the new Duce, Galeazzo Ciano, entrusted Castellano with watching over the lawless Algerian frontier.\n\nCastellano has been the head of the Algerian Military Territory for a few years now, but his leadership was not very much effective in amending the situation in the region. Italian settlers, mostly from Sicily and often tied to old mafia families, were enticed by Algeria, as the region was perceived to be far from the watching eye of the authorities in Rome. Settlers' enclaves now dot the Algerian landscape, and many rumors circulate about the true extent of Castellano's relationships with the mafia; and the instability is only further fueled by Rome's decision to support native Algerian militias, such as the Front de Libération Nationale, in their armed struggle against encroaching Iberian authorities and their Pied Noirs allies.\n\nThe Governor General, stranded in Algeria and given very little resources to actually do his job, was largely forced to sit and watched as the situation further slipped away from his grasp. However, with renewed tensions arising in the Triumvirate, soon Algeria and Castellano might find themselves in the spotlight once more. Once that happens, perhaps Castellano will have his chance to redeem himself in the eyes of Italy - from a general ruling over a backwater corner of the Empire through shady deals and backroom negotiations, to a hero of the nation who saved its frontiers from the many enemies who would threaten it." 
