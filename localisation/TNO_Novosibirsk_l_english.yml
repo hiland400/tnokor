@@ -1,0 +1,26 @@
+﻿l_english:
+
+ ### Parties ###
+ PAV_communist_party:0 "VKP(b)"
+ PAV_communist_party_long:0 "Vsesoyuznaya Kommunisticheskaya Partiya (Bolshevikov)"
+ PAV_socialist_party:0 "Narodniki"
+ PAV_socialist_party_long:0 "Narodniki"
+ PAV_social_democrat_party:0 "RNP"
+ PAV_social_demorat_party_long:0 "Rossiyskaya Narodnaya Partiya"
+ PAV_social_liberal_party:0 "DPS"
+ PAV_social_liberal_party_long:0 "Demokraticheskaya Partiya Sibiri"
+ PAV_social_conservative_party:0 "RPP"
+ PAV_social_conservative_party_long:0 "Rossiyskaya Promyshlemnaya Partiya"
+ PAV_authoritarian_democrat_party:0 "Novosibirskiye Siloviki"
+ PAV_authoritarian_democrat_party_long:0 "Novosibirskiye Siloviki"
+ PAV_despotism_party:0 "Ryurikovy Loyalisty"
+ PAV_despotism_party_long:0 "Ryurikovy Loyalisty"
+ PAV_fascism_party:0 "RFP"
+ PAV_fascism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ PAV_national_socialism_party:0 "RFP"
+ PAV_national_socialism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ PAV_ultranational_socialism_party:0 "CL"
+ PAV_ultranational_socialism_party_long:0 "Chernaya Liga"
+ 
+ ### Leader Descriptions ###
+ POLITICS_ALEXANDER_POKRYSHKIN_DESC:0 "A legendary ace pilot in the Second World War and a Hero of the Soviet Union, Alexander Ivanovich Pokryshkin would return to his home town of Novosibirsk after the end of the war. Hoping to live a relatively peaceful life, little did he know where fate would lead him.\n\nPokryshkin was content with the rule of the Central Siberian Republic, and eventually found his way into government. Managing the city of Novosibirsk under the Republic was a relatively simple affair. That was, until the Siberian War. Soon, he would be forced to put the entire city on a war footing to face against Yagoda's powerful Supreme Soviet in the east. Rationing was introduced, conscription increased dramatically, and the young men of Novosibirsk were sent to die on the battlefields of Siberia. At one point, Pokryshkin reached his limit. After making a backroom deal with Mayor of Barnaul Vasily Shukshin, the plan was set into motion.\n\nThe two men and their subordinates would seize Novosibirsk swiftly, organizing a new government. A government free from any influence, and truly sovereign amidst the chaos that unfolded in Russia. Now, ruling through an uneasy alliance with Barnaul, Pokryshkin needs to ensure his state remains stable. Even though it boasts a large population, industry and functional agriculture, Novosibirsk still has problems it needs to face, both internal and external, and it is up to Pokryshkin to solve them."

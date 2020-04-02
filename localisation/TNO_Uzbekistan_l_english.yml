@@ -1,0 +1,26 @@
+﻿l_english:
+ ### Parties ###
+ UZB_fascism_party:0 "TMQ"
+ UZB_fascism_party_long:0 "Turkiston Milliy Qo'mitasi"
+ UZB_national_socialism_party:0 ""
+ UZB_national_socialism_party_long:0 ""
+ UZB_ultranational_socialism_party:0 ""
+ UZB_ultranational_socialism_party_long:0 ""
+# KYR_despotism_party:0 "Askerdik Hunta" #duplicate loc key
+# KYR_despotism_party_long:0 "Askerdik Hunta" #duplicate loc key
+ UZB_authoritarian_democrat_party:0 "MBP"
+ UZB_authoritarian_democrat_party_long:0 "Milliy Buyurtmashi Partiyasi"
+ UZB_social_conservative_party:0 "ODP"
+ UZB_social_conservative_party_long:0 "O'zbekiston Demokratik Partiyasi"
+ UZB_social_liberal_party:0 "OTP"
+ UZB_social_liberal_party_long:0 "Ozodlik va Tenglik Partiyasi"
+ UZB_social_democrat_party:0 "UIP"
+ UZB_social_demorat_party_long:0 "Uzbekistan Ischcilar Partiyasi"
+ UZB_socialist_party:0 ""
+ UZB_socialist_party_long:0 ""
+ UZB_communist_party:0 "UKP"
+ UZB_communist_party_long:0 "Uzbek Kommunistik Partiyasi"
+ 
+ ### Leader Bios ###
+ POLITICS_VELI_KAYUM_KHAN_DESC:0 "Veli Kayum-Khan began flirting with anti-communist and nationalist ideology with the rise of the Soviet Union, which he despised. He would move to Germany to study, but he chose to never return to the USSR. Soon, he rose to prominence in the Turkestani émigré movement for his pan-Turkic and anti-Soviet rhetoric and beliefs. When war broke out in Europe, he would attempt to help the Nazis with which his ideology had much in common. To achieve this, he would help found the Turkestan Legion, a unit of the army composed of Turkestani collaborators and prisoners of war. Even though they were considered “inferior races” by the Nazis, this attitude would quickly change as they wished to exploit the anti-Soviet sentiment of the Turkic peoples of Central Asia during Operation Barbarossa. The Legion would play a minor role in the swift conquest of Bukharin's Soviet Union.\n\nWith the end of the war, the country that had oppressed Kayum-Khan's ethnic group for so long completely collapsed, and Uzbekistan finally had a chance to become free. He would quickly go back to his homeland, and help it achieve independence. This effort succeeded, and he would become the nation's leader, steering it towards a fascist autocracy. He believes in Pan-Turanism, and his ultimate goal is to unite all peoples in Central Asia. Of course, the first step to do that is to defeat the treasonous Karakalpaks who have seceded from the country.\n\nEven though he rules with an iron fist, Kayum-Khan still faces a strong opposition. Many are not loyal to his fascist government, with some even harbouring communist sympathies. If he is to maintain his power as the leader of Uzbekistan, all who do not have faith in his doctrine will need to be dealt with."
+ 

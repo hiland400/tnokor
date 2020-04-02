@@ -1,0 +1,175 @@
+﻿#NOTE - This file is for generic equipment loc. Use TNO_equip_air_l_english for country specific stuff.
+
+l_english:
+# jet_fighter_equipment:0 "Jet Fighters" #duplicate loc key
+# cv_jet_fighter_equipment:0 "Carrier Jet Fighter" #duplicate loc key
+# jet_CAS:0 "Jet CAS" #duplicate loc key
+# cv_jet_CAS:0 "Carrier Jet CAS" #duplicate loc key
+# interceptor:0 "Interceptors" #duplicate loc key
+ jet_fighter:0 "Jet Fighter"
+ mca:0 "Multi-Role Combat Aircraft"
+ jet_interceptor:0 "Jet Interceptor"
+ jet_strat_bomber:0 "Jet Strategic Bomber"
+
+##Helicopters
+ transport_helicopter_equipment_1:0 "Transport Heli I"
+ transport_helicopter_equipment_1_short:0 "Transport Heli I"
+ transport_helicopter_equipment_2:0 "Transport Heli II"
+ transport_helicopter_equipment_2_short:0 "Transport Heli II"
+ transport_helicopter_equipment_3:0 "Transport Heli III"
+ transport_helicopter_equipment_3_short:0 "Transport Heli III"
+ transport_helicopter_equipment_4:0 "Transport Heli IV"
+ transport_helicopter_equipment_4_short:0 "Transport Heli IV"
+ 
+ attack_helicopter_equipment_1:0 "Attack Heli I"
+ attack_helicopter_equipment_1_short:0 "Attack Heli I"
+ attack_helicopter_equipment_2:0 "Attack Heli II"
+ attack_helicopter_equipment_2_short:0 "Attack Heli II"
+ attack_helicopter_equipment_3:0 "Attack Heli III"
+ attack_helicopter_equipment_3_short:0 "Attack Heli III"
+ attack_helicopter_equipment_4:0 "Attack Heli IV"
+ attack_helicopter_equipment_4_short:0 "Attack Heli IV"
+ 
+ asw_helicopter_equipment_1:0 "Anti-Sub Heli I"
+ asw_helicopter_equipment_1_short:0 "Anti-Sub Heli I"
+ asw_helicopter_equipment_2:0 "Anti-Sub Heli II"
+ asw_helicopter_equipment_2_short:0 "Anti-Sub Heli II"
+ asw_helicopter_equipment_3:0 "Anti-Sub Heli III"
+ asw_helicopter_equipment_3_short:0 "Anti-Sub Heli III"
+ asw_helicopter_equipment_4:0 "Anti-Sub Heli IV"
+ asw_helicopter_equipment_4_short:0 "Anti-Sub Heli IV"
+ 
+ scout_helicopter_equipment_1:0 "Scout Heli I"
+ scout_helicopter_equipment_1_short:0 "Scout Heli I"
+ scout_helicopter_equipment_2:0 "Scout Heli II"
+ scout_helicopter_equipment_2_short:0 "Scout Heli II"
+ scout_helicopter_equipment_3:0 "Scout Heli III"
+ scout_helicopter_equipment_3_short:0 "Scout Heli III"
+ scout_helicopter_equipment_4:0 "Scout Heli IV"
+ scout_helicopter_equipment_4_short:0 "Scout Heli IV"
+ 
+ helicopter_equipment_0:0 "Experimental Helicopter"
+ helicopter_equipment_0_short:0 "Experimental Helicopter"
+ helicopter_equipment_1:0 "Early Helicopter"
+ helicopter_equipment_1_short:0 "Early Helicopter"
+ 
+ ##Light Aircraft
+ mca_equipment_1:0 "MCA I" #1980
+ mca_equipment_1_short:0 "MCA I"
+ cv_mca_equipment_1:0 "MCA I CV"
+ cv_mca_equipment_1_short:0 "MCA I CV"
+ mca_equipment_2:0 "MCA II" #1990
+ mca_equipment_2_short:0 "MCA II"
+ cv_mca_equipment_2:0 "MCA II CV"
+ cv_mca_equipment_2_short:0 "MCA II CV"
+ 
+ CAS_equipment_1:0 "WWII CAS" #1945
+ CAS_equipment_1_short:0 "World War II CAS"
+ cv_CAS_equipment_1:0 "WWII CAS CV"
+ cv_CAS_equipment_1_short:0 "World War II CAS CV"
+ jet_CAS_equipment_1:0 "CAS I" #1950
+ jet_CAS_equipment_1_short:0 "CAS I"
+ cv_jet_CAS_equipment_1:0 "CAS I CV"
+ cv_jet_CAS_equipment_1_short:0 "CAS I CV"
+ jet_CAS_equipment_2:0 "CAS II" #1960
+ jet_CAS_equipment_2_short:0 "CAS II"
+ cv_jet_CAS_equipment_2:0 "CAS II CV"
+ cv_jet_CAS_equipment_2_short:0 "CAS II CV"
+ jet_CAS_equipment_3:0 "CAS III" #1970
+ jet_CAS_equipment_3_short:0 "CAS III"
+ cv_jet_CAS_equipment_3:0 "CAS III CV"
+ cv_jet_CAS_equipment_3_short:0 "CAS III CV"
+
+ fighter_equipment_0:0 "Pre-War Fighter" #1936
+ fighter_equipment_0_short:0 "Pre-War Fighter"
+ cv_fighter_equipment_0:0 "Pre-War Fighter CV"
+ cv_fighter_equipment_0_short:0 "Pre-War Fighter CV"
+ fighter_equipment_1:0 "WWII Fighter" #1945
+ fighter_equipment_1_short:0 "World War II Fighter"
+ cv_fighter_equipment_1:0 "WWII Fighter CV"
+ cv_fighter_equipment_1_short:0 "World War II Fighter CV"
+ jet_fighter_equipment_1:0 "Fighter I" #1950
+ jet_fighter_equipment_1_short:0 "Fighter I"
+ cv_jet_fighter_equipment_1:0 "Fighter I CV"
+ cv_jet_fighter_equipment_1_short:0 "Fighter I CV"
+ jet_fighter_equipment_2:0 "Fighter II" #1960
+ jet_fighter_equipment_2_short:0 "Fighter II"
+ cv_jet_fighter_equipment_2:0 "Fighter II CV"
+ cv_jet_fighter_equipment_2_short:0 "Fighter II CV"
+ jet_fighter_equipment_3:0 "Fighter III" #1970
+ jet_fighter_equipment_3_short:0 "Fighter III"
+ cv_jet_fighter_equipment_3:0 "Fighter III CV"
+ cv_jet_fighter_equipment_3_short:0 "Fighter III CV"
+ 
+ light_stealth_equipment_1:0 "Stealth Fighter"
+ light_stealth_equipment_1_short:0 "Stealth Fighter"
+ light_stealth_equipment_2:0 "Advanced Stealth Fighter"
+ light_stealth_equipment_2_short:0 "Advanced Stealth Fighter"
+ 
+ interceptor_equipment_1:0 "WWII Interceptor"
+ interceptor_equipment_1_short:0 "World War II Interceptor"
+ jet_interceptor_equipment_1:0 "Interceptor I"
+ jet_interceptor_equipment_1_short:0 "Interceptor I"
+ jet_interceptor_equipment_2:0 "Interceptor II"
+ jet_interceptor_equipment_2_short:0 "Interceptor II"
+ jet_interceptor_equipment_3:0 "Interceptor III"
+ jet_interceptor_equipment_3_short:0 "Interceptor III"
+ jet_interceptor_equipment_4:0 "Interceptor IV"
+ jet_interceptor_equipment_4_short:0 "Interceptor IV"
+ jet_interceptor_equipment_5:0 "Interceptor V"
+ jet_interceptor_equipment_5_short:0 "Interceptor V"
+ 
+ strat_bomber_equipment_0:0 "Pre-War Strat"
+ strat_bomber_equipment_0_short:0 "Pre-War Strategic Bomber"
+ strat_bomber_equipment_1:0 "WWII Strat"
+ strat_bomber_equipment_1_short:0 "World War II Strategic Bomber"
+ jet_strat_bomber_equipment_1:0 "Strat I"
+ jet_strat_bomber_equipment_1_short:0 "Strategic Bomber I"
+ jet_strat_bomber_equipment_2:0 "Strat II"
+ jet_strat_bomber_equipment_2_short:0 "Strategic Bomber II"
+ jet_strat_bomber_equipment_3:0 "Strat III"
+ jet_strat_bomber_equipment_3_short:0 "Strategic Bomber III"
+ jet_strat_bomber_equipment_4:0 "Strat IV"
+ jet_strat_bomber_equipment_4_short:0 "Strategic Bomber IV"
+ jet_strat_bomber_equipment_5:0 "Strat V"
+ jet_strat_bomber_equipment_5_short:0 "Strategic Bomber V"
+ 
+ strat_stealth_equipment_1:0 "Stealth STRAT"
+ strat_stealth_equipment_1_short:0 "Strategic Stealth Bomber"
+ strat_stealth_equipment_2:0 "Advanced Stealth STRAT"
+ strat_stealth_equipment_2_short:0 "Advanced Strategic Stealth Bomber"
+ 
+ tac_bomber_equipment_0:0 "Pre-War TAC"
+ tac_bomber_equipment_0_short:0 "Pre-War Tactical Bomber"
+ tac_bomber_equipment_1:0 "WWII TAC"
+ tac_bomber_equipment_1_short:0 "World War II Tactical Bomber"
+ jet_tac_bomber_equipment_1:0 "TAC I"
+ jet_tac_bomber_equipment_1_short:0 "Tactical Bomber I"
+ jet_tac_bomber_equipment_2:0 "TAC II"
+ jet_tac_bomber_equipment_2_short:0 "Tactical Bomber II"
+ jet_tac_bomber_equipment_3:0 "TAC III"
+ jet_tac_bomber_equipment_3_short:0 "Tactical Bomber III"
+ jet_tac_bomber_equipment_4:0 "TAC IV"
+ jet_tac_bomber_equipment_4_short:0 "Tactical Bomber IV"
+ jet_tac_bomber_equipment_5:0 "TAC V"
+ jet_tac_bomber_equipment_5_short:0 "Tactical Bomber V"
+ 
+ tac_stealth_equipment_1:0 "Stealth TAC"
+ tac_stealth_equipment_1_short:0 "Tactical Stealth Bomber"
+ tac_stealth_equipment_2:0 "Advanced Stealth TAC"
+ tac_stealth_equipment_2_short:0 "Advanced Tactical Stealth Bomber"
+ 
+ transport_plane_equipment_1:0 "Pre-War Transport"
+ transport_plane_equipment_1_short:0 "Pre-War Transport"
+ transport_plane_equipment_2:0 "WWII Transport"
+ transport_plane_equipment_2_short:0 "World War II Transport"
+ transport_plane_equipment_3:0 "Transport I"
+ transport_plane_equipment_3_short:0 "Transport I"
+ transport_plane_equipment_4:0 "Transport II"
+ transport_plane_equipment_4_short:0 "Transport II"
+ transport_plane_equipment_5:0 "Transport III"
+ transport_plane_equipment_5_short:0 "Transport III"
+ transport_plane_equipment_6:0 "Transport IV"
+ transport_plane_equipment_6_short:0 "Transport IV"
+ transport_plane_equipment_7:0 "Transport V"
+ transport_plane_equipment_7_short:0 "Transport V"

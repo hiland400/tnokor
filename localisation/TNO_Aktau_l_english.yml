@@ -1,0 +1,25 @@
+﻿l_english:
+ ### Parties ###
+ AKT_communist_party:0 "Qızıl Äskeri"
+ AKT_communist_party_long:0 "Qızıl Äskeri"
+ AKT_socialist_party:0 "QKP"
+ AKT_socialist_party_long:0 "Qazaqstan Kommýnıstik Partııasy"
+ AKT_social_democrat_party:0 "QEP"
+ AKT_social_democrat_party_long:0 "Qazaqstarlia Enbek Partiyasi"
+ AKT_social_liberal_party:0 "DFP"
+ AKT_social_liberal_party_long:0 "Demokoratiyalia Fermerler Partiyasi"
+ AKT_social_conservative_party:0 "QUDP"
+ AKT_social_conservative_party_long:0 "Qazaq Ultiq-Demokratiyalia Partiyasi"
+ AKT_authoritarian_democrat_party:0 "QUDP"
+ AKT_authoritarian_democrat_party_long:0 "Qazaq Ultiq-Demokratiyalia Partiyasi - Avtoritarliq"
+ AKT_despotism_party:0 "UJP"
+ AKT_despotism_party_long:0 "Ultiq Janartu Partiyasi"
+ AKT_fascism_party:0 "ISB"
+ AKT_fascism_party_long:0 "Islam Sindiq Brigadasi"
+ AKT_national_socialism_party:0 "QTP"
+ AKT_national_socialism_party_long:0 "Qazaq Tami Partiyasi"
+ AKT_ultranational_socialism_party:0 "QTP"
+ AKT_ultranational_socialism_party_long:0 "Qazaq Tami Partiyasi - Ekstremistik"
+ 
+ ### Leader Bios ###
+ POLITICS_SAFA_AKTAU_DESC:0 "No one knows where Safa Gaziz, one of the most damned figures in Kazakhstan, came from. As if from a void, Gaziz started to appear in the years after the Soviet collapse in various parts of Kazakhstan, causing massive problems for local governments and recruiting the disadvantaged and impoverished, as well as the most hateful and "pure" Kazakhs, into his nationalist and malevolent cause. Facing expulsion in almost every land of Central Asia, Gaziz and his loyal militants found their new base in a desolate and abandoned area of Aktau, from where they started to plot their crusade against anything they deem to be "Russophilic" and "anti-Kazakh."\n\nReigning from Aktau as the self-proclaimed "Joğarğı Köşbasşı", the Supreme Leader of Kazakhstan, Gaziz wants to accomplish what the legendary conqueror from the west, Adolf Hitler, accomplished for his nation: unification of the Kazakh race under his sole leadership and security against the Slavic threat that brought so much suffering upon the world. In Gaziz's mind, the Kazakh nation had allowed itself to be weak and submissive to Russian invaders for too long, and the only way to salvation remains is to follow the will of its hero and savior - himself. Should it fail him and stray from the path pawned by the Supreme Leader, the Kazakh nation will doom itself to decadence and eventual extinction, facing re-assimilation by the Russian horde."

@@ -1,0 +1,13 @@
+﻿l_english:
+ #######################
+ ##Leader Descriptions##
+ #######################
+ POLITICS_KANWAL_SINGH_DESC:0 "General Kanwal Singh was a hero when it all started. Throwing himself into the line of fire, he was glad to be among the first recipients of the Sher-e-Hind, the most honourable military declaration. However, when the War of Independence against Britain ended, and it became a war against the INA's milquetoast brothers, Kanwal Singh found new opportunity. Seizing the small mountain nation of Bhutan, a British protectorate which had been split from India in 1910, he was given a promotion to General of the Indian National Army in Bhutan. However, when the war ended, Singh was assigned a new job in the army: to keep Bhutan under India's thumb. As time has gone on, General Singh has grown more and more reclusive, as threats by Bhutanese partisans increase.\n\nAlongside this, he has grown more paranoid of his cabinet and military over time, not helped by the ethnically-Bengali generals in exile in the contingent. They could be trying to wrestle control from him and take power to merely benefit themselves, or worse, be spies that support the exiled Druk Gyalpo's resistance! In Singh's eyes, everyone is out to get him, and he is the only one who can bring Bhutan to accept India's motherly love. However, only time can tell if it will be he who brings Bhutan to the fold, or if the Dragon of the Himalayas shall roar again."
+ 
+ ###########
+ ##Parties##
+ ###########
+ BHU_authoritarian_democrat_party:0 "Bhotamuzh - PSMD"
+ BHU_authoritarian_democrat_party_long:0 "Bhotani Muzhamat - Patan-Srung Mak-De"
+ BHU_despotism_party:0 "AHF - MAB"
+ BHU_despotism_party_long:0 "Azad Hind Fauj - Fauj Intizamia Bhotan"

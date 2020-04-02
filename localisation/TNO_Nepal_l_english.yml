@@ -1,0 +1,61 @@
+﻿l_english:
+ NEP_communist:0 "Nepal"
+ NEP_communist_DEF:0 "Nepal"
+ NEP_socialist:0 "Nepal"
+ NEP_socialist_DEF:0 "Nepal"
+ NEP_social_democrat:0 "Nepal"
+ NEP_social_democrat_DEF:0 "Nepal"
+ NEP_social_liberal:0 "Nepal"
+ NEP_social_liberal_DEF:0 "Nepal"
+ NEP_market_liberal:0 "Nepal"
+ NEP_market_liberal_DEF:0 "Nepal"
+ NEP_social_conservative:0 "Nepal"
+ NEP_social_conservative_DEF:0 "Nepal"
+ NEP_authoritarian_democrat:0 "Nepal"
+ NEP_authoritarian_democrat_DEF:0 "Nepal"
+ NEP_despotism:0 "Nepal"
+ NEP_despotism_DEF:0 "Nepal"
+ NEP_fascism:0 "Nepal"
+ NEP_fascism_DEF:0 "Nepal"
+ NEP_national_socialism:0 "Nepal"
+ NEP_national_socialism_DEF:0 "Nepal"
+ NEP_ultranational_socialism:0 "Nepal"
+ NEP_ultranational_socialism_DEF:0 "Nepal"
+ NEP_burgundian_system:0 "Nepal"
+ NEP_burgundian_system_DEF:0 "Nepal"
+ 
+ ##############
+ ##Adjectives##
+ ##############
+ 
+ NEP_communist_ADJ:0 "Nepalese"
+ NEP_socialist_ADJ:0 "Nepalese"
+ NEP_social_democrat_ADJ:0 "Nepalese"
+ NEP_social_liberal_ADJ:0 "Nepalese"
+ NEP_market_liberal_ADJ:0 "Nepalese"
+ NEP_social_conservative_ADJ:0 "Nepalese"
+ NEP_authoritarian_democrat_ADJ:0 "Nepalese"
+ NEP_despotism_ADJ:0 "Nepalese"
+ NEP_fascism_ADJ:0 "Nepalese"
+ NEP_national_socialism_ADJ:0 "Nepalese"
+ NEP_ultranational_socialism_ADJ:0 "Nepalese"
+ NEP_burgundian_system_ADJ:0 "Nepalese"
+ 
+ ###########
+ ##Parties##
+ ###########
+ NEP_communist_party:0 "NKP"
+ NEP_communist_party_long:0 "Nēpāla Kamyunista Pārtī"
+ NEP_social_democrat_party:0 "NK"
+ NEP_social_democrat_party_long:0 "Nēpālī Kāngrēsa"
+ NEP_social_liberal_party:0 "NPP"
+ NEP_social_liberal_party_long:0 "Nepal Praja Parishad"
+ NEP_authoritarian_democrat_party:0 "GP"
+ NEP_authoritarian_democrat_party_long:0 "Gorkha Parishad"
+ NEP_despotism_party:0 "Guided Democracy"
+ 
+ #######################
+ ##Leader Descriptions##
+ #######################
+ POLITICS_MAHENDRA_BIR_BIKRAM_SHAH_DEV_DESC:0 "The great Sovereign King of Nepal, Mahendra Bir Bikram Shah Dev, had not always enjoyed absolute power over his subjects. Once, Bikram was just another member of the royal family, subject to the numerous boring duties a monarch bound by a constitutional and representative government. The Rana Dynasty, the conservative family which gave the nation its Prime Ministers since 1846, ensured that the country was ruled with an iron fist, and everyone obeyed the family, even the monarchy. Then, when India became a republic and revolts spread across Nepal, forcing the Rana family to concede power to the monarchy, Bikram saw his chance.\n\nFour years after being crowned King, on a cold morning in December, Prime Minister Bishweshwar Koirala and the parliament he lead was dismissed. The cabinet was kicked out the door, and then the constitution was suspended. Now, with the nation at his command, a new system was in place. A perfected, “guided” democracy, that answered directly to him, and no one else. Surely, the Emperor has no equal; is it not his responsibility to direct the nation correctly?\n\nHe has been able to keep his country together; a combination of successful land reforms and a neutral policy has kept his kingdom from falling apart. But one has to wonder how long will this guided democracy last. Both Japan and India are looking to take the territory for themselves, and the Nepali Congress is promoting non-violent resistance against Bikram and his system. It will be interesting seeing how long this perfect system lasts, and whether it ends loudly or quietly."
+ 

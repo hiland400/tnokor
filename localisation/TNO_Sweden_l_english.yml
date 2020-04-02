@@ -1,0 +1,29 @@
+﻿l_english:
+
+#Leader Descriptions:
+POLITICS_OLOF_PALME_DESC:0 "A champion of the Swedish labor in his adult years, Olof Palme could not boast about coming from a humble background, being born into a well-to-do Conservative Lutheran family in Stockholm. A sickly child with much time to read books, he learned the English, French and German languages at a young age, something would benefit him greatly later in life. During the Second World War, Palme briefly served the Swedish army and experienced the worst of the nation's fear of a German invasion. Palme would go the United States to continue his education and it was here that he began to formulate his political ideas. Meetings with the National Progressive Front introduced him to the issues of racism and class struggle, while a brief journey to Asia showed him the horrors of the Japanese imperialism. Returning to Sweden in the late 50s, Palme was ready to enter Swedish politics. The 1958 election saw him enter the first chamber of parliament and his service in various government agencies made him even more popular as a semi-radical and progressive figure. Within two years he was made Deputy Prime Minister and in late 1961, Tage Erlander retired in favor of his protegé.\n\nAlthough he has not served long as Prime Minister, Olof Palme has quickly made quite the impression. His skills as an orator proved vital when the public first reacted to such a young man becoming their next Head of Government. The visits of Prime Minister to certain diplomatically isolated countries proved to very contentious by the Swedish concerned population and the world community alike, especially his visit to Communist Cuba. The Prime Minister did not hesitate to make some subtle jabs at the dictatorships that dominate Europe, while simultaneously upholding a cautious appeasement policy. 1962 begins and Olof Palme now starts his tenure in earnest. His policies are often criticized  as controversial and sometimes even unpopular, but no one can claim that he hasn't taken to his new role well."
+
+#Party Names
+SWE_communist_party:0 "VPK"
+SWE_ultranational_socialism_party:0 "NRP"
+SWE_socialist_party:0 "SP"
+SWE_social_democrat_party:0 "SAP"
+SWE_social_liberal_party:0 "FP"
+SWE_market_liberal_party:0 "M"
+SWE_social_conservative_party:0 "KD"
+SWE_authoritarian_democrat_party:0 "C"
+SWE_despotism_party:0 "Bernadotte"
+SWE_national_socialism_party:0 "SSS"
+SWE_fascist_party:0 "NSR"
+
+SWE_socialist_party_long:0 "Socialistiska Partiet"
+SWE_ultranational_socialism_party_long:0 "Nordiska Rikspartiet"
+SWE_social_democrat_party_long:0 "Sveriges socialdemokratiska arbetareparti"
+SWE_social_liberal_party_long:0 "Folkpartiet"
+SWE_market_liberal_party_long:0 "Moderaterna"
+SWE_social_conservative_party_long:0 "Kristdemokraterna"
+SWE_authoritarian_democrat_party_long:0 "Centerpartiet"
+SWE_despotism_party_long:0 "Bernadotte"
+SWE_national_socialism_party_long:0 "Svensk Socialistisk Samling"
+SWE_fascist_party_long:0 "Nysvenska Rörelsen"
+SWE_communist_party_long:0 "Vänsterpartiet Kommunisterna" 

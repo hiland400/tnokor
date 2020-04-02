@@ -1,0 +1,30 @@
+﻿l_english:
+ ### Regional Stage ###
+ #South Urals
+ BAS_regional_unifier_despotism:0 "The Southern Ural Autonomous Oblast"
+ BAS_regional_unifier_despotism_DEF:0 "The Southern Ural Autonomous Oblast"
+ BAS_regional_unifier_despotism_ADJ:0 "Magnitogorsk"
+ BAS_NKVD_regional_unifier_despotism:0 "District of Magnitogorsk"
+ BAS_NKVD_regional_unifier_despotism_DEF:0 "The District of Magnitogorsk"
+ BAS_NKVD_regional_unifier_despotism_ADJ:0 "Magnitogorsk"
+ 
+ ORE_regional_unifier_socialist:0 "United Communes of Orenburg and the Southern Urals"
+ ORE_regional_unifier_socialist_DEF:0 "The United Communes of Orenburg and the Southern Urals"
+ ORE_regional_unifier_socialist_ADJ:0 "South Ural"
+ ORE_regional_unifier_communist:0 "Orenburg Autonomous Soviet Socialist Republic"
+ ORE_regional_unifier_communist_DEF:0 "The Orenburg Autonomous Soviet Socialist Republic"
+ ORE_regional_unifier_communist_ADJ:0 "Orenburg"
+ ORE_regional_unifier_authoritarian_democrat:0 "Republic of Orenburg"
+ ORE_regional_unifier_authoritarian_democrat_DEF:0 "The Republic of Orenburg"
+ ORE_regional_unifier_authoritarian_democrat_ADJ:0 "Orenburg"
+ 
+ DIR_BEST_national_socialism:0 "Dirlewanger's Realm"
+ DIR_BEST_national_socialism_ADJ:0 "Dirlewanger"
+ DIR_BEST_national_socialism_DEF:0 "Dirlewanger's Realm"
+
+ ORS_DED:0 "Orsk"
+ ORS_DED_ADJ:0 "Orsk"
+ ORS_DED_DEF:0 "Orsk"
+ 
+ URL_regional_unifier_authoritarian_democrat:0 "United Ural Defense League"
+ URL_regional_unifier_authoritarian_democrat_DEF:0 "United Ural Defense League"

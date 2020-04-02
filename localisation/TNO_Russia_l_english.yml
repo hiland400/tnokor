@@ -1,0 +1,250 @@
+﻿l_english:
+### Opinion Modifiers ###
+ raided_us_modifier:0 "Filthy Raiders"
+ RUS_trade:0 "Russian Trade"
+ RUS_recognition:0 "Russian Recognition"
+ RUS_urals_partitioned:0 "Partition Partners"
+ RUS_urals_seized:0 "Took the Urals"
+ 
+### Country Tags ###
+ russia_raid_succeeded:0 "Successful Raid"
+ russia_raid_failed:0 "Failed Raid"
+ using_loot:0 "Currently using loot"
+
+#Scripted Loc Workaround
+ region_name_WRS:0 "[WRS.GetName]"
+ region_name_KIR:0 "[KIR.GetName]"
+ region_name_SAM:0 "[SAM.GetName]"
+ region_name_NIK:0 "[NIK.GetName]"
+ region_name_PRM:0 "[PRM.GetName]"
+ region_name_ISH:0 "[ISH.GetName]"
+ region_name_TOB:0 "[TOB.GetName]"
+ region_name_OMS:0 "[OMS.GetName]"
+ region_name_PAV:0 "[PAV.GetName]"
+ region_name_ERS:0 "[ERS.GetName]"
+ region_name_KEM:0 "[KEM.GetName]"
+ region_name_SAH:0 "[SAH.GetName]"
+ region_name_KHA:0 "[KHA.GetName]"
+ region_name_BRY:0 "[BRY.GetName]"
+ region_name_IRK:0 "[IRK.GetName]"
+ region_name_WCH:0 "[WCH.GetName]"
+ region_name_AMR:0 "[AMR.GetName]"
+ region_name_MAG:0 "[MAG.GetName]"
+ region_name_OMO:0 "[OMO.GetName]"
+ 
+### Decision Categories ###
+ #Raiding
+ russian_raiding_category:0 "Raiding and Loot"
+ russian_raiding_category_desc:0 "Raiding is sadly a part of daily life in Russia, and as much as we hate to admit it, it's one of our few means of survival. As such we must be ready to organize raids into neighboring territories to gather food, equipment and resources.\n\nWe currently have £loot_icon  [?loot_amount|Y0] loot."
+
+ russia_prepare_raid:0 "Prepare Raid Against [FROM.GetNameDef]"
+ russia_prepare_raid_desc:0 "They have £loot_icon  [?FROM.loot_amount|Y0] loot"
+ russia_initiate_raid:0 "Initiate Raid Against [FROM.GetNameDef]"
+ russia_initiate_raid_desc:0 "They have £loot_icon  [?FROM.loot_amount|Y0] loot"
+ russia_raid_in_progress:0 "Raid In-Progress Against [FROM.GetNameDef]"
+ russia_raid_in_progress_desc:0 "They have £loot_icon  [?FROM.loot_amount|Y0] loot"
+ russia_scavenge_for_loot:0 "Scavenge for §YLoot§!"
+ 
+ russia_spend_raid_loot_academic_base:0 "Build §YNew Schools§!"
+ russia_spend_raid_loot_research_facilities:0 "Build §YNew Research Facilities§!"
+ russia_spend_raid_loot_industrial_equipment:0 "Import §YNew Industrial Equipment§!"
+ russia_spend_raid_loot_industrial_expertise:0 "Train §YNew Workers§!"
+ russia_spend_raid_loot_agriculture:0 "Fund §YNew Agricultural Methods§!"
+
+ #Coring
+ RUS_coring_category:0 "Regional Integration"
+ RUS_coring_category_desc:0 "While all of Russia shares a common identity, years of warlordism and the abundance of states claiming legitimacy to Russia has lead to an environment in which newly acquired territories can not necessarily be considered loyal. Integration of these new territories into our statelet, via coercive means or otherwise, is critical to building a cohesive administration, and acquiring a true foothold over Russia once more."
+ RUS_integrate_state_decision:0 "Integrate §Y[THIS.GetName]§!"
+ coring_rus_map_category_name:0 "Integrate §YAcquired Territories§!"
+ RUS_coring_integrate_arkhangelsk:0 "Integrate §YArkhangelsk§!"
+ RUS_coring_integrate_plesetsk:0 "Integrate §YPlesetsk§!"
+ RUS_coring_integrate_ukhta:0 "Integrate §YUkhta§!"
+ RUS_coring_integrate_vologda:0 "Integrate §YVologda§!"
+ RUS_coring_integrate_komi:0 "Integrate §YKomi§!"
+ RUS_coring_integrate_gayny:0 "Integrate §YGayny§!"
+ RUS_coring_integrate_brznk:0 "Integrate §YBerezniki§!"
+ RUS_coring_integrate_perm:0 "Integrate §YPerm§!"
+ RUS_coring_integrate_vyatka:0 "Integrate §YVyatka§!"
+ RUS_coring_integrate_tatarstan:0 "Integrate §YTatarstan§!"
+ RUS_coring_integrate_gorky:0 "Integrate §YGorky§!"
+ RUS_coring_integrate_bashkiria:0 "Integrate §YBashkiria§!"
+ RUS_coring_integrate_samara:0 "Integrate §YSamara§!"
+ RUS_coring_integrate_karelia:0 "Integrate §YKarelia§!"
+ RUS_coring_integrate_kola:0 "Integrate §YKola§!"
+ RUS_coring_integrate_onega:0 "Integrate §YOnega§!"
+ RUS_coring_integrate_orenburg:0 "Integrate §YOrenburg§!"
+ RUS_coring_integrate_ust_katav:0 "Integrate §YUst-Katav§!"
+ RUS_coring_integrate_magnitogorsk:0 "Integrate §YMagnitogorsk§!"
+ RUS_coring_integrate_orsk:0 "Integrate §YOrsk§!"
+ RUS_coring_integrate_vorkuta:0 "Integrate §YVorkuta§!"
+ RUS_coring_integrate_surgut:0 "Integrate §YSurgut§!"
+ RUS_coring_integrate_yugra:0 "Integrate §YYugra§!"
+ RUS_coring_integrate_sverdlovsk:0 "Integrate §YSverdlovsk§!"
+ RUS_coring_integrate_zlatoust:0 "Integrate §YZlatoust§!"
+ RUS_coring_integrate_tyumen:0 "Integrate §YTyumen§!"
+ RUS_coring_integrate_omsk:0 "Integrate §YOmsk§!"
+ RUS_coring_integrate_tomsk:0 "Integrate §YTomsk§!"
+ RUS_coring_integrate_novosibirsk:0 "Integrate §YNovosibirsk§!"
+ RUS_coring_integrate_kemerovo:0 "Integrate §YKemerovo§!"
+ RUS_coring_integrate_oyrotia:0 "Integrate §YOyrotia§!"
+ RUS_coring_integrate_krasnoyarsk:0 "Integrate §YKrasnoyarsk§!"
+ RUS_coring_integrate_kansk:0 "Integrate §YKansk§!"
+ RUS_coring_integrate_tuva:0 "Integrate §YTuva§!"
+ RUS_coring_integrate_irkutsk:0 "Integrate §YIrkutsk§!"
+ RUS_coring_integrate_buryatia:0 "Integrate §YBuryatia§!"
+ RUS_coring_integrate_aldan:0 "Integrate §YAldan§!"
+ RUS_coring_integrate_yakutia:0 "Integrate §YYakutia§!"
+ RUS_coring_integrate_chita:0 "Integrate §YChita§!"
+ RUS_coring_integrate_amur:0 "Integrate §YAmur§!"
+ RUS_coring_integrate_magadan:0 "Integrate §YMagadan§!"
+ RUS_coring_integrate_northern_siberia:0 "Integrate §YNorthern Siberia§!"
+ RUS_coring_integrate_chukotka:0 "Integrate §YChukotka§!"
+ RUS_coring_integrate_kamchatka:0 "Integrate §YKamchatka§!"
+
+ #Warlord Development decisions
+ warlord_development_decision_category:0 "Warlord Development"
+ warlord_development_decision_category_desc:0 "In the harsh lands of Russia, many of the warlord states that exist on the steppes have to resort to... alternate means of developing their statelets.\n\nThrough methods that wouldn't work in more formal, civilized states, the warlord states must wield political clout in the correct manner, to ensure that their small realms are capable of defeating their foes in the future."
+ 
+ warlord_development_war_planning:0 "War Planning"
+ warlord_development_foreign_investments:0 "External Investments"
+ warlord_development_invest_in_infrastructure:0 "Invest in Infrastructure"
+ warlord_development_industrial_investments:0 "Industrial Investments"
+ warlord_development_research_focus:0 "Focus on Research"
+ warlord_development_train_troops:0 "Train our Troops" 
+ warlord_development_political_campaign:0 "Political Campaign"
+ warlord_secure_control:0 "Secure Control"
+
+### Ideas ###
+ RUS_terror_bombing:0 "Luftwaffe Terror Bombing"
+ RUS_terror_bombing_desc:0 "Every several weeks, Luftwaffe planes from the airfields of Reichskommissariat Moskowien fly over the warlord states of western Russia, gleefully bombing any civilian targets they find as a demented form of "pilot training". While they make life hell for rural communities and can occasionally slip through and rain fire upon provincial cities, they find that lingering for too long in Russian airspace risks interception by the remnants of the Soviet Air Forces. If the Free Aviators were not there to give the Luftwaffe hell at every opportunity, the situation in Russia would be far more dire."
+ SIB_terror_bombing:0 "Luftwaffe Terror Bombing"
+ SIB_terror_bombing_desc:0 "Every several weeks, Luftwaffe planes from the airfields of Reichskommissariat Moskowien fly over the warlord states of western Russia, gleefully bombing any civilian targets they find as a demented form of "pilot training". While they make life hell for rural communities and can occasionally slip through and rain fire upon provincial cities, they find that lingering for too long in Russian airspace risks interception by the remnants of the Soviet Air Forces. If the Free Aviators were not there to give the Luftwaffe hell at every opportunity, the situation in Russia would be far more dire."
+ RUS_isolated_vilages:0 "Isolated Villages"
+ RUS_isolated_vilages_desc:0 "Cold and unforgiving; this is what defines this part of the Earth. With whatever human communities sparse and spread out, this area is not going to pose much of a threat to outside forces."
+
+ POLITICS_NO_AUTHORITY_DESC:0 "In the wake of the Soviet Union's collapse, no successor or splinter states have emerged in the most isolated peripheries of Siberia. Without any centralized bureaucracy, infrastructure, industry, large-scale trade, or long-distance communication to unite the region, the villages have largely reverted to the lifestyle they have held for centuries: subsistence farming, hunting, and animal herding. The local Yakut, Eveny, and Chukchi peoples have returned to practicing their shamanistic beliefs free of interference, and the Orthodox Russian villages do not bother to trouble them. The furthest anyone usually goes is over to the next village over, and residents may go many years before hearing a single scrap of news from the outside world.\n\nWhile the region may be rich in resources, the warlords in more habitable climes to the south and west see no point in conquering them. The size of the region, the lack of roads, and the harshness of the winters are enough to deter any sensible despot from attempting such a foolish action. And there is little danger in simply ignoring them - the closest most of the villages have to an army is a few old men armed with even older hunting rifles. It seems that unless the people of Siberia are able to somehow unify themselves or are conquered by a successful claimant to Russia's legacy, they will continue to eke out an existence as they always have: isolated and alone, on the edge of the world."
+ 
+ #Wonders
+ RUS_gorky_tank_factory:0 "The Krasnoye Sormovo Factory"
+ RUS_gorky_tank_factory_desc:0 ""
+ RUS_syktyvkar_arsenal:0 "The Syktyvkar Arsenal"
+ RUS_syktyvkar_arsenal_desc:0 "Beneath the city of Syktyvkar lies a practical treasure trove of Soviet technology and weaponry. Vats and canisters of lethal 'revenge weapons' were stored here before the Front collapsed, and they have found new usage amongst the defenders of the Republic. The gas is potent, and the ability to scorch the lands of our enemies is an effective tool, but those who control the arsenal wield a disproportionate amount of influence."
+ RUS_the_izhevsk_arsenal:0 "The Izhevsk Mechanical Plant"
+ RUS_the_izhevsk_arsenal_desc:0 "Izhevsk has a long and proud history of being the center of gun production for the needs of the Motherland. Tracing it's history back to 1807, when it was first founded by the orders of Emperor Alexander I, the Izhevsk Mechanical Plant had become the main firearm manufacturer for the Red Army during the war years, producing millions and millions of rifles of every kind. The enterprise was reorganized and reconstructed by prosperous gunsmith Mikhail Kalashnikov for the West Russian Revolutionary Front during its revanché against Germany, but the advance of the Tsarist cohort under Emperor Vladimir III forced the factory personnel to flee to Siberia, leaving the mechanical plant at the disposal of the Imperial Crown.\n\nDespite the damage it endured through the years of constant conflicts of West Russia, the Izhevsk Mechanical Plant remains one of the biggest arms manufacturing facilities in the Russian lands and provides superiority in firearms to any petty king in Russia who owns it."
+
+ RUS_siberia_plan_startscreen:0 "Legacy of the Siberian Plan"
+ RUS_siberia_plan_startscreen_desc:0 "§DConsumer Goods: [?This.RUS_siberian_plan_consumer_goods|0Y%]\nConstruction Speed: [?This.RUS_siberian_plan_construction_speed|+]\n£prod_eff_cap  Production Efficiency Cap: [?This.RUS_siberian_plan_max_efficiency|+]\nFactory Output: [?This.RUS_siberian_plan_ic|+]\nResource Gain Efficiency: [?This.RUS_siberian_plan_resources|+]\n£prod_eff Production Efficiency growth: [?This.RUS_siberian_plan_efficiency_gain|+] \n-------------\n§!Our statelet lies in a unique region of Russia - the former area that Bukharin's, and the Central Siberian Republic's, grand industrial project was sited. Securing machinery and infrastructure and rebuilding sections of the Siberian Plan will provide great boons to our statelet."
+
+
+ #RUS_siberian_plan_consumer_goods_tt:0 "Consumer Goods: [?RUS_siberian_plan_consumer_goods|0Y]"
+ #RUS_siberian_plan_construction_speed_tt:0 "Construction Speed: [?RUS_siberian_plan_construction_speed|+-]"
+ #RUS_siberian_plan_max_efficiency_tt:0 "£prod_eff_cap  Production Efficiency Cap: [?RUS_siberian_plan_max_efficiency|+-]"
+ #RUS_siberian_plan_ic_tt:0 "Factory Output: [?RUS_siberian_plan_ic|+-]"
+ #RUS_siberian_plan_resources_tt:0 "Resource Gain Efficiency: [?RUS_siberian_plan_resources|+-]"
+ #RUS_siberian_plan_efficiency_gain_tt:0 "£prod_eff Production Efficiency growth: [?RUS_siberian_plan_efficiency_gain|+-]"
+
+ 
+### Tooltips ###
+ decision_cost_loot_1:0 "£loot_icon  §Y1§!"
+ decision_cost_loot_1_blocked:0 "£loot_icon  §R1§!"
+ decision_cost_loot_1_tooltip:0 "It costs [Get_1_Loot_cost_tooltip] to take this decision.\n"
+ decision_cost_loot_2:0 "£loot_icon  §Y2§!"
+ decision_cost_loot_2_blocked:0 "£loot_icon  §R2§!"
+ decision_cost_loot_2_tooltip:0 "It costs [Get_2_Loot_cost_tooltip] to take this decision.\n"
+ decision_cost_loot_3:0 "£loot_icon  §Y3§!"
+ decision_cost_loot_3_blocked:0 "£loot_icon  §R3§!"
+ decision_cost_loot_3_tooltip:0 "It costs [Get_3_Loot_cost_tooltip] to take this decision.\n"
+ decision_cost_loot_4:0 "£loot_icon  §Y4§!"
+ decision_cost_loot_4_blocked:0 "£loot_icon  §R4§!"
+ decision_cost_loot_4_tooltip:0 "It costs [Get_4_Loot_cost_tooltip] to take this decision.\n"
+ decision_cost_loot_5:0 "£loot_icon  §Y5§!"
+ decision_cost_loot_5_blocked:0 "£loot_icon  §R5§!"
+ decision_cost_loot_5_tooltip:0 "It costs [Get_5_Loot_cost_tooltip] to take this decision.\n"
+ 
+ spend_loot_1:0 "Spend [Get_1_Loot_cost_tooltip]\n"
+ spend_loot_2:0 "Spend [Get_2_Loot_cost_tooltip]\n"
+ spend_loot_3:0 "Spend [Get_3_Loot_cost_tooltip]\n"
+ spend_loot_4:0 "Spend [Get_4_Loot_cost_tooltip]\n"
+ spend_loot_5:0 "Spend [Get_5_Loot_cost_tooltip]\n"
+ 
+ gain_loot_1:0 "Gain £loot_icon  §Y1§!\n"
+ gain_loot_2:0 "Gain £loot_icon  §Y2§!\n"
+ gain_loot_3:0 "Gain £loot_icon  §Y3§!\n"
+ gain_loot_4:0 "Gain £loot_icon  §Y4§!\n"
+ gain_loot_5:0 "Gain £loot_icon  §Y5§!\n"
+ 
+ lose_loot_1:0 "Lose £loot_icon  §Y1§!\n"
+ lose_loot_2:0 "Lose £loot_icon  §Y2§!\n"
+ lose_loot_3:0 "Lose £loot_icon  §Y3§!\n"
+ lose_loot_4:0 "Lose £loot_icon  §Y4§!\n"
+ lose_loot_5:0 "Lose £loot_icon  §Y5§!\n"
+ 
+### Events ###
+ #Raiding
+ raiding.1.t:0 "Raid Successful"
+ raiding.1.d:0 "Sir! Our reports show of us having a good, successful raid, we completely destroyed the enemy! Hundreds of piles of dead bodies and piles of loot. These bastards didn't stand a chance! Look at the remaining run away, throwing their weapons on the ground! Now the question is how will we transport this back?"
+ raiding.1.a:0 "Seize all that we can use"
+ 
+ raiding.2.t:0 "Raid Canceled"
+ raiding.2.d:0 "Sir! Our advisors tell us we must cancel the raid! Our raiding party is a bunch of rabble, most not even able to handle a simple rifle and our supply convoys have nothing to supply us with! We must focus on taking more time to train our men and scraping up our remaining supplies for the raid to succeed."
+ raiding.2.a:0 "We were just not prepared..."
+ 
+ raiding.3.t:0 "The Raid Fails"
+ raiding.3.d:0 "Sir! Our reports say in spite our best efforts, we have failed to have failed to have any effect on those bastards, they were just too strong... we need more time, and resources..."
+ raiding.3.a:0 "We'll get the bastards next time!"
+ 
+ raiding.4.t:0 "We have been raided!"
+ raiding.4.d:0 "Sir! Horrible news have arrived today from the border regions. Bandits have shamefully ambushed our garrisons and slaughtered them to the man, only to move on to attacking nearby towns, leaving a trail of death and destruction wherever they went. Fortunately their forces are too weak and disorganized to be able to move deeper into our territory, but there is little we can do to stop the violence before the bandits are already done with their work."
+ raiding.4.a:0 "Dear God"
+ 
+ raiding.5.t:0 "The Enemy Falters"
+ raiding.5.d:0 "Sir! Our reports show that our cowardly enemies have backed down from their attempts to raid our borders, as we have seen all their forces move away from the contested territory. Clearly our expertly prepared defenses have scared those pathetic raiders off into submission. They will now think twice before considering us an easy target again!"
+ raiding.5.a:0 "Hah! Look at the cowards run!"
+ 
+ raiding.6.t:0 "The Enemy is Defeated"
+ raiding.6.d:0 "Sir! Our reports following the recent border battle show an overwhelming victory against the raiders. The pathetic bandits have proven powerless against the valiant defense of our army, and their bodies now lie scattered across the perimeter in the hundreds, with those that survived having long ran away with their tails between their legs. This will certainly teach them a lesson about attacking the lands of [Root.GetName] for years to come!"
+ raiding.6.a:0 "Now on to cleaning up the corpses..."
+ 
+ raiding.7.t:0 "Relics of the Past"
+ raiding.7.d:0 "Sir! Our recent raid on enemy territory has been a resounding success. After pushing back the enemy our soldiers have marched into several border towns and, after putting out any remnants of resistance, dragged off a collection of hidden treasures from the days when Russia was whole and powerful. Another painful reminder of the lives we have now been forced to live . Anyway, we have determined that some of those items can be re-purposed to help our own fledgling industry, so that hopefully our children might get to live in such prosperous times again."
+ raiding.7.a:0 "But we must also think of the future..."
+ 
+ raiding.8.t:0 "Food for the Hungry"
+ raiding.8.d:0 "Sir! At long last, everyone finally has food for the night, this time we will not starve and now we can get back to work the next morning in full force! Us living off half rations for months has worked, now we have enough food for generations to come!"
+ raiding.8.a:0 "Guess we're not going hungry tonight..."
+ 
+ raiding.9.t:0 "The Spoils of War"
+ raiding.9.d:0 "Sir! We crushed the enemy, kept all of the re-usable defences, raided their warehouses, stockpiles and garrisons! We have razed everything we could not use! We have so many resources it is unthinkable! We could use this to rebuild the whole of Russia!"
+ raiding.9.a:0 "This will help in the future."
+ 
+ raiding.10.t:0 "Treasure!"
+ raiding.10.d:0 "Sir! We crushed the enemy, kept all of the re-usable defences, raided their warehouses, stockpiles and garrisons! We have razed everything we could not use! In the middle of ransacking their warehouse we have found treasure beyond our wildest dreams! We have found a statue, a relic of the past which we can all use to remember the good old days,ahh the nostalgia..."
+ raiding.10.a:0 "A Relic of the Past..."
+ 
+ raiding.11.t:0 "Machines of the Past"
+ raiding.11.d:0 "Sir! We crushed the enemy, kept all of the re-usable defences, raided their warehouses, stockpiles and garrisons! We have razed everything we could not use! In the middle of ransacking their warehouse we have found machines beyond our wildest dreams! One day, we might be able to rebuild Russia with these!"
+ raiding.11.a:0 "With these maybe Russia will be rebuilt one day..."
+ 
+ raiding.12.t:0 "Memories of the Past"
+ raiding.12.d:0 "Sir! We crushed the enemy, kept all of the re-usable defences, raided their warehouses, stockpiles and garrisons! We have razed everything we could not use! In the middle of ransacking their warehouse we have found remembrances of the past, photos, videos and more! One day. we might be able to reunite Russia once more!"
+ raiding.12.a:0 "With these maybe Russia will be united once more..."
+ 
+ raiding.13.t:0 "Food Stolen"
+ raiding.13.d:0 "Sir! We have reports of our stockpiles being raided and food supplies stolen! We have a limited amount of food left which means our people will starve and get restless! We must find a solution, fast. The perpetrators must be captured! What do we do?"
+ raiding.13.a:0 "Half-Rations this month it seems"
+ 
+ raiding.14.t:0 "Garrison Slaughtered"
+ raiding.14.d:0 "Sir! On this ripe, crisp morning, we have received grave news! Our garrisons... have been slaughtered... Which animals could have done this? These savages are killing innocent people left right and centre... Something must be done about this! We await your orders..."
+ raiding.14.a:0 "Bury the dead, and inform the families..."
+ 
+ raiding.15.t:0 "Damaged Machinery"
+ raiding.15.d:0 "They don't even care that they are killing innocent civilians, they just take our machines and everyone else with them! At least most our people are safe, we must protect them at all costs, no matter how many resources we spend on them!"
+ raiding.15.a:0 "Bastards!"
+ 
+ raiding.16.t:0 "Looted Armouries"
+ raiding.16.d:0 "Sir! Our people and generals tell us our armouries have been looted, our warehouses have been ransacked and our stockpiles have been robbed! We must act now and find the party of perpetrators! Who would hord all of this? Do the filthy fuckers not think of all of us?"
+ raiding.16.a:0 "This will only encourage them..."
+ 
+ raiding.17.t:0 "Villages Destroyed"
+ raiding.17.d:0 "Sir...W-what happened... our people, slaughtered... our factories destroyed... This must not stop us, we must rebuild and reconquer... WE ARE STRONK!"
+ raiding.17.a:0 "What kinds of animals would do this..."

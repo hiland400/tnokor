@@ -1,0 +1,48 @@
+﻿l_english:
+
+ #Parties
+ ULS_communist_party:0 "Communist Party of Ireland"
+ ULS_socialist_party:0 "Sinn Féin"
+ ULS_socialist:0 "Ulster"
+ ULS_social_democrat_party:0 "Constitutional Labour Party"
+ ULS_social_democrat:0 "Ulster"
+ ULS_social_liberal_party:0 "CAP - Liberal Wing"
+ ULS_social_liberal:0 "Ulster"
+ ULS_social_conservative_party:0 "CAP - Conservative Wing"
+ ULS_social_conservative:0 "Ulster"
+ ULS_authoritarian_democrat_party:0 "Association of British Veterans"
+ ULS_authoritarian_democrat:0 "Ulster"
+ ULS_despotism_party:0 "Ulster Integration Commision"
+ ULS_despotism:0 "Ulster"
+ ULS_fascism_party:0 "New Irish Front"
+ ULS_fascism:0 "Ulster"
+ ULS_national_socialism_party:0 "New Irish Front"
+ ULS_ultranational_socialism_party:0 "Red Hand Front"
+ ULS_ultranational_socialism:0 "Ulster"
+
+#names
+# ULS_fascism:0 "State of Ulster" #duplicate loc key
+ ULS_fascism_DEF:0 "Ulster"
+ ULS_social_liberal_DEF:0 "Ulster"
+ ULS_market_liberal:0 "Ulster"
+ ULS_market_liberal_DEF:0 "Ulster"
+ ULS_social_conservative_DEF:0 "Ulster"
+ ULS_social_democrat_DEF:0 "Ulster"
+ ULS_authoritarian_democrat_DEF:0 "Ulster"
+# ULS_despotism:0 "Republican Ulster" #duplicate loc key
+ ULS_despotism_DEF:0 "Ulster"
+ ULS_communist:0 "People's Republic of Ulster"
+ ULS_communist_DEF:0 "Ulster"
+# ULS_socialist:0 "Free Ulster" #duplicate loc key
+ ULS_socialist_DEF:0 "Ulster"
+ ULS_fascism_ADJ:0 "Ulster"
+ ULS_social_liberal_ADJ:0 "Ulster"
+ ULS_market_liberal_ADJ:0 "Ulster"
+ ULS_social_conservative_ADJ:0 "Ulster"
+ ULS_authoritarian_democrat_ADJ:0 "Ulster"
+ ULS_despotism_ADJ:0 "Ulster"
+ ULS_communist_ADJ:0 "Ulster"
+ 
+ ### Leaders ###
+ POLITICS_basil_desc:0 "Basil Brooke has, throughout the course of a Stormont career spanning over 40 years, become one of the most divisive politicians in Ireland - no small feat in a political system already groaning under the weight of its myriad divisions. The veteran unionist leader had already been a feature of Stormont for almost 20 years when in 1943 he emerged as one of the most popular representatives of unionist political groups during the tense political negotiations with Ireland. Rising above his contemporaries by refusing to compromise on Ulster's political autonomy, it took negotiators weeks to eventually settle on a compromise with the veteran agitator.\n\nHailed as the 'architect of autonomy', Brooke's insistence on harsh peace terms with the Irish state and his often militant belligerence made him an overnight hero in the North, carrying him and his party, rebranded the Constitutional Action Party in 1949, to five consecutive electoral victories.\n\nBrooke won further support in the often militant politics which have characterised post-war Ulster by aligning closely with the British army remnants now marooned in the province. By forging the 'unspoken alliance' between the Army and the unionist paramilitaries, and by helping to establish the army-dominated Ulster Veterans Committee, Brooke has ensured that despite the deep hatred which characterised his relationship with Dublin, his position remains secure both politically and militarily. Across the isle, onlookers wait with baited breath to see how Brooke will maneuver the constitutionalist forces in the upcoming Ulster conference his ability to compromise where it's possible is as legendary as his obstinance when it isn't, and whatever happens it's guaranteed that neither Brooke nor Ulster will go down without a fight."
+ 
