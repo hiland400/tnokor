@@ -1,14 +1,14 @@
 ﻿l_english:
  ### Cities
- berlin:0 "Germania"
- berlin_desc:0 "Renamed after Germany's victory, Berlin was completely transformed into the largest city on Earth after the war. The cost was one of many causes of the collapse of the German economy, and construction of the city was never truly finished, much of the city being left to deteriorate."
- la:0 "Los Angeles"
- laport:0 "Port of Los Angeles"
- sanfran:0 "San Francisco"
- sanfranport:0 "Port of San Francisco"
- nyc:0 "New York City"
- rome:0 "Rome"
- madrid:0 "Madrid"
+ berlin:0 "게르마니아"
+ berlin_desc:0 "독일이 승리한 이후 이름이 바뀐 베를린은 전쟁 이후에 지구상에서 가장 거대한 도시로 완전히 탈바꿈했습니다. 도시 발전에 들어간 엄청난 비용은 독일 경제가 붕괴한 수많은 원인들 중 하나로 작용했으며, 도시 대부분이 여전히 이전에 비해 악화된 상태로 남아있는 등 완전한 도시 건설은 아직까지도 끝나지 않았습니다."
+ la:0 "로스앤젤레스"
+ laport:0 "로스앤젤레스 항구"
+ sanfran:0 "샌프란시스코"
+ sanfranport:0 "샌프란시스코 항구"
+ nyc:0 "뉴욕시"
+ rome:0 "로마"
+ madrid:0 "마드리드"
  
  UNIT_TERRAIN_MODIFIER:0 "Unit effects:"
  MOVEMENT_COST:0 "Movement cost within this terrain type x$VALUE|H$"
