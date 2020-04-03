@@ -1,67 +1,67 @@
 ﻿l_english:
- societal_development.1102.t:0 "Decrease in Poverty"
- societal_development.1102.desc:0 "Thanks to our greater poverty relief efforts, as well as the expansion of our civilian economy, the poverty rate has decreased significantly enough to be notable internationally.\n\nAs our government congratulates itself for its efforts, the first official state projections on the impact of this improved popular prosperity are filed, stating that the people are able to access superior goods, economic opportunity shall be greatly increased, and our workforce shall be capable of greater and greater feats."
- societal_development.1102.a:0 "A toast to our economists!"
+ societal_development.1102.t:0 "빈곤율 감소"
+ societal_development.1102.desc:0 "더 광범위한 빈곤 구제 노력과 민간 경제 확장으로 인해 빈곤율이 국제적인 주목을 받을 정도로 현저히 감소햇습니다.\n\n정부가 노력의 결실에 대해 자축을 표명하면서 이런 국민 생활 향상이 가져올 결과에 대한 첫 번째 공식적인 국가 예측이 나왔습니다. 사람들은 우수한 상품을 사용할 수 있고, 경제적 기회도 크게 증가하며, 우리의 노동력이 점점 더 위대한 위업을 이룰 수 있을 겁니다."
+ societal_development.1102.a:0 "경제학자들을 위해 건배!"
  
- societal_development.1103.t:0 "Increase in Poverty"
+ societal_development.1103.t:0 "빈곤율 증가"
  societal_development.1103.desc:0 "Poverty SocDev decreased, loc this later."
- societal_development.1103.a:0 "Whatever will we do?"
+ societal_development.1103.a:0 "우리가 뭘 할수 있을까?"
  
- societal_development.1104.t:0 "Smarter Academic Base"
+ societal_development.1104.t:0 "향상된 교육 기반"
  societal_development.1104.desc:0 "Academic Base SocDev increased, loc this later."
- societal_development.1104.a:0 "Congratulations to our teachers!"
+ societal_development.1104.a:0 "교사들에게 축하를 표명하자!"
  
- societal_development.1105.t:0 "Dumber Academic Base"
+ societal_development.1105.t:0 "악화된 교육 기반"
  societal_development.1105.desc:0 "Academic Base SocDev decreased, loc this later."
- societal_development.1105.a:0 "Perhaps the children aren't wrong after all..."
+ societal_development.1105.a:0 "혹시 아이들이 결국 잘못되지 않았던 걸지도 몰라..."
  
- societal_development.1106.t:0 "Better Research Facilities"
+ societal_development.1106.t:0 "더 나은 연구기관"
  societal_development.1106.desc:0 "Research Facilities SocDev increased, loc this later."
- societal_development.1106.a:0 "Excellent!"
+ societal_development.1106.a:0 "완벽해!"
  
- societal_development.1107.t:0 "Worse Research Facilities"
+ societal_development.1107.t:0 "악화된 연구기관"
  societal_development.1107.desc:0 "Research Facilities SocDev decreased, loc this later."
- societal_development.1107.a:0 "Disgraceful."
+ societal_development.1107.a:0 "부끄럽군."
  
- societal_development.1108.t:0 "Larger Nuclear Stockpile"
+ societal_development.1108.t:0 "확장된 핵 비축량"
  societal_development.1108.desc:0 "Nuclear Stockpile SocDev increased, loc this later."
- societal_development.1108.a:0 "None shall threaten us again."
+ societal_development.1108.a:0 "다시는 누구도 우리를 위협할 수 없을 거다."
  
- societal_development.1109.t:0 "Smaller Nuclear Stockpile"
+ societal_development.1109.t:0 "축소된 핵 비축량"
  societal_development.1109.desc:0 "Nuclear Stockpile SocDev decreased, loc this later."
- societal_development.1109.a:0 "A step towards world peace?"
+ societal_development.1109.a:0 "세계 평화를 위한 길일지도 모르지?"
  
- societal_development.1110.t:0 "Better Industrial Expertise"
+ societal_development.1110.t:0 "향상된 산업 기술"
  societal_development.1110.desc:0 "Industrial Expertise SocDev increased, loc this later."
- societal_development.1110.a:0 "Excellent!"
+ societal_development.1110.a:0 "완벽해!"
  
- societal_development.1111.t:0 "Worse Industrial Expertise"
+ societal_development.1111.t:0 "악화된 산업 기술"
  societal_development.1111.desc:0 "Industrial Expertise SocDev decreased, loc this later."
- societal_development.1111.a:0 "Disgraceful."
+ societal_development.1111.a:0 "부끄럽군."
  
- societal_development.1112.t:0 "Better Industrial Equipment"
+ societal_development.1112.t:0 "향상된 산업 장비"
  societal_development.1112.desc:0 "Industrial Equipment SocDev increased, loc this later."
- societal_development.1112.a:0 "Excellent!"
+ societal_development.1112.a:0 "완벽해!"
  
- societal_development.1113.t:0 "Worse Industrial Equipment"
+ societal_development.1113.t:0 "악화된 산업 장비"
  societal_development.1113.desc:0 "Industrial Equipment SocDev decreased, loc this later."
- societal_development.1113.a:0 "Disgraceful."
+ societal_development.1113.a:0 "부끄럽군."
 
- societal_development.1114.t:0 "Better Agricultural Methods"
+ societal_development.1114.t:0 "향상된 농법"
  societal_development.1114.desc:0"Agricultural SocDev increased, loc this later."
- societal_development.1114.a:0 "Excellent!"
+ societal_development.1114.a:0 "완벽해!"
  
- societal_development.1115.t:0 "Worse Agricultural Methods"
+ societal_development.1115.t:0 "악화된 농법"
  societal_development.1115.desc:0 "Agricultural SocDev decreased, loc this later."
- societal_development.1115.a:0 "Disgraceful."
+ societal_development.1115.a:0 "부끄럽군."
 
- societal_development.1116.t:0 "Better Army Professionalism"
+ societal_development.1116.t:0 "군 전문성 증대"
  societal_development.1116.desc:0 "Army SocDev increased, loc this later."
- societal_development.1116.a:0 "Excellent!"
+ societal_development.1116.a:0 "완벽해!"
  
- societal_development.1117.t:0 "Worse Army Professionalism"
+ societal_development.1117.t:0 "군 전문성 축소"
  societal_development.1117.desc:0 "Army SocDev decreased, loc this later."
- societal_development.1117.a:0 "Disgraceful."
+ societal_development.1117.a:0 "부끄럽군."
  
  ###SOCIETAL DEVELOPMENT###
 
