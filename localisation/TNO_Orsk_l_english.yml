@@ -131,7 +131,7 @@
  ORS_share_loot_more_equally:0 "전리품을 더 평등하게 분배"
  ORS_more_to_the_officers:0 "장교들 위주로 분배"
  ORS_effects_of_the_brigades_organisation:0 "§g효과"
- ORS_effects_of_the_brigades_organisation_desc:0 "§g현재 병사들은 [This.GetDirlewangerBrigadeHappiness]\n\n이것 때문에 다음과 같은 효과를 받음:\n[This.GetDirlewangerLocTooltipBrigade]§!§g장교들은 [This.GetDirlewangerOfficersHappiness]\n\n이것으로 다음과 같은 효과를 받음:\n[This.GetDirlewangerLocTooltipOfficer]"
+ ORS_effects_of_the_brigades_organisation_desc:0 "§g현재 병사들은 [This.GetDirlewangerBrigadeHappiness]\n\n이것으로 다음과 같은 효과를 받음:\n[This.GetDirlewangerLocTooltipBrigade]§!§g장교들은 [This.GetDirlewangerOfficersHappiness]\n\n이것으로 다음과 같은 효과를 받음:\n[This.GetDirlewangerLocTooltipOfficer]"
  ORS_Lysenkan_Treaty:0 "리센코와의 조약"
  ORS_Lysenkan_Treaty_desc:0 "리센코와의 조약은 우리에게 많은 이득이 되었지만, 우리가 아무것도 얻지 못한다면 그들은 동맹으로서 필요하지 않습니다. 리센코의 더욱 흥미로운 실험은 오랫동안 디를레방어의 호기심을 자극했고, 리센코의 슈퍼 솔저들은 가동하기 위해서는 순수한 게르만족 혈액을 필요로 할 것입니다!"
  ORS_Request_Raiding_Party_Movement:0 "과거 소련의 지도 공유"
