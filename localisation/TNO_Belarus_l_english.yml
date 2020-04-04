@@ -1,17 +1,17 @@
 ﻿l_english:
 
 ##COUNTRY NAMES###
-BLR_fascism:0 "중앙 유럽 의회"
-BLR_fascism_DEF:0 "중앙 유럽 의회"
-BLR_fascism_ADJ:0 "벨라루스인"
-BLR_national_socialism:0 "중앙 유럽 의회"
-BLR_national_socialism_DEF:0 "중앙 유럽 의회"
-BLR_national_socialism_ADJ:0 "벨라루스인"
+BLR_fascism:0 "중앙 유럽 위원회"
+BLR_fascism_DEF:0 "중앙 유럽 위원회"
+BLR_fascism_ADJ:0 "벨라루스"
+BLR_national_socialism:0 "중앙 유럽 위원회"
+BLR_national_socialism_DEF:0 "중앙 유럽 위원회"
+BLR_national_socialism_ADJ:0 "벨라루스"
 ####PARTY NAMES#####
  BLR_fascism_party:0 "WZ (N)"
- BLR_fascism_party_long:0 "백루테니아 중앙의회"
+ BLR_fascism_party_long:0 "백루테니아 중앙위원회"
  BLR_national_socialism_party:0 "WZ (G)"
- BLR_national_socialism_party_long:0 "백루테니아 중앙의회"
+ BLR_national_socialism_party_long:0 "백루테니아 중앙위원회"
  BLR_ultranational_socialism_party:0 ""
  BLR_ultranational_socialism_party_long:0 ""
  BLR_despotism_party:0 ""
