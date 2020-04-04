@@ -1,5 +1,5 @@
 ﻿l_english:
-  EOANB_CULTURE_INFO:0 "이 주의 주된 문화권은 §Y[This.GetNationality]§!입니다."
+  EOANB_CULTURE_INFO:0 "이 주의 주된 문화권은 §Y[This.GetNationality]§!§D입니다."
 
   var_nationality_0:0 "없음"
   var_nationality_1:0 "프로이센계"
@@ -140,7 +140,7 @@
   var_nationality_137:0 "사미계"
   var_nationality_138:0 "덴마크계"
   var_nationality_139:0 "네덜란드계"
-  var_nationality_140:0 "§D국가가 강제한 §R복종§D과 §R억압§D이 강조되는 §Y부르군트 \"문화"\"
+  var_nationality_140:0 "§D국가가 강제한 §R복종§D과 §R억압§D이 강조되는 §Y부르군트 \"문화\""
   var_nationality_141:0 "라인계"
   var_nationality_142:0 "바이에른계"
   var_nationality_143:0 "오스트리아계"
