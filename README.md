@@ -12,3 +12,7 @@ Großgermanisches Reich = 대게르만국
 The Azad Hind Government = 자유 인도
 
 Burgundian, Burgund 등등 = 부르군트
+
+Triumvirate = 트리움비라투스
+
+Unity-Pakt = 유니티-팍트
