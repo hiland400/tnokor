@@ -100,8 +100,8 @@
  WAR_NAME_GGN_POL:0 "바르샤바 봉기"
  
  ### French-Burgundian War ###
- WAR_NAME_BRG_FRA:0 "프랑스-부르군디 전쟁"
- WAR_NAME_FRA_BRG:0 "프랑스-부르군디 전쟁"
+ WAR_NAME_BRG_FRA:0 "프랑스-부르군트 전쟁"
+ WAR_NAME_FRA_BRG:0 "프랑스-부르군트 전쟁"
  WAR_NAME_BRT_FRA:0 "프랑스-브르타뉴 전쟁"
  WAR_NAME_FRA_BRT:0 "프랑스-브르타뉴 전쟁"
  
