@@ -9,3 +9,4 @@ https://hangulize.org/
 
 Großgermanisches Reich = 대게르만국 
 The Azad Hind Government = 자유 인도 
+Burgundian, Burgund 등등 = 
