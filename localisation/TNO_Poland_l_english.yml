@@ -1,31 +1,31 @@
 ﻿ l_english:
 
  POL_ultranational_socialism_party:0 "ZJ"
- POL_ultranational_socialism_party_long:0 "Związek Jaszczurczy"
+ POL_ultranational_socialism_party_long:0 "도마뱀 동맹"
  POL_despotism_party:0 "SCN"
- POL_despotism_party_long:0 "Służba Cywilna Narodu"
+ POL_despotism_party_long:0 "국가 공무원 조직"
  POL_authoritarian_democrat_party:0 "RJN"
- POL_authoritarian_democrat_party_long:0 "Rada Jedności Narodowej"
+ POL_authoritarian_democrat_party_long:0 "국민 단결 의회"
  POL_social_conservative_party:0 "SN"
- POL_social_conservative_party_long:0 "Stronnictwo Narodowe"  
+ POL_social_conservative_party_long:0 "국민당"  
  POL_social_liberal_party:0 "SP"
- POL_social_liberal_party_long:0 "Stronnictwo Pracy"
+ POL_social_liberal_party_long:0 "노동당"
  POL_social_democrat_party:0 "SL"
- POL_social_democrat_party_long:0 "Stronnictwo Ludowe"
+ POL_social_democrat_party_long:0 "인민당"
  POL_socialist_party:0 "PPS"
- POL_socialist_party_long:0 "Polska Partia Socjalistyczna"
+ POL_socialist_party_long:0 "폴란드 사회당"
  POL_communist_party:0 "PPR"
- POL_communist_party_long:0 "Polska Partia Robotnicza"
+ POL_communist_party_long:0 "폴란드 노동자당"
 
  #Ideas
 
- POL_underground_state:0 "The Underground State"
- POL_underground_state_desc:0 "Decades ago, the Wehrmacht overran Europe in a storm never seen before. Poland fought them bravely, odds stacked sky-high against them, until the bitter end - and with that end, the light of the Polish nation extinguished forever.\n\nOr that is what most of the world believes.\n\nOver the decades, it has become increasingly clear to Hans Frank's government in Krakau and a few watchful eyes beyond it that the Polish nation survives, nay, thrives in the shadows. Aided by the sheer incompetence of the General Government and their own shrewdness, the Polish Underground State is an ever-growing thorn in the side of the Reich and its hegemony over the Polish lands.\n\n§RAnd they have a clear goal.§!"
+ POL_underground_state:0 "지하국"
+ POL_underground_state_desc:0 "수십년전 국방군은 전례없는 폭풍을 이끌고 유럽 전역을 압도했습니다. 폴란드는 하늘을 찌를 듯한 역경을 맞이하면서도 쓰라린 종말을 맞이하기 전까지 그들에게 용감히 맞서 싸웠습니다. 그리고 모든 상황이 끝난 이후, 폴란드 국가가 내뿜던 빛은 영원히 꺼져버렸습니다.\n\n최소한 세상 사람들은 그렇게 믿고 있지요.\n\n수십년간 크라쿠프의 한스 프랑크 정권도 폴란드가 영원히 멸망했다고 생각했기 때문에 살아남은, 아니, 어둠 속에서 번창하는 폴란드 국가를 거의 신경쓰지 않게 되었습니다. 폴란드 지하국은 총독부측의 무능력함과 지하국측의 약삭빠른 대처능력에 힘입어 제국과 폴란드 영토 지배권 속에서 점점 커져만 가는 가시입니다.\n\n§R그리고 그들은 분명한 목표 의식을 품고 있습니다.§!"
 
- POL_home_Defense:0 "Home Defense"
+ POL_home_Defense:0 "국내군"
 
 
  #Leader Descriptions#
- POLITICS_KAZIMIERZ_SOSNKOWSKI_DESC:0 "Kazimierz Sosnkowski, known by his pseudonym “The Poet”, the last leader of Polish Government-in-Exile, never entertained the dastardly thought of surrender even after the successful German invasion of Britain seemed to crush any remaining hopes of an allied victory. Using the chaos of the turbulent '50s he managed to smuggle himself through Brittany, to France and Italy, from which somehow he managed to reach the Generalgouvernement. Many conspiracy theories suggests that it was possibly one of many Mussolini's “last gifts” to Germany before his demise.\n\nThanks to Hans Frank's delusions and incompetence, the structure of the Home Army remained largely intact, so Sosnkowski was able to use his abilities to rebuild the formation and the structure of the Polish Underground State. Structural weakness in the German economy and a pyrrhic victory against the Western Russian Revolutionary Front allowed for massive expansion of underground structures, including a taxation system, courts, welfare, police, press, and education, all miraculously kept in secret. In the early '60s it became a state within a state, as every formal structure of the Generalgouvernement was subverted. However, the Home Army was not yet ready to rise up as the German garrison was still impossible to defeat with likely support from Germania. The start of the German Civil War however changed the situation and convinced Sosnkowski to begin a general uprising. He has become an old man, his health degrading with one suffered stroke, almost going blind – but the dream of finally liberating his homeland keeps him alive.\n\nAs a person, Kazimierz Sosnkowski is a truly man of renaissance, knowing French, English, German, Russian, Italian, classical Greek and Latin, while mastering piano, chess, painting, hunting, football and horse riding. Maybe in a different time and place he would have been a renown intellectual and translator of poetry. But for Kazimierz Sosnkowski, those hobbies were nothing to Poland's freedom from the harsh grip of the German yoke. Indulgence comes after sacrifice after all."
+ POLITICS_KAZIMIERZ_SOSNKOWSKI_DESC:0 ""시인"이라는 필명으로 알려진 폴란드 망명정부의 마지막 지도자인 카자미에시 소슨코프스키는 독일이 성공적으로 영국을 침략하고 연합국이 승리할지도 모른다는 희망을 박살낸 이후에도 항복이라는 악랄하기 그지없는 행동은 상상조차 한 적이 없습니다. 격동의 50년대가 가져온 혼돈을 이용해 소슨코프스키는 브르타뉴를 통해 프랑스와 이탈리아로 밀입국했고, 오만 방법을 사용해 마침내 총독부에 들어가는데 성공했습니다. 많은 음모론자들은 이 사건이 무솔리니가 독일에 보낸 "마지막 선물" 중 하나였을 가능성이 있다고 믿습니다.\n\n한스 프랑크의 망상벽과 무능함에 힘입어 폴란드 국내군 구조가 대체로 온전하게 유지되었기 때문에 소슨코프스키는 능력을 십분 발휘해 폴란드 지하국을 형성하고 재건하는데 성공했습니다. 독일이 경제의 구조적 모순에 시달리고 서부 러시아 혁명 전선과의 전투에서 상처뿐인 승리를 거두는 와중에 기회를 포착한 그는 세금 체계와 법, 경찰, 언론, 그리고 교육 등 지하 구조를 광범위하게 확장하는 와중에도 모든 과정을 기적적으로 철저한 비밀 속에서 진행했습니다. 60년대 초에 총독부의 모든 체계가 붕괴하면서 폴란드 지하국은 사실상 국가 안의 국가가 되어버렸습니다. 하지만 국내군은 여전히 봉기를 일으킬 준비가 되어 있지 않습니다. 게르마니아에서 보내는 지원 때문에 독일 주둔군이 여전히 격퇴하기 힘든 존재로 남아 있기 때문이었습니다. 하지만 독일 내전이 일어남으로써 상황이 완전히 바뀌어버렸고 주변 인물들에게 설득당한 소슨코프스키는 대규모 봉기를 일으키기 시작했습니다. 그는 늙었고 한때 찾아온 뇌졸중으로 인해 쇠약해져 거의 장님이 된 상태이지만, 조국을 해방시키겠다는 꿈 때문에 생명을 부지하고 있습니다.\n\n개인적으로 카자미에시 소슨코프스키는 진실로 르네상스적인 인물로 프랑스어, 영어, 독일어, 러시아어, 이탈리아어, 고전 그리스어, 라틴어를 구사할 수 있으며 피아노, 체스, 그림, 사냥, 축구와 승마까지 여러 분야를 섭렵한 인물입니다. 아마도 다른 시간대에서는 유명한 지식인이자 시 번역가로 활동했을지도 모릅니다. 하지만 카자미에시 소슨코프스키에게 이런 취미생활은 독일이 씌운 멍에의 혹독한 지배로부터 폴란드를 해방하기 전까지는 아무것도 아닙니다. 사치는 결국 희생 앞에서 아무것도 아닙니다."
  
  
