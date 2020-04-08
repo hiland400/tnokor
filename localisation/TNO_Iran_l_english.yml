@@ -3,16 +3,16 @@
  ## Country Names ##
  
  ## Party Names ##
- PER_fascism_party:0 "Pan-Iranist Party"
- PER_fascism_party_long:0 "Pan-Iranist Party"
+ PER_fascism_party:0 "범이란주의당"
+ PER_fascism_party_long:0 "범이란주의당"
  PER_national_socialism_party:0 "SUMKA"
- PER_national_socialism_party_long:0 "Hezb-e Sosīālīst-e Mellī-e Kārgarān-e Īrān"
+ PER_national_socialism_party_long:0 "국가사회주의 이란 노동자당"
  PER_authoritarian_democrat_party:0 "HM"
- PER_authoritarian_democrat_party_long:0 "Hezb-e Mardom"
+ PER_authoritarian_democrat_party_long:0 "인민당"
  PER_social_conservative_party:0 "JMI"
- PER_social_conservative_party_long:0 "Jebhe-ye Melli-ye Irān"
+ PER_social_conservative_party_long:0 "이란 국민전선"
  PER_despotism_party:0 "HIN"
- PER_despotism_party_long:0 "Hezb-i Īrān-i Nuvīn"
+ PER_despotism_party_long:0 "신 이란당"
  
  ## Leader Bios ##
- POLITICS_MOHAMMAD_REZA_PAHLAVI_DESC:0 "The King of Kings, Mohammad Reza Pahlavi ascended to the Iranian throne in 1941, his father forced into a humiliating abdication during an abortive invasion from the Soviet Union and British Empire. International scholars have since come to argue that this was when the Shah first became sympathetic to the German people, two great empires held down and abused by the old European order.\n\nThe decades since Mohammad Reza's ascension to the throne have seen the relationship between the Shah and his German friends develop ever closer, the German Reich making every effort to bring Iran into their own sphere following the war providing all manner of recovery aid, international loans and military advisors. It was a relationship which would be showcased to the world in August 1953 in a German orchestrated coup against then Prime Minister Mohammad Mosaddegh and installation of a firmly pro-German government, the Shah himself greatly empowered and welcoming the German Reich into Iran with open arms.\n\nYet whilst the Shah may now enjoy the power and luxuries worthy of a true monarch, to say that the ground beneath him is shaky would be a great understatement. Having lost the trust of the populace, the Iranian people take to the streets to demand all manner of political, social and economic reform, with an increasingly influx of German racial science inflaming racial conflict across Iran. So too have his German benefactors began to demand reform, desiring a more liberal Iran which may remain in their sphere to a one aflame. Now with the 2,500th anniversary of the Iranian monarchy imminent, and pressures abound, the Shah stands determined to ensure it will be one to last for 2,500 years more."
+ POLITICS_MOHAMMAD_REZA_PAHLAVI_DESC:0 "왕중의 왕이신 모하마드 레자 팔레비는 1941년 소비에트 연방과 대영제국의 실패한 침략이 한창이던 와중 아버지에게 굴욕적인 강제 퇴위를 선사하면서 이란의 왕위를 계승했습니다. 국제정치학자들은 그 때쯤 샤가 처음으로 구식 유럽의 체제를 악용하는 두 거대 제국을 굴복시킨 독일 사람들에게 호의를 품게 되었다고 주장합니다.\n\n모하마드 레자가 왕위를 계승한 이후 수십년간 샤와 독일 우방국 사이의 관계는 한층 더 가까워 졌고, 독일 제국은 이란을 영향권에 편입하기 위해 전후 복구 계획에 엄청난 지원을 하고 국제 융자와 군사 조언가를 보내는 등 모든 노력을 쏟아부었습니다. 1953년 독일이 모하마드 모사데그 수상을 축출하고 친독일 정부를 설립하는 쿠데타를 몰래 조직하는 와중에 샤가 독일 제국을 지지하고 두팔 벌려 환영하면서 양국간의 밀월관계가 세계에 알려졌습니다.\n\n샤가 진정한 군주제의 권력과 사치를 누리고는 있지만, 현재 처한 상황을 '정치적 기반이 흔들린다' 고만 표현하기에는 너무 우회적일 겁니다. 대중의 신뢰는 바닥을 쳤고 이란 사람들은 정치적, 사회적 그리고 경제적 개혁을 요구하기 위해 거리로 나왔고, 독일 우생학의 영향이 더욱 커져 가면서 이란 전역에서 인종 갈등이 터져 나오기 시작했습니다. 상황이 이렇다 보니 샤의 독일 후원자들 역시 이란을 영향권 내에 붙잡아 놓기 위해서 한층 더 자유주의적인 이란을 원한다며 개혁을 요구하기 시작했습니다. 지금 이란에 군주제가 수립된지 2500주년이 되는 기념일이 다가오고 있는 와중에 압력은 강해지고만 있습니다만, 샤는 군주제가 2500년간 더 이어지리라는 확신을 가지고 결심을 굳혔습니다."
