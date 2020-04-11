@@ -1,18 +1,18 @@
 ﻿l_english:
  ## Country Names ##
- SAH_authoritarian_democrat:0 "Krasnoyarsk"
- SAH_authoritarian_democrat_DEF:0 "the Provisional Government of Krasnoyarsk"
- SAH_authoritarian_democrat_ADJ:0 "Krasnoyarsk"
+ SAH_authoritarian_democrat:0 "크라스노야르스크"
+ SAH_authoritarian_democrat_DEF:0 "크라스노야르스크 임시정부"
+ SAH_authoritarian_democrat_ADJ:0 "크라스노야르스크"
 
  ## Party Names ##
  SAH_authoritarian_democrat_party:0 "PSR"
- SAH_authoritarian_democrat_party_long:0 "Partiya Sotsial'noy Reformy"
- SAH_communist_party:0 "PSR - Left"
- SAH_communist_party_long:0 "Partiya Sotsial'noy Reformy - Left"
- SAH_social_conservative_party:0 "PSR - Right"
- SAH_social_conservative_party_long:0 "Partiya Sotsial'noy Reformy - Right"
+ SAH_authoritarian_democrat_party_long:0 "사회개혁당"
+ SAH_communist_party:0 "PSR - 좌파"
+ SAH_communist_party_long:0 "사회개혁당 - 좌파"
+ SAH_social_conservative_party:0 "PSR - 우파"
+ SAH_social_conservative_party_long:0 "사회개혁당 - 우파"
  SAH_despotism_party:0 "RPV"
- SAH_despotism_party_long:0 "Rossiyskaya Partiya Veteranov"
+ SAH_despotism_party_long:0 "러시아 참전용사당"
  
  ## Leaders ##
- POLITICS_NIKOLAI_ANDREEV_DESC:0 "Born 1905, Nikolai Trofimovich Andreev was called up from the reserves to fully rejoin the Red Army in 1935, initially a political commissar in Siberia. Hoping to fight on the frontline against the Germans, he was instead enrolled in officers' school. But as the war became more and more desperate, he continued taking more and more classes - not to become more skilled, but to hopefully delay being sent to fight for what he saw as a lost cause. As the Soviet Union collapsed, he and a clique of fellow officers' school graduates began to consolidate their power in the Krasnoyarsk region. Yet when the Central Siberian Republic was established, they were justifiably concerned about any pre-existing groups that would threaten the democratic institutions and so the government broke up the clique and assigned them to the far-reaching corners of the Republic. Andreev was placed under the command of Nikolay Krylov, secretly remaining in contact with his clique.\n\nAs the Republic began to lose its grip on power and crumble apart, the clique reunited in Krasnoyarsk and mutinied against General Krylov during his doomed campaign against the Siberian Black Army. Now in order to convince the people of the city that they were not just another flavor of junta, Andreev and his officers have promised new and sweeping reforms. Free trade! Private property! Foreign allies! Open elections! Liberty! Democracy!\n\nWith the collapse of the previous order, the clique is considering that the matter of the Siberian reunification rests in their hands. Following that it will be a mad dash to the sea, and with it foreign recognition, before consolidating and preparing a push to liberate all of Russia. But whether Andreev will actually be able to deliver on these promises is another matter entirely."
+ POLITICS_NIKOLAI_ANDREEV_DESC:0 "1905년에 태어난 니콜라이 트로피모비치 안드레예프는 예비역 상태에 있다가 1935년 소집되어 적군에 재입대했고, 초기에는 시베리아에서 정치위원으로 활동했습니다. 전선에 서서 독일군에 대항해 직접 싸우고 싶었던 그는 사관학교 입학을 선택합니다. 하지만 전황은 점차 악화되는 와중에도 그는 더 많은 수업만 들을 뿐이었습니다. 어떤 기술을 숙달하기 위해서가 아니라, 잃어버린 대의를 위해 싸울 날이 연기되기를 바라면서 말이죠. 소비에트 연방이 무너지자 그와 동료 사관후보생들은 크라스노야르스크에서 권력을 공고히하기 시작했습니다. 아직 중앙 시베리아 공화국이 세워지기 전, 공화국 정부는 예전부터 존재했던 집단들이 민주주의 체계를 위협할지도 모른다는 합당한 의심을 품었고, 마침내 정부는 파벌을 해체하고 공화국에서 멀리 떨어진 변경 지역에 재배치했습니다. 안드레예프는 니콜라이 크릴로프의 휘하로 배치되었으나 예전 동료들과 비밀리에 연락을 주고 받았습니다.\n\n공화국의 권력이 점차 약해고 분열되기 시작하자 파벌은 크라스노야르스크에서 재결합하고 크릴로프 장군이 시베리아 흑군과 재앙과도 같은 전투를 벌이던 와중 반란을 일으켰습니다. 이제 안드레예프와 동료 장교들은 자신들이 여타 군사정권들과는 다르다는 사실을 도시민들을 납득시키기 위해 새로운 전면적 개혁을 실시하겠다고 약속했습니다. 자유 무역! 개인 재산! 외세 동맹! 열린 선거! 정치적 자유! 민주주의!\n\n구체제가 몰락하면서 파벌은 시베리아 재통합이 자신의 손에 달린 문제라고 생각하게 되었습니다. 러시아를 해방시키기 위한 계획을 준비하고 밀어붙이기 전에 우선 바다로 미친듯이 돌진하면서 외국의 승인도 얻어내야 합니다. 하지만 실제로 안드레예프가 자신이 약속한 바를 모두 이행할 수 있을지는 또 다른 문제입니다."
