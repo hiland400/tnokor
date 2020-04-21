@@ -1120,29 +1120,29 @@ BAS_NKVD.1091.a:0 "Better than nothing."
  BAS_invest_in_prep_4_tt:0 "Increases §YArmy Readiness§! by 8\nIncreases §YNKVD Disloyalty§! by §Y5§!"
 
 
- BAS_endurance_testing:0 "Endurance Testing"
+ BAS_endurance_testing:0 "인내력 실험"
  BAS_endurance_testing_tt:0 "Some subjects will be rendered "unrecoverable" by the experiments\n\nWill increase Lysenko's sanity\nThis will increase §YNKVD Disloyalty§!"
 
- BAS_ration_limiting_testing:0 "Limited Rationing Testing"
+ BAS_ration_limiting_testing:0 "제한된 보급 상황 실험"
  BAS_ration_limiting_testing_tt:0 "Some subjects will be rendered "unrecoverable" by the experiments\n\nWill increase Lysenko's sanity\nThis will increase §YNKVD Disloyalty§!"
 
- BAS_sleep_deprivation_testing:0 "Sleep Deprivation Testing"
+ BAS_sleep_deprivation_testing:0 "수면 박탈 실험"
  BAS_sleep_deprivation_testing_tt:0 "Some subjects will be rendered "unrecoverable" by the experiments\n\nWill increase Lysenko's sanity\nThis will increase §YNKVD Disloyalty§!"
 
- BAS_language_deprivation_testing:0 "Language Deprivation Testing"
+ BAS_language_deprivation_testing:0 "언어 박탈 실험"
  BAS_language_deprivation_testing_tt:0 "Some subjects will be rendered "unrecoverable" by the experiments\n\nWill increase Lysenko's sanity\nThis will increase §YNKVD Disloyalty§!"
 
- BAS_drug_testing:0 "Drug Testing"
+ BAS_drug_testing:0 "약물 실험"
  BAS_drug_testing_tt:0 "Some subjects will be rendered "unrecoverable" by the experiments\n\nWill increase Lysenko's sanity\nThis will increase §YNKVD Disloyalty§!"
 
- BAS_childhood_upringing_testing:0 "Childhood Upbringing Testing"
+ BAS_childhood_upringing_testing:0 "어린이 양육 실험"
  BAS_childhood_upringing_testing_tt:0 "Some subjects will be rendered "unrecoverable" by the experiments\n\nWill increase Lysenko's sanity\nThis will increase §YNKVD Disloyalty§!"
 
 
- BAS_temperature_testing:0 "Temperature Testing"
+ BAS_temperature_testing:0 "온도 실험"
  BAS_temperature_testing_tt:0 "Some subjects will be rendered "unrecoverable" by the experiments\n\nWill increase Lysenko's sanity\nThis will increase §YNKVD Disloyalty§!"
 
- BAS_psychic_testing:0 "Psychic Testing"
+ BAS_psychic_testing:0 "초능력 실험"
  BAS_psychic_testing_tt:0 "Some subjects will be rendered "unrecoverable" by the experiments\n\nWill increase Lysenko's sanity\nThis will increase §YNKVD Disloyalty§!"
 
 
@@ -1158,27 +1158,27 @@ BAS_NKVD.1091.a:0 "Better than nothing."
 
  #focus
 
- BAS_subject_files_URAL:0 "Acquire Uralian Subjects"
+ BAS_subject_files_URAL:0 "우랄인 실험체 확보"
  BAS_subject_files_URAL_desc:0 "COMMUNIQUE 52.ic\n\nSubject material extraction protocol c. Troopers will extract subjects from the "Ural League" currently located in the Chelyabinsk oblast (see Subject Extraction handbook for further information and the attached map of the Chelyabinsk oblast on pg. 3).n\nCOMMUNIQUE 52.ic OVER"
  BAS_subject_files_URAL_tt:0 "We will search and find subjects for our experiments in §Ythe Urals§!.\n\n§GThis will increase Lysenko's sanity.§!\n§RThis will increase §YNKVD Disloyalty§!!§!"
 
- BAS_subject_files_LOCAL:0 "Acquire Local Subjects"
+ BAS_subject_files_LOCAL:0 "현지인 실험체 확보"
  BAS_subject_files_LOCAL_desc:0 "COMMUNIQUE 52.ib\n\nSubject material extraction protocol b. Troopers will extract subjects from the Chelyabinsk oblast (also a location of Magnitogorsk, under the effective and legal rule of the Soviet Union. See Subject Extraction handbook for further information and the attached map of the Chelyabinsk Oblast on pg. 5)\n\nCOMMUNIQUE 52.ib OVER"
  BAS_subject_files_LOCAL_tt:0 "We will search and find subjects for our experiments in §Ythe local area§!.\n\n§GThis will increase Lysenko's sanity.§!\n§RThis will increase §YNKVD Disloyalty§!!§!"
 
- BAS_subject_files_BANDITY:0 "Acquire Bandit Subjects"
+ BAS_subject_files_BANDITY:0 "도적 실험체 확보"
  BAS_subject_files_BANDITY_desc:0 "COMMUNIQUE 52.ie\n\nSubject material extraction protocol e. Troops will extract subjects from Dirlewanger's Brigade, located in Orenburg Oblast. (See Subject Extraction handbook for further information and the attached map of the Orenburg Oblast on pg. 3)\n\nCOMMUNIQUE 52.ie OVER"
  BAS_subject_files_BANDITY_tt:0 "We will search and find subjects for our experiments in §Ythe bandit controlled lands§!.\n\n§GThis will increase Lysenko's sanity.§!\n§RThis will increase §YNKVD Disloyalty§!!§!"
 
- BAS_subject_files_URBAN:0 "Acquire Urban Subjects"
+ BAS_subject_files_URBAN:0 "도시민 실험체 확보"
  BAS_subject_files_URBAN_desc:0 "COMMUNIQUE 52.ia\n\nSubject material extraction protocol a. Troopers will extract subjects from urban centers in the vicinity of INSERT LOCATION (See Subject Extraction handbook for further information and the attached map of Urban Centers on pg. 10).\n\nCOMMUNIQUE 52.ia OVER"
  BAS_subject_files_URBAN_tt:0 "We will search and find subjects for our experiments in §Ythe urban areas§!.\n\n§GThis will increase Lysenko's sanity.§!\n§RThis will increase §YNKVD Disloyalty§!!§!"
 
- BAS_subject_files_ORENBURG:0 "Acquire Orenburgian Subjects"
+ BAS_subject_files_ORENBURG:0 "오렌부르크인 실험체 확보"
  BAS_subject_files_ORENBURG_desc:0 "COMMUNIQUE 52.id\n\nSubject material extraction protocol d. Troopers will extract subjects from the Peasent Settlements of Orenburg, located in the rebellious Orenburg Oblast. (See Subject Extraction handbook for further information and the attached map of the Orenburg Oblast on pg. 7)\n\nCOMMUNIQUE 52.id OVER"
  BAS_subject_files_ORENBURG_tt:0 "We will search and find subjects for our experiments in §Ythe Orenburg area§!.\n\n§GThis will increase Lysenko's sanity.§!\n§RThis will increase §YNKVD Disloyalty§!!§!"
 
- BAS_subject_files_KAZAKH:0 "Acquire Kazakh Subjects"
+ BAS_subject_files_KAZAKH:0 "카자흐 실험체 확보"
  BAS_subject_files_KAZAKH_desc:0 "COMMUNIQUE 52.if\n\nSubject material extraction protocol f. Troops will extract subjects from rebellious warlords in the north Kazakh Soviet Socialist Republic (KSSR). (See subject extraction handbook for further information and the attached map of Northern Kazakhstan Soviet Socialist Republic on pg. 2)\n\nCOMMUNIQUE 52.if\n\n§YLysenko as of now cannot declare on the Kazakh nations, as that is outside the scope of the demo. Therefore this focus is automatically bypassed and has no effects.§!"
  BAS_subject_files_KAZAKH_tt:0 "We will search and find subjects for our experiments in §Ythe Kazakh controlled areas§!.\n\n§GThis will increase Lysenko's sanity.§!\n§RThis will increase §YNKVD Disloyalty§!!§!"
 
