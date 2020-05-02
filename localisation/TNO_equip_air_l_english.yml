@@ -1,54 +1,7 @@
-﻿l_english:
-###For references###
- jet_fighter_equipment:0 "Jet Fighters"
- cv_jet_fighter_equipment:0 "Carrier Jet Fighter"
- jet_CAS:0 "Jet CAS"
- cv_jet_CAS:0 "Carrier Jet CAS"
- interceptor:0 "Interceptors"
- transport_helicopter_equipment:0 "Transport Helicopter"
- transport_helicopter_equipment_desc:0 "Transport Helicopter"
- transport_helicopter:0 "Transport Helicopter"
- attack_helicopter_equipment:0 "Attack Helicopter"
- attack_helicopter_equipment_desc:0 "Attack Helicopter"
- attack_helicopter:0 "Attack Helicopter" 
- asw_helicopter_equipment:0 "ASW Helicopter"
- asw_helicopter_equipment_desc:0 "ASW Helicopter"
- asw_helicopter:0 "ASW Helicopter" 
- scout_helicopter_equipment:0 "Scout Helicopter"
- scout_helicopter_equipment_desc:0 "Scout Helicopter"
- scout_helicopter:0 "Scout Helicopter" 
- helicopter_equipment:0 "Helicopter"
- helicopter_equipment_desc:0 "Helicopter"
- helicopter:0 "Helicopter"
- strat_bomber:0 "Strategic Bomber"
- fighter:0 "Fighter"
- cas:0 "CAS"
+﻿#NOTE - This file is for country-specific equipment loc. See equip_air_l_english for the generic stuff.
+l_english:
 
- jet_equipment_engines:0 "the research of light jet-powered aircraft"
- improved_jet_range_1:0 "Drop Tanks"
- improved_jet_range_2:0 "Improved Drop Tanks"
- jet_stealth_research:0 "the research of light stealth aircraft"
-
- jet_bomber_equipment_engines:0 "the research of heavy jet-powered aircraft"
- improved_bomber_range_1:0 "Aerial Refueling"
- improved_bomber_range_2:0 "Improved Aerial Refueling"
- bomber_stealth_research:0 "the research of heavy stealth aircraft"
-
- gunship_1964:0 "Douglas AC-47 Spooky"
- gunship_1966:0 "Fairchild AC-119K Stinger"
- gunship_1968:0 "Lockheed AC-130E Spectre"
- gunship_equipment_1:0 "Douglas AC-47 Spooky"
- gunship_equipment_1_short:0 "AC-47"
- gunship_equipment_1_desc:0 "What the hell kind of name is Nixon?"
- gunship_equipment_2:0 "Fairchild AC-119K Stinger"
- gunship_equipment_2_short:0 "AC-119"
- gunship_equipment_2_desc:0 "Heinrich is using Site Hotel Bravo. You know where it is. I'll see you in hell.\nLooking forward to it. Give my regards to Adolf if you get there first."
- gunship_equipment_3:0 "Lockheed AC-130E Spectre"
- gunship_equipment_3_short:0 "AC-130"
- gunship_equipment_3_desc:0 "General, I want this man Huttig alive. I don't care what it takes. You bring those men home in one piece."
-
- ### United States of America ###
- 
+### United States of America ### 
 ##Helicopters
  USA_transport_helicopter_equipment_1:0 "Bell UH-1 Huey"
  USA_transport_helicopter_equipment_1_short:0 "UH-1 Huey"
@@ -4443,6 +4396,7 @@
  COG_cv_jet_fighter_equipment_1:0 "Messerschmitt Me 262 T"
  COG_cv_jet_fighter_equipment_1_short:0 "Messerschmitt Me 262 T"
  COG_jet_fighter_equipment_2:0 "Horten Ho 229 A-3"
+ COG_jet_fighter_equipment_2_desc:0 "The Ho 229 has its origins in the late 1940's. The brainchild of the Horten Brothers, the A-0 version of the aircraft was designed as a fighter-bomber. The A-1 and A-2 prototypes saw limited use during the West Russian War for combat testing. Post-war, the Ho 229 A-3 became the Reich's chosen fighter, proving highly successful in combat despite its unorthodox flying wing design."
  COG_jet_fighter_equipment_2_short:0 "Horten Ho A-3"
  COG_cv_jet_fighter_equipment_2:0 "Focke-Wulf P.2411 T"
  COG_cv_jet_fighter_equipment_2_short:0 "Focke-Wulf P.2411 T"
@@ -4607,6 +4561,7 @@
  MZB_cv_jet_fighter_equipment_1:0 "Messerschmitt Me 262 T"
  MZB_cv_jet_fighter_equipment_1_short:0 "Messerschmitt Me 262 T"
  MZB_jet_fighter_equipment_2:0 "Horten Ho 229 A-3"
+ MZB_jet_fighter_equipment_2_desc:0 "The Ho 229 has its origins in the late 1940's. The brainchild of the Horten Brothers, the A-0 version of the aircraft was designed as a fighter-bomber. The A-1 and A-2 prototypes saw limited use during the West Russian War for combat testing. Post-war, the Ho 229 A-3 became the Reich's chosen fighter, proving highly successful in combat despite its unorthodox flying wing design."
  MZB_jet_fighter_equipment_2_short:0 "Horten Ho A-3"
  MZB_cv_jet_fighter_equipment_2:0 "Focke-Wulf P.2411 T"
  MZB_cv_jet_fighter_equipment_2_short:0 "Focke-Wulf P.2411 T"
@@ -4771,6 +4726,7 @@
  ANG_cv_jet_fighter_equipment_1:0 "Messerschmitt Me 262 T"
  ANG_cv_jet_fighter_equipment_1_short:0 "Messerschmitt Me 262 T"
  ANG_jet_fighter_equipment_2:0 "Horten Ho 229 A-3"
+ ANG_jet_fighter_equipment_2_desc:0 "The Ho 229 has its origins in the late 1940's. The brainchild of the Horten Brothers, the A-0 version of the aircraft was designed as a fighter-bomber. The A-1 and A-2 prototypes saw limited use during the West Russian War for combat testing. Post-war, the Ho 229 A-3 became the Reich's chosen fighter, proving highly successful in combat despite its unorthodox flying wing design."
  ANG_jet_fighter_equipment_2_short:0 "Horten Ho A-3"
  ANG_cv_jet_fighter_equipment_2:0 "Focke-Wulf P.2411 T"
  ANG_cv_jet_fighter_equipment_2_short:0 "Focke-Wulf P.2411 T"
