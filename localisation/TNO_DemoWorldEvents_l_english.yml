@@ -233,7 +233,7 @@ DEMOWORLDEVENT.53.a:0 "Who could have expected this?"
 
 # Global Flavor
 
-DEMOWORLDEVENT.54.t:0 "Brazil Wins World Cup Final" # WORLD.580 # 168 days
+DEMOWORLDEVENT.54.t:0 "브라질이 월드컵 결승전에서 승리하다" # WORLD.580 # 168 days
 DEMOWORLDEVENT.54.d:0 "The 1962 FIFA World Cup has today drawn to a close with the 3-1 victory of defending champions Brazil over Hungary in Santiago. Whilst Chile's ability to host the 1962 World Cup had been questioned following a devastating earthquake in the country two years ago, the Chilean effort to rebuild and complete the preparations earned international admiration.\n\nThe tournament became marred in controversy however, with violent clashes erupting between the Italian and Chilean teams in what the media has labeled the 'Battle of Santiago'. Local police forces were later required when violence erupted between German and Hungarian fans following the German Semi-Final 2-1 defeat against Hungary, with Germany finishing in fourth place after going on to lose the third place playoff against hosts Chile.\n"
 DEMOWORLDEVENT.54.a:0 "Congratulations to the champions!"
 
@@ -243,9 +243,9 @@ DEMOWORLDEVENT.55.a:0 "Tokyo has left quite the impression."
 
 # Burgundy
 
-DEMOWORLDEVENT.56.t:0 "Has Burgundy Finally Done It?"
-DEMOWORLDEVENT.56.d:0 "The Swiss Seismological Service has issued a press release with worrying news. Last night, their HQ in Zürich noted a seismological event somewhere in the Burgundian Jura that lasted four seconds and reached 4.6 on the Richter scale. Due to the lack of aftershocks, they concluded that this is "not natural activity, but likely a man-made incident." Several Swiss radiologists have also reported a spike in airborne radiation equivalent to a mild nuclear meltdown... or an atomic airblast.\n\nGovernments worldwide have arrived at one conclusion: the Burgundians have successfully tested a nuclear device, twice as strong as the one dropped on Pearl Harbor in 1945. With the Shadow State remaining tight-lipped as ever, the news will likely never be confirmed. Still, it seems that [GetYear] will be remembered as a dark point in history: the year Burgundy ascended to the ranks of the nuclear powers.\n"
-DEMOWORLDEVENT.56.a:0 "God help us all."
+DEMOWORLDEVENT.56.t:0 "부르군트가 결국 저질렀나?"
+DEMOWORLDEVENT.56.d:0 "스위스 지진 서비스가 걱정스러운 공식 발표를 했습니다. 지난 밤, 취리히의 지진 서비스 본부는 부르군트령 쥐라에서 발생한 지진을 관측했습니다. 지진은 4초 동안 계속되었으며 진도는 리히터 규모 4.6이었습니다. 스위는 지진 서비스는 여진이 없었기에 "자연적인 지진이 아닌 인공 지진으로 보인다"고 결론내렸습니다. 몇몇 방사선과 의사들은 공기중 방사선량이 가벼운 노심융융이나 공중 핵폭발과 같은 수준으로 치솟았다고 보고했습니다.\n\n전세계 정부는 한가지 결론에 도달했습니다. 부르군트가 핵실험에 성공했습니다. 사용된 핵무기의 위력은 1945년 진주만에 떨어진 것의 두 배입니다. 그림자 국가가 계속 입을 닫고 있기에 이 뉴스가 검증될 일은 없을 것입니다. 그래도 [GetYear]년은 역사의 어두운 순간으로 기억될 것입니다. 부르군트가 핵보유국이 된 해로.\n"
+DEMOWORLDEVENT.56.a:0 "주여 우리를 도우소서."
 
 # GCW Anarchy
 
@@ -263,28 +263,28 @@ DEMOWORLDEVENT.58.a:0 "Great minds of a generation, working from the dark!"
 
 DEMOWORLDEVENT.59.t:0 "Freedom for Angola?"
 DEMOWORLDEVENT.59.d:0 "As the South African war continues to envelop the entire southern African continent, a baffling report has come back from the capital of Sudwestaftika: early in the day half a dozen of Luftwaffe transports planes took off heading to a destination unknown, amongst its passengers were Reichskommissar Wolfgang Schenck, his closest aides, and their families. In an even more shocking turn of events, the Reichskommissar's private Doctor, Jonas Savimbi, proceeded to make a speech on Radio Luanda hours after the plane left, declaring himself president of an independent Angola, and calling his citizens to take up arms and defend the newborn Nation. Thousands of Ovimbundu militiamen, alongside Native SS units stationed at the rear have already pledged allegiance to the new President, with fighting between them and their former Schild allies already erupting across Angola."
-DEMOWORLDEVENT.59.a:0 "Wait, what?"
+DEMOWORLDEVENT.59.a:0 "잠깐, 뭐라고?"
 
 DEMOWORLDEVENT.60.t:0 "German Loyalists Seize Namibia"
 DEMOWORLDEVENT.60.d:0 "A new development has presented itself in the chaos that continues to engulf Africa. German settlers in Namibia have joined hands with soldiers stranded by the Angolan independence movement to seize control of the region. Native organizations proved too disunited and disorganized to resist the German takeover.\n\nThe German prospects in the region are uncertain. Their logistics badly affected by the Angolan rebellion, the German armies in the African south west face a tough fight to hold their ground against enemy offensives. International observers fear bloody waves of retaliatory violence against native population as the new German administration desperately attempts to restore order with its limited ressources." #(World event about Namibia falling under control of the German remnants after Angola is Freed)
 DEMOWORLDEVENT.60.a:0 "Namibia is German again, but for how long?"
 #Ostafrika
 
-DEMOWORLDEVENT.61.t:0 "Chemical Weapons Used in South Africa!"
-DEMOWORLDEVENT.61.d:0 "When the first scattered reports came in from the front, they were dismissed as misidentified smoke clouds by panicked soldiers. But when the casualties, choking and gasping for air, were carried past TV cameras and reporters, there was no denying it.\n\nFor the first time since World War I, the United States Army was assaulted by a poison gas attack-and at the hands of the Germans, no less. It was suspected that Hans Hüttig's forces in Ostafrika had chemical weapons, although few believed he would ever use them in the field. But he has, violating one of the only widely-respected taboos in modern warfare. The American government has already promised retribution, and an outpouring of support for America has flooded in from around the world. There are now few who doubt who the greater evil is in the South African War."
-DEMOWORLDEVENT.61.a:0 "How horrifying!"
-DEMOWORLDEVENT.61.b:0 "Victory at any cost!"
-DEMOWORLDEVENT.61.c:0 "Is there no limit to German depravity?"
+DEMOWORLDEVENT.61.t:0 "남아프리카에서 화학무기가 사용되다!"
+DEMOWORLDEVENT.61.d:0 "전선에서 산발적인 보고가 처음 도착했을 때, 사람들은 당황한 병사들이 먼지구름을 보고 착각한거라고 여겼습니다. 하지만 숨막혀하며 헐떡거리는 희생자의 모습이 TV 카메라와 리포터를 통해 전해지자 이 사실을 부정하는 사람은 아무도 없었습니다.\n\n미군은 제1차 세계 대전 이후 처음으로 독일군의 가스 공격을 받았습니다. 오스트아프리카의 한스 휘티히 휘한 군대가 화학무기를 가지고 있다는 의심은 있었지만 전장에서 이게 사용될거라고 믿었던 사람은 적었습니다. 하지만 휘티히는 현대전의 널리 알려진 금기 중 하나를 어겼습니다. 미국 정부는 보복을 다짐했으며 세계 각국에서 미국을 위한 지원이 몰려들고 있습니다. 이제 남아프리카 전쟁에서 더 나쁜 놈이 누군지 의심하는 사람은 거의 없습니다."
+DEMOWORLDEVENT.61.a:0 "끔찍해라!"
+DEMOWORLDEVENT.61.b:0 "무슨 수를 써서라도 승리하라!"
+DEMOWORLDEVENT.61.c:0 "독일의 타락에는 선이라는게 없나?"
 
-DEMOWORLDEVENT.62.t:0 "The Schild Broken?"
+DEMOWORLDEVENT.62.t:0 "실트가 부서졌다?"
 DEMOWORLDEVENT.62.d:0 "The Afrika-Schild was an alliance of convenience between the German colonies of Africa seeking to secure their survival in the wake of the German Civil War. When they invaded South Africa, many assumed that it would eventually unravel, either due to the constituent regimes' collapse or an OFN military victory. But it came due to a most unexpected cause: betrayal from within.\n\nAmerican intelligence has verified reports that Hans Hüttig, Reichskommissar of Ostafrika, has murdered his compatriots Wolfgang Schenck and Siegfried Müller and claimed their armies for himself. Hüttig has since proclaimed a "Großafrikanischer Reichsstaat" comprising all of German Africa with himself as it sole leader. However, this outraged the Germans, who declared his new regime illegitimate. Without aid from home, the future of Hüttig's super-state looks bleak."
 DEMOWORLDEVENT.62.a:0 "They'll even kill each other."
-DEMOWORLDEVENT.62.b:0 "Heil Hüttig!"
-DEMOWORLDEVENT.62.c:0 "Just keep fighting!"
+DEMOWORLDEVENT.62.b:0 "하일 휘티히!"
+DEMOWORLDEVENT.62.c:0 "그냥 계속 싸워!"
 
-DEMOWORLDEVENT.63.t:0 "The USA Declares War On The Africa-Schild"
+DEMOWORLDEVENT.63.t:0 "미국이 아프리카 실트에 선전포고하다"
 DEMOWORLDEVENT.63.d:0 "The latest in a series of dramatic escalations in the South African War, Cold War tensions have now reached their highest point since the Hawaiian Missile Crisis with the US decision to directly enter the South African War along with their OFN allies. Speaking before Congress the US President claimed that the Afrika-Schild had left the OFN no choice following the German use of chemical weapons which resulted in the deaths of almost 300 US soldiers.\n\nSo far the German response remains unclear, with reports of vicious debate consuming the Reichstag and rumor that the Führer has ordered the arrest of Reichskommissar Hans Hüttig. Yet the world now holds its breath fearing a German direct intervention in response will begin an apocalyptic third world war, as tens of thousands of US soldiers now prepare for deployment."
-DEMOWORLDEVENT.63.a:0 "Is this the begining of the end?"
+DEMOWORLDEVENT.63.a:0 "이것이 시작의 끝인가?"
 
 DEMOWORLDEVENT.64.t:0 "The End Of The South African War"
 DEMOWORLDEVENT.64.d:0 "The most controversial and significant international conflict since the Second World War, the South African War has now come to an end with today's coming into force of the Treaty of Windhoek. With Oberst Rolf Steiner signing for the German forces, and General Creighton Abrams signing for the forces of the OFN, the outcome of the war appears to be firmly in favor of the OFN.\n\nWith the African Reichskommissariats surrendering significant territory and the Boer Republic dismantled as per the terms of the treaty, leadership on both sides now look towards the future. Yet with South Africa now responsible for the administration of a vast swathe of new territories, and enduring internal strife consuming German Africa, many internationally fear that the end of one conflict may only be the beginning of many more."
@@ -321,20 +321,20 @@ DEMOWORLDEVENT.70.c:0 "Just keep fighting."
 DEMOWORLDEVENT.71.t:0 "German Intervention in the South African War"
 DEMOWORLDEVENT.71.desc:0 "In a press release published by the office of the Führer, Hans Speidel announced today that his government would be intervening in the South African War.\n\nThe move comes after weeks of speculation over whether Führer Speidel would take action. The former Wehrmacht commander is notably averse to military engagements and has reportedly questioned the value of intervening to defend "profitless hell-holes".\n\nNonetheless, it seems that the cabal of generals that surrounds the Führer have managed to convince him to engage the Americans and South Africans after all. So far, Germany has sent only a handful of special-forces and logistical units into battle, but more are likely to come. While they will no doubt come as a relief to the embattled RK's, time will tell if it's enough to turn the tide."
 DEMOWORLDEVENT.71.a:0 "Will this war never end?"
-DEMOWORLDEVENT.71.b:0 "Finally, reinforcements."
+DEMOWORLDEVENT.71.b:0 "드디어 증원군이 왔다."
 DEMOWORLDEVENT.71.c:0 "At least they've grown some ethics."
 
 DEMOWORLDEVENT.72.t:0 "German Intervention in the South African War"
 DEMOWORLDEVENT.72.desc:0 "In a televised press conference from the Reichstag this morning, Fuhrer Albert Speer of the German Reich announced that the Wehrmacht would be immediately moving to intervene in South Africa in "an attempt to bring stability to the region."\n\nIn his speech, the Fuhrer detailed his fears about the escalation of violence in Africa without a German presence. Although he did not go so far as to condemn American and OFN forces, which he referenced indirectly several times, he instead firmly stated that "peace will return to Africa" and that he is seeking a negotiated end to hostilities and the return of all unlawfully seized German territory."
 DEMOWORLDEVENT.72.a:0 "The Reformer has some teeth."
-DEMOWORLDEVENT.72.b:0 "Finally, reinforcements."
+DEMOWORLDEVENT.72.b:0 "드디어 증원군이 왔다."
 DEMOWORLDEVENT.72.c:0 "At least they've got some moral backbone."
 
 
 DEMOWORLDEVENT.73.t:0 "German Intervention in the South African War"
 DEMOWORLDEVENT.73.desc:0 "In a fiery speech from outside of the ruins of the Reichstag, Ferdinand Schörner today announced that his "Government of National Reconstruction" would be immediately intervening "to end the unprecedented American Aggression" in Africa.\n\nTo those inexperienced with Schörner's leadership style, the move might come as a surprise. Germany lies largely in ruins, its people are wrought with trauma and starvation and dissident followers of the defeated Führers infest every corner of the nation. But despite these problems, or perhaps because of them, the Reich has decided to join its colonies' war.\n\nAlready, Schörner has sent units of the long-suffering Volkssturm accompanied by shock troops to join the fight. Whether it will be enough to turn the tide remains to be seen."
 DEMOWORLDEVENT.73.a:0 "Will this war never end?"
-DEMOWORLDEVENT.73.b:0 "Finally, reinforcements."
+DEMOWORLDEVENT.73.b:0 "드디어 증원군이 왔다."
 DEMOWORLDEVENT.73.c:0 "Just how many of them are there?"
 
 ##Russia unification - im dying please help
