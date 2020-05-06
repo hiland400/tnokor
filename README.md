@@ -18,3 +18,5 @@ Burgundian, Burgund 등등 = 부르군트
 Triumvirate = 트리움비라투스
 
 Unity-Pakt = 유니티-팍트
+
+남서아프리카 중앙아프리카 동아프리카로 통일합시다 
