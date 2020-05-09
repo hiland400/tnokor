@@ -42,11 +42,11 @@
  MZB_communist_ADJ:0 "Mozambican"
 
  ##### Investigation stuff #####
- MZB_investigation_proof_empty:0 "§gEmpty Box§!"
+ MZB_investigation_proof_empty:0 "§g비어있음§!"
  MZB_investigation_proof_error:0 "§PUnexpected Value§!"
  MZB_investigation_proof_unavailable:0 "§g아직 찾지 못한 증거§!"
 
- MZB_investigation_proof_0:0 "§Y모리스 샬이 서명한 게네랄뷔로 계약서§!"
+ MZB_investigation_proof_0:0 "§Y모리스 샬이 서명한 총국 계약서§!"
  MZB_investigation_proof_1:0 "§Y자유프랑스군에 대량의 대공포를 판다는 계약§!"
  MZB_investigation_proof_2:0 "§Y중앙아프리카 자산의 수상한 움직임§!"
  MZB_investigation_proof_3:0 "§Y중앙아프리카 투자자의 삭제된 리스트§!"
@@ -78,8 +78,8 @@
  MZB_investigation_proof_28:0 "§Y솅크가 서명한 완전히 조작된 재정 보고서§!"
  MZB_investigation_proof_29:0 "§Y버려진 나미비아 국경 초소 사진§!"
 
- MZB_investigate_treason_category:0 "반역 행위를 조사한다"
- MZB_investigate_treason_category_desc:0 "우리만 아프리카에 있는 것이 아닙니다. 우리는 지난 4년 동안 중앙아프리카와 남서아프리카의 동포들과 독일령 아프리카 행정을 함께 해야 했습니다. 라이히는 국가판무관 뮐러와 국가판무관 솅크가 더할나위 없이 무능하다는 사실을 모른체하고 있는 것 같습니다. 하지만 한스 휘티히는 바보가 아닙니다.\n\n우리 요원들은 놈들의 정권 전체에 스며들 것입니다. 우리는 놈들이 타락하고 무능한 반역자라는 증거를 모을 것입니다. 그리고 그 증거를 총통의 책상으로 보낼 것입니다!\n\nSummary of our evidence incriminating §R지크프리트 뮐러§!:\n- [MZB.GetMZBMullerEvidenceMullerBox1]\n- [MZB.GetMZBMullerEvidenceMullerBox2]\n- [MZB.GetMZBMullerEvidenceMullerBox3]\n- [MZB.GetMZBMullerEvidenceMullerBox4]\n\nSummary of our evidence incriminating §R볼프강 솅크§!:\n- [MZB.GetMZBSchenckEvidenceSchenckBox1]\n- [MZB.GetMZBSchenckEvidenceSchenckBox2]\n- [MZB.GetMZBSchenckEvidenceSchenckBox3]\n- [MZB.GetMZBSchenckEvidenceSchenckBox4]\n\n"
+ MZB_investigate_treason_category:0 "반역 행위 조사"
+ MZB_investigate_treason_category_desc:0 "우리만 아프리카에 있는 것이 아닙니다. 우리는 지난 4년 동안 중앙아프리카와 남서아프리카의 동포들과 독일령 아프리카 행정을 함께 해야 했습니다. 라이히는 국가판무관 뮐러와 국가판무관 솅크가 더할나위 없이 무능하다는 사실을 모른체하고 있는 것 같습니다. 하지만 한스 휘티히는 바보가 아닙니다.\n\n우리 요원들은 놈들의 정권 전체에 스며들 것입니다. 우리는 놈들이 타락하고 무능한 반역자라는 증거를 모을 것입니다. 그리고 그 증거를 총통의 책상으로 보낼 것입니다!\n\n§R지크프리트 뮐러§!가 유죄임을 나타내는 증거 일람:\n- [MZB.GetMZBMullerEvidenceMullerBox1]\n- [MZB.GetMZBMullerEvidenceMullerBox2]\n- [MZB.GetMZBMullerEvidenceMullerBox3]\n- [MZB.GetMZBMullerEvidenceMullerBox4]\n\n§R볼프강 솅크§!가 유죄임을 나타내는 증거 일람:\n- [MZB.GetMZBSchenckEvidenceSchenckBox1]\n- [MZB.GetMZBSchenckEvidenceSchenckBox2]\n- [MZB.GetMZBSchenckEvidenceSchenckBox3]\n- [MZB.GetMZBSchenckEvidenceSchenckBox4]\n\n"
  MZB_send_the_evidence:0 "증거를 보낸다"
  MZB_send_the_evidence_desc:0 ""
 
@@ -90,32 +90,32 @@
  MZB_schenck_medium_investigation:0 "§Y솅크§!를 조사한다"
  MZB_schenck_priority_investigation:0 "§Y솅크§!를 철저하게 조사한다"
  
- MZB_money_cost_1_tt:0 "We have §Y$1 Million§! in our investigation funds."
- MZB_money_cost_2_tt:0 "We have §Y$2 Million§! in our investigation funds."
- MZB_money_cost_3_tt:0 "We have §Y$3 Million§! in our investigation funds."
+ MZB_money_cost_1_tt:0 "조사 자금으로 §Y$100만 달러§!가 있습니다."
+ MZB_money_cost_2_tt:0 "조사 자금으로 §Y$200만 달러§!가 있습니다."
+ MZB_money_cost_3_tt:0 "조사 자금으로 §Y$300만 달러§!가 있습니다."
 
  MZB_schenck_investigation:0 "솅크를 조사하는 중"
  MZB_muller_investigation:0 "뮐러를 조사하는 중"
 
- MZB_small_investigation:0 "$1 Million"
- MZB_medium_investigation:0 "$2 Million"
- MZB_priority_investigation:0 "$3 Million"
+ MZB_small_investigation:0 "100만 달러"
+ MZB_medium_investigation:0 "200만 달러"
+ MZB_priority_investigation:0 "300만 달러"
 
  MZB_secure_funding_1:0 "게르마니아에게서 자금을 확보한다"
  MZB_secure_funding_2:0 "게르마니아에게 증거를 약속한다"
- MZB_secure_funding_tt:0 "We will recieve §Y$10 Million§! to further our investigations"
+ MZB_secure_funding_tt:0 "추가 조사를 위해 §Y$1000만 달러§!를 받을 것입니다"
 
- MZB_monitor_funding:0 "Our Investigation funds stand at §Y$[?investigation_funds] Million§!"
+ MZB_monitor_funding:0 "현재 우리 조사 자금은 §Y[?investigation_funds]00만 달러§!입니다"
 
  ####Party Names#####
 
- MZB_burgundian_system_party:0 "SS-Ostafrika"
- MZB_burgundian_system_party_long:0 "SS-Ostafrika"
- MZB_national_socialism_party:0 "Generalbüro für Ostafrikanische Angelegenheiten"
- MZB_national_socialism_party_long:0 "Generalbüro für Ostafrikanische Angelegenheiten"
+ MZB_burgundian_system_party:0 "동아프리카 친위대"
+ MZB_burgundian_system_party_long:0 "동아프리카 친위대"
+ MZB_national_socialism_party:0 "동아프리카업무총국"
+ MZB_national_socialism_party_long:0 "동아프리카업무총국"
 
- MZB_reichstaat_party:0 "Arisierungskommittee Großafrika"
- MZB_reichstaat_party_long:0 "Arisierungskommittee Großafrika"
+ MZB_reichstaat_party:0 "대아프리카 아리아인화위원회"
+ MZB_reichstaat_party_long:0 "대아프리카 아리아인화위원회"
 
  ## Ministers ##
  MZB_Hans_Huttig_dep:0 "한스 휘티히"
@@ -130,8 +130,8 @@
  MZB_Aryan_Only_SS_desc:0 "라이히의 다른 조직들은 열등인종의 합류를 반기고 있지만 우리는 그런 짓을 할 수 없습니다. 원주민은 자신들이 독일인보다 못하다는 것을 알아야 합니다. 그렇기에 오스트아프리카의 친위대는 순수 혈통 아리아인으로만 이루어집니다."
  MZB_The_Unending_War:0 "끝없는 전쟁"
  MZB_The_Unending_War_desc:0 "집요하게 게릴라전을 벌이는 원주민 저항 조직 때문에 우리 식민지는 거의 계속 전시입니다. 순찰대는 습격당하고 수송대는 약탈당하며 진지는 습격당하고 정착지는 불탑니다. 우리 병사들 중 제일 용맹한 이들도 문명의 등대에서 멀리 떨어지는 것을 두려워합니다."
- MZB_Filling_The_Stores:0 "Filling The Stores"
- MZB_Filling_The_Stores_desc:0 "It is important for us to keep our garrison armed and ready. We will waste nothing in our efforts to obtain more weapons.\n\nAnd whatever we have, we will keep for ourselves."
+ MZB_Filling_The_Stores:0 "창고 채우기"
+ MZB_Filling_The_Stores_desc:0 "우리 주둔군을 무장시키고 준비하는 것은 중요한 일입니다. 우리는 한치의 낭비도 없이 무기를 얻을 것입니다.\n\n그리고 우리가 뭘 가졌던, 우리는 우리를 지킬 것입니다."
  MZB_Oberkommando_Der_Afrika_Idea:0 "아프리카 최고사령부"
  MZB_Oberkommando_Der_Afrika_Idea_desc:0 "The other Reichskommissariats are incredibly far from the reality of this war, and their incompetence is going to cost us victory in our war against the South Africans. To assert our control over our efforts, we have created a joint command to coordinate their efforts with our own.\n\nThe OAS shall see us through to victory over the degenerate Republic."
  MZB_Tribal_Recruitment:0 "Tribal Recruitment"
@@ -160,10 +160,10 @@
  MZB_Surrounded_By_Degeneracy_2_desc:0 "한스 휘티히 국가판무관은 타락의 바다에 홀로 떠있는 섬입니다. 동아프리카 안팎의 사악한 이들은 독일의 정당한 아프리카 지배를 끝내려 계략을 꾸미고 있습니다. 멍청한 관료들의 느슨한 규율은 독일 민족의 레벤스라움에 불만과 혼란을 부추길 뿐입니다.\n\n이걸 끝내기 위해 휘티히는 모든 아리아인의 이름으로 성전을 시작했습니다. 반역자, 무능력자, 쾌락주의자, 반군 그 외 모든 열등인종들은 늦게나마 최후를 맞게 될 것입니다. 총알의 종착지가 되거나. 강제수용소에서 라이히를 위해 일하며 여생을 보내거나."
  MZB_Surrounded_By_Degeneracy_3:0 "타락에 포위되어"
  MZB_Surrounded_By_Degeneracy_3_desc:0 "한스 휘티히 국가판무관은 타락의 바다에 홀로 떠있는 섬입니다. 동아프리카 안팎의 사악한 이들은 독일의 정당한 아프리카 지배를 끝내려 계략을 꾸미고 있습니다. 멍청한 관료들의 느슨한 규율은 독일 민족의 레벤스라움에 불만과 혼란을 부추길 뿐입니다.\n\n이걸 끝내기 위해 휘티히는 모든 아리아인의 이름으로 성전을 시작했습니다. 반역자, 무능력자, 쾌락주의자, 반군 그 외 모든 열등인종들은 늦게나마 최후를 맞게 될 것입니다. 총알의 종착지가 되거나. 강제수용소에서 라이히를 위해 일하며 여생을 보내거나."
- MZB_conscripted_additional_workers:0 "Conscripted Additional Workers"
- MZB_conscripted_additional_workers_desc:0 "In order to speed up preparations and supplies for the army in the face of scarcity of specialized workforce, the Ostafrika administration has ordered to conscript and train more laborers to work in the chemical plants and in the military factories, greatly increasing production rates."
- MZB_reduced_worker_rations:0 "Reduced Worker Rations"
- MZB_reduced_worker_rations_desc:0 "Our best instrument in war is our army. And our best chances of winning such a war is in that army. But without food, our army will rust like exposed iron, and we know how rust ruins instruments.\n\nThe order is set; rations from the workers shall be stripped and given to the army."
+ MZB_conscripted_additional_workers:0 "노동자 추가 징발"
+ MZB_conscripted_additional_workers_desc:0 "전문 노동력이 부족한 상황에서 우리 군대를 보급하고 준비하기 위해, 동아프리카 행정부에서 화학공장과 군수공장에서 일할 노동자를 징발 및 훈련해 생산율을 올리라는 지시를 내렸습니다."
+ MZB_reduced_worker_rations:0 "노동자 배급량 삭감"
+ MZB_reduced_worker_rations_desc:0 "전쟁에서 우리가 쓸 제일 좋은 도구는 우리들의 군대입니다. 우리가 이런 전쟁에서 이길 수 있는 기회는 군대에 있습니다. 하지만 우리 군대에게 식량이 없다면 비바람을 맞은 금속처럼 녹슬어버릴겁니다.\n\n명령은 내려졌습니다. 노동자에게서 빼앗은 식량은 군대로 보내질겁니다."
  MZB_gas_gas_gas:0 "가스 가스 가스!"
  MZB_the_drums_of_war:0 "전쟁의 북"
  MZB_hell_on_earth_self:0 "생지옥"
@@ -266,8 +266,8 @@
  MZB_fortify_kampala:0 "Fortify Kampala"
  MZB_fortify_kampala_desc:0 "The region of second most significant native resistance after Southern Rhodesia, Kampala has been designated to become the final holdout position. Should the OFN overrun the rest of Ostafrika, Kampala will be where we make our last stand. There we shall either break the OFN, or die to the last as heroes of the Reich."
 
- MZB_war_preparations_category:0 "War Preparations"
- MZB_war_preparations_category_desc:0 "Conflict in Afrika is surely inevitable, and while our fellows in the other colonies may not care about preparing for such conflcit, we certainly do. Preparing for the war will also help keep the reichkommissar from becoming too consumed in proving the treason of Schenk and Müller, a possible pointless endeavor."
+ MZB_war_preparations_category:0 "전쟁 준비"
+ MZB_war_preparations_category_desc:0 "아프리카에서 전쟁이 일어날 것은 확실합니다. 다른 식민지의 우리 동지들이 준비하려하지 않더라도, 우리는 확실히 준비합니다. 전쟁 준비는 국가판무관이 솅크와 밀러의 반역 증거를 찾는 무의미할지도 모르는 일에 너무 빠져들지 않게도 해줍니다."
  MZB_conscript_more_workers:0 "Conscript More Workers"
  MZB_conscript_more_workers_desc:0 "The Devil finds work for idle hands. The natives that we aren't shoving into mines and factories are plotting and scheming against us. We must make sure that all natives labor, day and night, for both the good of Ostafrika and themselves. It is such a waste when hearty, strong slaves waste their energy in fruitless rebellion."
  MZB_reduced_rations_for_workers:0 "Reduced Rations for Workers"
@@ -288,11 +288,11 @@
 
  ## Tooltips ##
  MZB_booby_trap_the_border_tooltip:0 "§YCompleting this focus will unlock a new set of decisions, allowing us to prepare traps along our border with South Africa.§!\n"
- MZB_supply_the_boers_tooltip:0 "§YCompleting this focus will unlock a new set of decisions, allowing us to send equipment to the Boer Republic.§!\n"
+ MZB_supply_the_boers_tooltip:0 "§이 중점을 완료하면 보어 공화국에게 장비를 보내는 결정들이 해금됩니다.§!\n"
  MZB_boer_support_staff_tooltip:0 "§YShould the Boers ever attempt to rise up against their oppressors, they too will gain valuable doctrinal understanding and experience from our joint training.§!\n"
  MZB_unified_holdouts_tooltip:0 "§YCompleting this focus will unlock a new set of decisions, allowing us to fortify key positions throughout Ostafrika in order to prepare for a potential major OFN offensive.§!\n"
  MZB_prepare_the_werewolves_tt:0 "§Y웨어울프 사단은 특별한 취급을 받으며 추가 인력과 장비를 받습니다.§!"
- MZB_pay_muellers_men_tooltip:0 "§YWe will use our reserves to pay for the service of the Zentralafrikan garrison.§!\n"
+ MZB_pay_muellers_men_tooltip:0 "§Y우리 예비금으로 중앙아프리카 주둔군에게 봉급을 줍니다.§!\n"
  MZB_rigged_to_blow_tooltip:0 "§Y보어 영토가 적에게 넘어간 순간 그곳에 있는 우리 자산에 폭탄이 설치될 것입니다.§!\n"
  MZB_take_their_prisoners_tooltip:0 "§Y포로들이 노동에 투입되어 경제 생산량을 늘릴 것입니다.§!\n"
  MZB_skim_the_cream_tooltip:0 "§Y불필요한 예산을 전부 삭감해 전쟁수행에 재분배할 것입니다.§!\n"
@@ -336,7 +336,7 @@
  MZB_booby_trap_the_border:0 "국경 부비트랩"
  MZB_booby_trap_the_border_desc:0 "With the war looming closer every day, we need to actively prepare for the worst. While the other "Reichskommissars" - it feels an insult to the office Hüttig represents to even call them as such - have done nothing, WE are prepared.\n\nIn order to slow the enemy advance until we can fully mobilise our scattered forced, and inflict as many losses to the enemy without any on our part, we shall disseminate the border with dozens of large minefields, and wire-trap most bridges and railroads the enemy might use against us. With the border effectively booby-trapped, the OFN will think twice before entering our realm. Oh, the surprises we have in store for them..."
  MZB_kick_the_hornets_nest:0 "벌집 쑤시기"
- MZB_kick_the_hornets_nest_desc:0 "남아프리카는 무정부 상태에 완전히 빠지기 직전입니다. 영국인들이 군사 손실을 두려워하는 보어인 반란과 원주민의 불만은 전 자치령이 붕괴할 가능성을 점점 높혀가고 있습니다. 우리는 이 무너져가는 썩어빠진 조직에 치명타를 먹여야 합니다.\n\n대낮에 유명 정치인을 암살하면 우리 분노로부터 자신들을 지키려는 정치기관이 옥신각신하며 남아프리카의 정치적 혼란이 가중될 것입니다..."
+ MZB_kick_the_hornets_nest_desc:0 "남아프리카는 완전한 무정부 상태에 빠지기 직전입니다. 영국인들이 군사 손실을 두려워하는 보어인 반란과 원주민의 불만은 전 자치령이 붕괴할 가능성을 점점 높혀가고 있습니다. 우리는 이 무너져가는 썩어빠진 조직에 치명타를 먹여야 합니다.\n\n대낮에 유명 정치인을 암살하면 우리 분노로부터 자신들을 지키려는 정치기관이 옥신각신하며 남아프리카의 정치적 혼란이 가중될 것입니다..."
  MZB_arms_for_aryans:0 "아리아인을 위한 무기"
  MZB_arms_for_aryans_desc:0 "With war looming, we need to enact all our contingency plans. Our reserves shall be fully mobilised, and all our armouries will produce at full capacity, no matter the cost in slaves. Still, our industrial capacity is limited, and we need to ask for help from our government in Germania.\n\nWhile we wait for the supplies, we shall implement harsher training regimes and increased emergency measures, so that we won't be caught unprepared by a sudden attack to our vulnerable areas..."
  MZB_building_a_stockpile:0 "Building a Stockpile"
@@ -373,16 +373,16 @@
  MZB_get_your_free_tvs_desc:0 "As a measure to improve morale and quality of life for all members of the superior races, be they Germans, Boers or Anglos, the government shall subsidise a campaign to get a free TV to every household. With it, they will be able to watch all channels broadcasted from Germany, both entertainment and culture.\n\nOf course, what they don't know is that each and every appliance has been fitted with a hidden microphone, connected to the wiretapping branch of our security services. With this, we'll be able to control everyone, inside and outside of their private sphere..."
  MZB_be_happy_or_else:0 "행복하십시오, 아니면"
  MZB_be_happy_or_else_desc:0 "우리 정부와 휘티히 국가판무관은 레벤스라움 확장을 위해 이 위험한 땅에 사는 용감한 아리아인들을 위해 존재합니다. 물론 모든 아리아인들은 이 보호의 대가로 총통과 민족 전체에 대한 의무를 다해야 합니다! 그래도 아직 요구할 것이 남아있습니다...\n\n우리 식민정부는 스바스티카와 천년제국에 충성을 맹세한 모든 이를 지킬만큼 일하고 있습니다. 우리는 이기주의자, 패배주의자, 그리고 다른 무엇보다도 "개혁가"를 봐주지 않습니다. 모두가 복종할 것입니다. 아니면 불충의 결과를 맞이할 것입니다..."
- MZB_send_the_signal:0 "Send the Signal"
+ MZB_send_the_signal:0 "신호를 보내라"
  MZB_send_the_signal_desc:0 ""
 
  MZB_now_it_begins:0 "이제 시작한다"
- MZB_now_it_begins_desc:0 "첫 총성과 함께 아프리카-실트와 남아프리카, 그리고 남아프리카를 움직이는 미국의 전쟁이 시작되었다. 20년 전과 같이, 자랑스러운 아리아인은 우월한 의지만을 가지고 압도적으로 우월한 적을 상대하고 있다. 20년 전과 같이, 우리는 저 바보들에게 지배자 민족의 우월성을 보여줄 것이다!\n\n마지막 한 명까지 군대를 동원하라! 전차를 생산하라, 폭격기와 대포를 생산해라! Für Führer und Vaterland, wir werden siegreich sein!"
- MZB_assist_their_generals:0 "장군 지원"
+ MZB_now_it_begins_desc:0 "첫 총성과 함께 아프리카-실트와 남아프리카, 그리고 남아프리카를 움직이는 미국의 전쟁이 시작되었다. 20년 전과 같이, 자랑스러운 아리아인은 우월한 의지만을 가지고 압도적으로 우월한 적을 상대하고 있다. 20년 전과 같이, 우리는 저 바보들에게 지배자 민족의 우월성을 보여줄 것이다!\n\n마지막 한 명까지 군대를 동원하라! 전차를 생산하라, 폭격기와 대포를 생산해라! 총통 각하와 조국을 위해, 우리는 승리할 것이다!"
+ MZB_the_schild_united:0 "연합한 실트"
  MZB_the_schild_united_desc:0 "As the main proponent of the Afrika-Schild, it's Ostafrika's duty to coordinate the joined war effort of the German Reichskommissariaten in the Dark Continent. Divided, we are weak, but united, no one will stand against our combined might!\n\nIt's time to forget about past grievances, and fight together against the common enemy! Aryan brothers all across Africa, answer this call! Für Führer und Vaterland, lasst uns gegen den Feind vereinen!"
- MZB_assist_their_industries:0 "산업 지원"
+ MZB_assist_their_generals:0 "장군 지원"
  MZB_assist_their_generals_desc:0 "Unlike us, the other Reichskommissars have mainly neglected keeping an efficient General Staff. As a result, their forces are lagging behind and finding it difficult to coordinate across long distances, with their generals unable to properly lead units distant hundreds of miles from their command tents...\n\nWhile there will be ample time to talk about this shameful behaviour when the war is won - and we will NOT forget to remind our brothers of that - there are more urgent matters to attend to, and for now we shall send aides with enough support equipment and personnel to help the other generals to better coordinate the war effort."
- MZB_assist_their_industries:0 "Assist Their Industries"
+ MZB_assist_their_industries:0 "산업 지원"
  MZB_assist_their_industries_desc:0 "To say that industrial development across Zentralafrika and Süd-Westafrika is... disappointing, is an understatement. Their ill-managed factories can barely supply their garrison as they are! It's a miracle that they even have enough ammunition to shoot...\n\nThis is becoming increasingly frustrating, but the needs of the war are more important, so we shall send economic advisors to our brothers, to help them in the arcane art of actually making a damn factory work!"
  MZB_oberkommando_der_afrika:0 "아프리카 최고사령부"
  MZB_oberkommando_der_afrika_desc:0 "Just as our homeland, we need a central General Staff to coordinate the war effort on an even higher level. With the "Oberkommando der Afrikanischen Streitkräfte", we shall be allowed - no, "I" shall be allowed - to give orders directly to all Schild troops, no matter what Reichskommissariat they belong to, dramatically increasing cohesion between units and overall tactical and strategic effectiveness and coordination.\n\nEven more importantly, this is the best chance we have at turning the mass of decerebrated we call "allies" into something actually resembling a proper fighting force..."
@@ -428,7 +428,7 @@
  MZB_let_them_know_true_fear_desc:0 "진정한 고통을 느낀 적이 있어? 진정한 공포는 느낀 적 있어? 죽음의 공포. 몸에서 가죽이 벗겨져 죽는걸. 눈 앞에서 살이 썩는 역병이 살점을 좀먹는걸. 눈이 눈구멍 안에서 타버릴 때까지 말이야. 그리고 입도 혀도 없이 비명지르고, 눈도 눈물도 없이 울면서 죽는거야. 그렇게 끔찍하게 죽도록 낳아준 어미를 원망하며 죽는거지.\n\n미국놈들은 죽을거야. 전부 죽을거야. 놈들은 나를 솅크와 뮐러같은 겁쟁이, 반역자로 생각했겠지? 나를?! 건방지게 군 대가를 치를거야! 놈들 목숨으로 대가를 치를거라고! "내가" 이 전쟁에서 이기면 아무도 나나 조국을 욕할 수 없게 할거야."
  MZB_brudermord:0 "형제살해"
  MZB_brudermord_desc:0 "그러지 마. 이건 "형제살해"가 아냐. 이건 최고의 정의야. 반역을 한 증거를 찾을 필요도 없어. 난 알아. 놈들은 우리의 패배를 위해 일부러 전쟁 수행을 저해했어. 라이히의 패배를 위해. 내 패배를 위해. 하지만 실패했지. 이제 죗값을 치뤘고. 전부 다.\n\n하지만 먼저, 난 이 전쟁에서 이길거야. 놈들은 필요 없어. 더이상. 하지만 자원하고 산업은 필요해. 부하들은 필요 없어. 특히 뮐러 부하들은. 그놈들은 군사재판을 받고 총살될거야. 너무 자비로운 것 같지만 피라미에게 쓸 시간은 없어. 그래도 내 전 형제들을 위해 새로 만든 가스를 준비했어. 내 과학자들이 만들 수 있는 것 중 제일 강한 거야. 이건 내 형제들을 위한 감사 인사야. 모욕과 배신에 대한 감사 인사. 이제, 난 혼자가 될거야. 아무도 나를 배신할 수 없어."
- MZB_reinige_den_suden:0 "Reinige Den Süden"
+ MZB_reinige_den_suden:0 "남부를 청소하라"
  MZB_reinige_den_suden_desc:0 "미국놈들이 산업, 병사, 네이팜으로 전쟁에서 이길 수 있다고 생각했겠지. 좋아, 난 그보다 더 좋은게 있어. 난 가스가 있어. 가스 쓰는거 하나도 안 겁나! 전사자 유해를 숟가락으로 떠야하게 만들어도 미국놈들이 계속 싸우려 할까? 지 새끼를 인식표로만 알아볼 수 있게 만들어도 아이를 전장에 보내는 어미가 있을까?\n\n이 전쟁은 끝날거야, 곧 끝날거야. 알 수 있어. 안 끝난다면 솅크를 폭격기에 태워서 막 생산한 가스를 케이프타운에 뿌리게 할거야! 그놈은 용기라는게 뭔지 좀 배우겠지. 죽도록 노력한다면 좋은 결과가 있을거야..."
  
  ## Events ##
@@ -616,13 +616,12 @@
 
  MZB_FOCUS.35.t:0 "생지옥"
  MZB_FOCUS.35.d:0 "피터는 언제나 해병이 되어 조국을 위해 싸우는 것을 꿈꿨다. 미 육군이 남아프리카 전쟁에 처음 개입했을 때 피터는 자신의 꿈을 이뤘다. 동생인 조니는 좋은 대학에 들어가 화학 공학자가 되는게 꿈이었지만 형이 무사히 고향으로 돌아오길 바랬다.\n\n운이 따라 장교가 된 피터는 대부분 안전한 곳에 머물러 있었다. 그래도 그의 가족은 매일 밤 아프리카 전선 상황을 보기 위해 TV를 켰다. 얼마 지나지 않아 가족들은 피터가 배치된 곳을 찾는 큰 코르크 보드를 장만했고 피터가 배치된 곳의 이름을 알기 시작했다. 매일 밤 TV에서 보내주는 사상자 수는 계속 올라갔다. 걱정한 가족을 안심시키는 것은 집으로 날아오는 피터의 편지였다.\n\n하지만 오늘은 달랐다. 조니가 오후에 귀가했을 때, TV에서는 "긴급 속보"를 내보내고 있었다. 부모님은 조니를 맞이하지도 않았다. 조니의 눈은 케이프타운에서 보내지는 난잡한 기자회견을 보았다.\n\n"우리는 남아프리카 표준시로 오후 2시에 아군 동아프리카 전선 근처 해병연대가 화학무기 공격을 받았다는 보고를 받았습니다. 지금 세부사항은 알 수 없으나 해당 연대가 전멸된 것으로 보입니다."\n\n이 소식을 들은 조니의 어머니는 울부짖으며 말문이 막힌 남편의 팔에 안겼다.\n\n"동아프리카군이 우리 연대에 신경가스를 살포했으며 해당 신경 가스는 장기간 노출시 모든 근육이 마비된다는 것 외에 알려져있지 않습니다. 현재 해당 신경가스에 대한 해독제는 가지고 있지 않습니다. 유감스럽게도 아프리카-실트가 이런 잔혹하고 공포스러운 행위를 할 것이라 아무도 예상치 못했기에 해당 부대는 보호장비가 없었습니다..."\n\nTV에 나온 장군이 계속 떠들어댔지만 조니는 신경가스를 들이마신 것 처럼 아무 말도 하지 못했다. 그는 화학을 공부하고 싶었던 자신을 떠올렸다. 그는 부아가 끓는 것을 느끼며 일어났다. 어머니를 진정시키려 노력하던 아버지는 조니가 집 밖으로 뛰쳐나가는 것을 보았다. "조니 어디 가니?" 아버지가 물었다."
- MZB_FOCUS.35.a:0 "입대해서 쥐새끼 같은 나치놈들을 죄다 죽여버리러 갑니다."
+ MZB_FOCUS.35.a:0 "군대에 들어가 쥐새끼같은 나치놈들을 죄다 죽여버리러 갑니다."
 
  MZB_FOCUS.36.t:0 "Wining and Dining"
  MZB_FOCUS.36.d:0 "Müller stepped out of his helicopter to see two rows of Wehrmacht honor guards, stahlhelms shining in the fading sunlight, stiffly saluting him in their freshly-starched dress uniforms. Compared to them, he seemed horribly underdressed in his khaki tunic and field cap. Hüttig was waiting at the door to his compound, arms clasped behind him and making what passed for a smile. "Reichskommissar Müller, I trust you had no difficulty arriving here?"\n\n"Of course not, Hans, the Luftwaffe escort performed their job as admirably as ever," Müller replied. "So, where's the rest of your general staff? Let's talk strategy!"\n\n"Actually," said Hüttig, "I was thinking we have a bit of dinner when Reichskommissar Schenck arrives before we do anything else."\n\nDespite Müller's preconceptions of Hüttig as a dour man who thought having fun was a tool of Jewish domination, he knew how to be a good dinner host. Some of Germania's finest chefs, pre-war vintage champagne, and some absolutely superb dry-aged filet mignon all combined to make this the most sumptuous supper Müller had eaten since he had been assigned to Africa. When the meal was finished, Hüttig nodded to one of his servants-all German, probably because he was too paranoid to let Africans manage his household-and a small fleet of staff swooped in. In a flash, the plates were cleared, the tablecloth was replaced, and their empty champagne flutes were swapped out for full ones, and the servants resumed their stoic positions by the doors.\n\n"Now before we have dessert, gentlemen, I first want to make a toast-to the Reich, and to victory! May we be welcomed back to Germania with a triumph!" Hüttig stood up and raised his champagne, an action Schenck and Müller mirrored. "Alas, we cannot do so until we have destroyed all enemies from abroad... and all traitors from within."
  MZB_FOCUS.36.a:0 "Wait, wha-"
  
-
  MZB_FOCUS.171.t:0 "Successful Assassination"
  MZB_FOCUS.171.d:0 "It was past midnight. Deeply ensconced in his favourite armchair, Hüttig sipped at a glass of cognac, ignoring the murmuring chatter around him. His most important subordinates were gathered to drink, smoke and await the phone call they knew was coming. Nursing his glass, and beginning to feel slightly tipsy, Hüttig slowly looked around the room. Baer and Chmielewski were there, as was Mengele, for once. He took a few deep breaths, trying to get back under control. Perhaps, he thought, this ought to be his last drink. He mustn't disgrace himself in front of everyone.\n\nThe shrill ringing of the telephone put a sudden end to his underlings' prattle. When Hüttig made no move, Baer stepped forward and picked up the receiver. He stood there for a while, listening. "Ja. Ja, danke." Hanging up, he turned to the gathered men, clumping together around the phone in anticipation.\n\nWhen Baer announced that the operation had been a success, his response was a raucous cheer. Still staring into the middle distance, Hüttig heard a champagne cork pop as someone started playing a record of boisterous German military marches. Aware of someone standing over him, Hüttig looked up to see Chmielewski smiling down at him with that empty grin of his, offering a flute of bubbling champagne. Realising the men were all looking to him, expecting him to say a few words, Hüttig set down the empty glass, took the champagne, and stood. Thankfully, he didn't stumble or sway.\n\n"Men, today we triumph once more over the degenerates and the untermensch. With this, the opening salvo, we secure the future of our glorious Reich in Africa. Long live National Socialism and long live the Führer!" Was he slurring? He couldn't tell. He felt a moment of trepidation as he looked into Baer and Chmielewski's eyes. Could they tell?\n\nHis men cheered, downing their champagne. Feeling drowsy and embarrassed, Hüttig sank once more into his armchair. So, Ian Smith was dead. That ought to shake the decaying decadents of South Africa up a bit, but for some reason, he found it difficult to care about it right this minute. His vision seemed to swim before him. Could the others tell he'd let himself get drunk? Surely not, surely not. Besides, this was a once-off. A celebration. It wasn't a violation of Spartan discipline, it was alright to drink a bit more on occasions such as these.\n\nWasn't it?"
  MZB_FOCUS.171.a:0 "His face was like the autumn sky, overcast one moment and bright the next."
