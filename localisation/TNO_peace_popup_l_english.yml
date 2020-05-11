@@ -1,10 +1,10 @@
 ﻿l_english:
 
- TNO_PEACE_POPUP_TITLE:0 "DIPLOMATIC ALERT"
+ TNO_PEACE_POPUP_TITLE:0 "외교 알림"
  TNO_PEACE_POPUP_DESCRIPTION:0 "[GetWarStatus]"
  TNO_PEACE_POPUP_FLAVOR:0 "[GetFlavor]"
 
- TNO_PEACE_POPUP_CLOSE:0 "CLOSE"
+ TNO_PEACE_POPUP_CLOSE:0 "닫기"
 
  TNO_PEACE_POPUP_COUNTRY_PLURAL:0 " and their allies "
  TNO_PEACE_POPUP_COUNTRY_SINGULAR:0 " "
@@ -48,36 +48,36 @@
  
  #Flavor loc
  
- TNO_PEACE_POPUP_FLAVOR_DEFAULT:0 "War is hell."
+ TNO_PEACE_POPUP_FLAVOR_DEFAULT:0 "전쟁은 지옥입니다."
 
  #Ostland flavor
- TNO_PEACE_POPUP_FLAVOR_KOVNER:0 "But what happens to a dream deferred?"
- TNO_PEACE_POPUP_FLAVOR_MEYER:0 "The caged bird cries no more."
- TNO_PEACE_POPUP_FLAVOR_OSTLAND:0 "The status quo lies destroyed."
- TNO_PEACE_POPUP_FLAVOR_JECKELN:0 "The sun sets on the SS."
+ TNO_PEACE_POPUP_FLAVOR_KOVNER:0 "미뤄진 꿈에 무슨 일이 일어날까요?"
+ TNO_PEACE_POPUP_FLAVOR_MEYER:0 "새장 속의 새는 더이상 울지 않습니다."
+ TNO_PEACE_POPUP_FLAVOR_OSTLAND:0 "상황 유지는 좌절되었습니다."
+ TNO_PEACE_POPUP_FLAVOR_JECKELN:0 "친위대 위에 뜬 해가 집니다."
  TNO_PEACE_POPUP_FLAVOR_VITUSKA:0 "A pauper's crown lies shattered."
- TNO_PEACE_POPUP_FLAVOR_DRECHSLER:0 "The talons have been clipped."
+ TNO_PEACE_POPUP_FLAVOR_DRECHSLER:0 "독수리의 발톱이 부러졌습니다."
 
  #Mongolia flavor
  TNO_PEACE_POPUP_FLAVOR_MEN:0 "The Mongol nation, united."
- TNO_PEACE_POPUP_FLAVOR_MON:0 "Order has been restored to the steppe."
+ TNO_PEACE_POPUP_FLAVOR_MON:0 "스텝에 질서가 돌아왔습니다."
  TNO_PEACE_POPUP_FLAVOR_SVO_MEN:0 "Mongolia has been unified."
  
  #BRG-BRT-FRA flavor
- TNO_PEACE_POPUP_FLAVOR_FRA:0 "A shadow falls over France."
+ TNO_PEACE_POPUP_FLAVOR_FRA:0 "그림자가 프랑스를 뒤덮었습니다."
 
  #2nd Italo Turkish War
  TNO_PEACE_POPUP_FLAVOR_IME:0 "O, mia patria, sì bella e perduta!"
  TNO_PEACE_POPUP_FLAVOR_TUR:0 "Del Giordano le rive saluta, di Sionne le torri atterrate..."
  
  #SAF flavor
- TNO_PEACE_POPUP_FLAVOR_ANC:0 "The Pan-African dream lies defeated."
- TNO_PEACE_POPUP_FLAVOR_BOR:0 "The Boer state has been ended, but the conflict has not."
- TNO_PEACE_POPUP_FLAVOR_SAF:0 "The light of democracy has been extinguished in Africa."
- TNO_PEACE_POPUP_FLAVOR_ANG:0 "The airport of Africa could not stand up to the Americans in the air."
- TNO_PEACE_POPUP_FLAVOR_MZB:0 "So ends Huttig's reign of terror."
+ TNO_PEACE_POPUP_FLAVOR_ANC:0 "범아프리카주의의 꿈이 좌절되었습니다."
+ TNO_PEACE_POPUP_FLAVOR_BOR:0 "보어국은 끝났지만, 분쟁은 끝나지 않을겁니다."
+ TNO_PEACE_POPUP_FLAVOR_SAF:0 "아프리카에서 민주주의의 빛이 꺼졌습니다."
+ TNO_PEACE_POPUP_FLAVOR_ANG:0 "아프리카 공항은 하늘의 미군을 상대로 버티지 못했습니다."
+ TNO_PEACE_POPUP_FLAVOR_MZB:0 "그렇게 휘티히의 공포 정치가 끝났습니다."
 
  #ECW flavor
- TNO_PEACE_POPUP_FLAVOR_ENG:0 "Bind her, grind her, burn her with fire, Cast her ashes into the sea,- She shall escape, she shall aspire, She shall arise to make men free;"
+ TNO_PEACE_POPUP_FLAVOR_ENG:0 "묶어라, 갈아라, 불태워라, 바다에 던져라. 그녀는 탈출할 것이니, 그녀는 염원할 것이니, 그녀는 사람들을 자유롭게 하기 위해 일어날지니."
  TNO_PEACE_POPUP_FLAVOR_FEN:0 "This precious stone set in the silver sea, Which serves it in the office of a wall Or as a moat defensive to a house, Against the envy of less happier lands, This blessed plot, this earth, this realm, this England!"
-
+ #윌리엄 셰익스피어가 쓴 각본 《리처드 2세》의 한 구절.
