@@ -25,7 +25,7 @@
  #Wars that have finished
  TNO_PEACE_POPUP_WAR_CONCLUSION_OSTLAND:0 "§Y오스틀란트§!를 지배하기 위한 전쟁이 계속되며 [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]을(를) 상대로 승리했습니다."
  
- TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]이(가) 마침내 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]을(를) 상대로 승리하며 §Y남아프리카 전쟁§!이 끝났습니다.
+ TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]이(가) 마침내 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]을(를) 상대로 승리하며 §Y남아프리카 전쟁§!이 끝났습니다."
  TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_LOSE:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]이(가) 마침내 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]을(를) 상대로 승리하며 §Y남아프리카 전쟁§!이 끝났습니다."
  
  TNO_PEACE_POPUP_WAR_CONCLUSION_BRG_FRA:0 "§Y독일 내전§!의 혼란 와중에 [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§!(으)로부터 땅을 빼앗았습니다."
