@@ -6,11 +6,11 @@
 
  TNO_PEACE_POPUP_CLOSE:0 "닫기"
 
- TNO_PEACE_POPUP_COUNTRY_PLURAL:0 " and their allies "
- TNO_PEACE_POPUP_COUNTRY_SINGULAR:0 " "
+ TNO_PEACE_POPUP_COUNTRY_PLURAL:0 "과 그 동맹국이 "
+ TNO_PEACE_POPUP_COUNTRY_SINGULAR:0 ""
 
- TNO_PEACE_POPUP_COUNTRY_PLURAL_HAS:0 " and their allies have "
- TNO_PEACE_POPUP_COUNTRY_SINGULAR_HAS:0 " has "
+ TNO_PEACE_POPUP_COUNTRY_PLURAL_HAS:0 "과 그 동맹국이 "
+ TNO_PEACE_POPUP_COUNTRY_SINGULAR_HAS:0 ""
 
  #TNO_PEACE_POPUP_WINNER_FACTION_LEADER:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§!"
  #TNO_PEACE_POPUP_WINNER_NOT_FACTION_LEADER:0 "As part of §Y[winning_country.GetFactionName]§!, [winning_country.GetFlag] §Y[winning_country.GetNameDef]§!, "
@@ -23,28 +23,28 @@
  TNO_PEACE_POPUP_WAR_CONTINUING:0 "[GetWarContinuationLoc]"
 
  #Wars that have finished
- TNO_PEACE_POPUP_WAR_CONCLUSION_OSTLAND:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]defeated [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]as the battle for control of §YOstland§! rages on."
+ TNO_PEACE_POPUP_WAR_CONCLUSION_OSTLAND:0 "§Y오스틀란트§!를 지배하기 위한 전쟁이 계속되며 [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]을(를) 상대로 승리했습니다."
  
- TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_WIN:0 "The §YSouth African War§! has come to a close, with [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]finally defeating [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]."
- TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_LOSE:0 "The §YSouth African War§! has come to a close, with [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]finally defeating [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]."
+ TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]이(가) 마침내 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]을(를) 상대로 승리하며 §Y남아프리카 전쟁§!이 끝났습니다."
+ TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_LOSE:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]이(가) 마침내 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]을(를) 상대로 승리하며 §Y남아프리카 전쟁§!이 끝났습니다."
  
- TNO_PEACE_POPUP_WAR_CONCLUSION_BRG_FRA:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]seized land from [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in the chaos of §YThe German Civil War§!"
-
- TNO_PEACE_POPUP_WAR_CONCLUSION_GCW:0 "The delicate balance of power in §YThe German Civil War§! continues to shift as [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]conquers [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]"
-
- TNO_PEACE_POPUP_WAR_CONCLUSION_DEFAULT:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]defeated [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]in a war."
+ TNO_PEACE_POPUP_WAR_CONCLUSION_BRG_FRA:0 "§Y독일 내전§!의 혼란 와중에 [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§!(으)로부터 땅을 빼앗았습니다."
  
- TNO_PEACE_POPUP_WAR_CONCLUSION_TURKISH_VICTORY:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! has taken its claims from the [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in a §Yborder skirmish§! in the aftermath of the bombing of the §YMalta Conference§!."
-
- TNO_PEACE_POPUP_WAR_CONCLUSION_IME_VICTORY:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! has halted the assault from [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in a §Yborder skirmish§! in the aftermath of the bombing of the §YMalta Conference§!."
-
- TNO_PEACE_POPUP_WAR_ECW_HMMLR_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! have bested [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! and taken their first steps towards reuniting Great Britain."
-
- TNO_PEACE_POPUP_WAR_ECW_COLLABS_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! defended their postition from [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! and prevented the country from falling into anarchy."
+ TNO_PEACE_POPUP_WAR_CONCLUSION_GCW:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]을(를) 정복하며 §Y독일 내전§!의 섬세한 세력 균형이 이들에게 쏠리고 있습니다."
+ 
+ TNO_PEACE_POPUP_WAR_CONCLUSION_DEFAULT:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§!를 상대로 전쟁에서 승리했습니다."
+ 
+ TNO_PEACE_POPUP_WAR_CONCLUSION_TURKISH_VICTORY:0 "§Y몰타 회담§!에서 벌어진 폭탄 테러로 인해 벌어진 §Y국경 교전§!에서 [winning_country.GetFlag] §Y[winning_country.GetNameDef]§!이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§!(으)로부터 요구하던 땅을 획득했습니다."
+ 
+ TNO_PEACE_POPUP_WAR_CONCLUSION_IME_VICTORY:0 "§Y몰타 회담§!에서 벌어진 폭탄 테러로 인해 벌어진 §Y국경 교전§!에서 [winning_country.GetFlag] §Y[winning_country.GetNameDef]§!이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! 군대의 진격을 막았습니다."
+ 
+ TNO_PEACE_POPUP_WAR_ECW_HMMLR_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§!이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§!을(를) 상대로 승리해 영국 재통일의 첫걸음을 내디뎠습니다."
+ 
+ TNO_PEACE_POPUP_WAR_ECW_COLLABS_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§!이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§!(으)로부터 위치를 지켜 잉글랜드가 무정부상태에 빠지는 것을 막았습니다."
 
  #Capitulation (war continuing) events
  
- TNO_PEACE_POPUP_WAR_CONTINUING_DEFAULT:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! has defeated [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in an ongoing conflict."
+ TNO_PEACE_POPUP_WAR_CONTINUING_DEFAULT:0 "계속되는 전쟁에서 [winning_country.GetFlag] §Y[winning_country.GetNameDef]§!이(가) [losing_country.GetFlag] §Y[losing_country.GetNameDef]§!을(를) 상대로 승리했습니다."
  
  #Flavor loc
  
@@ -55,21 +55,22 @@
  TNO_PEACE_POPUP_FLAVOR_MEYER:0 "새장 속의 새는 더이상 울지 않습니다."
  TNO_PEACE_POPUP_FLAVOR_OSTLAND:0 "상황 유지는 좌절되었습니다."
  TNO_PEACE_POPUP_FLAVOR_JECKELN:0 "친위대 위에 뜬 해가 집니다."
- TNO_PEACE_POPUP_FLAVOR_VITUSKA:0 "A pauper's crown lies shattered."
+ TNO_PEACE_POPUP_FLAVOR_VITUSKA:0 "빈민의 왕관이 좌절되었습니다."
  TNO_PEACE_POPUP_FLAVOR_DRECHSLER:0 "독수리의 발톱이 부러졌습니다."
 
  #Mongolia flavor
- TNO_PEACE_POPUP_FLAVOR_MEN:0 "The Mongol nation, united."
+ TNO_PEACE_POPUP_FLAVOR_MEN:0 "몽골 민족이 단결했습니다."
  TNO_PEACE_POPUP_FLAVOR_MON:0 "스텝에 질서가 돌아왔습니다."
- TNO_PEACE_POPUP_FLAVOR_SVO_MEN:0 "Mongolia has been unified."
+ TNO_PEACE_POPUP_FLAVOR_SVO_MEN:0 "몽골이 통일되었습니다."
  
  #BRG-BRT-FRA flavor
  TNO_PEACE_POPUP_FLAVOR_FRA:0 "그림자가 프랑스를 뒤덮었습니다."
 
  #2nd Italo Turkish War
- TNO_PEACE_POPUP_FLAVOR_IME:0 "O, mia patria, sì bella e perduta!"
- TNO_PEACE_POPUP_FLAVOR_TUR:0 "Del Giordano le rive saluta, di Sionne le torri atterrate..."
- 
+ TNO_PEACE_POPUP_FLAVOR_IME:0 "오, 너무나 사랑하는 빼앗긴 조국이여!"
+ TNO_PEACE_POPUP_FLAVOR_TUR:0 "요르단의 큰 강둑과 시온의 무너진 탑들에 참배를 하라..."
+ #둘 모두 주세페 베르디가 작곡한 오페라《나부코》의 곡인 〈히브리 노예의 합창〉 가사
+  
  #SAF flavor
  TNO_PEACE_POPUP_FLAVOR_ANC:0 "범아프리카주의의 꿈이 좌절되었습니다."
  TNO_PEACE_POPUP_FLAVOR_BOR:0 "보어국은 끝났지만, 분쟁은 끝나지 않을겁니다."
@@ -79,5 +80,7 @@
 
  #ECW flavor
  TNO_PEACE_POPUP_FLAVOR_ENG:0 "묶어라, 갈아라, 불태워라, 바다에 던져라. 그녀는 탈출할 것이니, 그녀는 염원할 것이니, 그녀는 사람들을 자유롭게 하기 위해 일어날지니."
+ #헬렌 그레이 콘이 쓴 시집 《잉글랜드를 위한 사랑의 노래》 한 구절
  TNO_PEACE_POPUP_FLAVOR_FEN:0 "This precious stone set in the silver sea, Which serves it in the office of a wall Or as a moat defensive to a house, Against the envy of less happier lands, This blessed plot, this earth, this realm, this England!"
- #윌리엄 셰익스피어가 쓴 각본 《리처드 2세》의 한 구절.
+ #윌리엄 셰익스피어가 쓴 각본 《리처드 2세》 한 구절
+ 
