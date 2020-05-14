@@ -1,6 +1,6 @@
 ﻿l_english:
  infrastructure:0 "기반시설"
- infrastructure_plural:0 기반시설"
+ infrastructure_plural:0 "기반시설"
  infrastructure_desc:0 "이 건물은 해당 주의 기반시설을 증대시킵니다. 전략 지역의 보급력과 사단의 속도를 높입니다."
  offmap_stockpile:0 "Offmap Resources"
  offmap_stockpile_resource:0 "£resources_strip|$FRAME$"
