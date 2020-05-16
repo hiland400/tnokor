@@ -117,11 +117,11 @@ DEMOWORLDEVENT.28.d:0 "Following the release of information implicating Yasuda H
 DEMOWORLDEVENT.28.a:0 "사람이 먼저 떨어질까, 그 재산이 먼저 떨어질까?"
 
 DEMOWORLDEVENT.29.t:0 "오스틀란트의 혼란!"
-DEMOWORLDEVENT.29.d:0 "While much of the German sphere has always been shrouded by the German government, Ostland never had this issue. With multple international news station in Riga always ready to be paraded around by the German government to show off the high quality of life, strength of the workforce, and happiness of the people of their 'model colony'.\n\nWhile the government of Ostland has attempted to close down the various sections of Riga dedicated to the press, guerilla reporters have still managed to disperse to film the action on the ground for the world outside.The footage is shocking, showing brutal house to house fighting between various members of the garrison, militia groups, citizenry, and partisans. The international community is still deciding what to make of this footage, and who, if anyone, they are supposed to root for.\n"
+DEMOWORLDEVENT.29.d:0 "독일 정부는 영향권 대부분의 입을 틀어막았지만 오스틀란트는 그렇지 않았습니다. 리가에 있는 여러 국제뉴스 방송국은 '모범 식민지'의 높은 삶의 질, 노동력의 힘, 사람들의 행복을 방송해왔습니다.\n\n오스틀란트 정부가 리가의 여러 언론 기관을 폐쇄하는 와중에 한 시민기자가 현장을 촬영한 영상을 바깥 세계에 전달했습니다. 영상은 충격적이었습니다. 주둔군, 민병대, 시민군, 빨치산의 다양한 인물들이 격렬한 시가전을 벌이고 있었습니다. 국제사회는 이 영상을 어떻게 이해해야 할지, 누구를 응원해야 할지 고민하고 있습니다.\n"
 DEMOWORLDEVENT.29.a:0 "오 신이시여!"
 DEMOWORLDEVENT.29.b:0 "거짓말! 전부 거짓말이야!"
 DEMOWORLDEVENT.29.e:0 "민중의 복수를 보게하라."
-DEMOWORLDEVENT.29.f:0 "I'm sure we could find good use for these reporters."
+DEMOWORLDEVENT.29.f:0 "저 기자들을 잘 쓸 수 있겠어."
 DEMOWORLDEVENT.29.c:0 "라이히는 분열되었다."
 
 ##OCW Victors
@@ -203,13 +203,13 @@ DEMOWORLDEVENT.46.c:0 "At least nobody is shooting each other, for now."
 
 # Italy
 
-DEMOWORLDEVENT.47.t:0 "Verona Conference"
-DEMOWORLDEVENT.47.d:0 "Since the death of Benito Mussolini, the first Duce of Italy and creator of Fascism, Italy's commitment to Fascism has been fading. And for that today is a historical day for Italy and her people, the winds of change is blowing as the Congress in Verona has been assembled to determine the future direction of Italian Empire.\n\nWhat this direction will be is bound to the Conference; the arguments will be made, agreements will be reached, tensions will rise, hostilities will be soften and eventually a pathway for Italian people will be reached. As Duce Ciano makes his opening speech, international observers listen in excitement as one of the largest colonial empires of the world may loosen her iron grip over her subjects and people, or not. Verona Conference will decide her fate.\n"
-DEMOWORLDEVENT.47.a:0 "Interesting"
+DEMOWORLDEVENT.47.t:0 "베로나 회의"
+DEMOWORLDEVENT.47.d:0 "이탈리아의 초대 두체이자 파시즘의 창시자였던 베니토 무솔리니가 사망한 후, 파시즘은 이탈리아에서 힘을 잃기 시작했습니다. 오늘은 이탈리아와 그 국민들에게 역사적인 일입니다. 이탈리아 제국의 미래 방향을 결정하기 위한 회의가 베로나에서 열리며 변화의 바람이 불고 있습니다.\n\n이탈리아가 어느 방향으로 갈지는 이 회의에 달려 있습니다. 논쟁이 벌어질 것입니다. 합의가 도출될 것입니다. 긴장이 고조될 것입니다. 적대감이 무뎌질 것입니다. 마침내 이탈리아인을 위한 길에 도달할 것입니다. 여러 나라의 관측다들은 치아노 두체의 연설을 흥분 속에서 들었습니다. 이들은 세계 최대의 식민제국 중 하나가 고삐를 풀지 조일지 궁금해 했습니다. 베로나 회의가 이탈리아의 운명을 결정할 것입니다.\n"
+DEMOWORLDEVENT.47.a:0 "흥미롭군"
 
-DEMOWORLDEVENT.48.t:0 "Verona Conference ends"
-DEMOWORLDEVENT.48.d:0 "Today, Verona Conference, the assembly gathered together to determine the future direction of Italian Empire, has come to an end. As Duce Ciano made his closing speech to the Congress, it seems after so much heated debating and furious arguing, majority of the Congress come to an agreement with Ciano, approving his mandate. Roaring masses of people are celebrating in the streets from Verona itself to Sicily, church bells are ringing, choirs are singing as the long anticipated reforms are in the way now, all thanks to Duce Ciano!\n\nNot everybody is happy with this result of course, Carlo Scorza, the political rival of Ciano, left the Congress room in frustration during Duce's closing speech, reports are coming all around Italy about Black Brigade violence and street fights with celebrating people. Yet, the path is now clear for Italy and her people, they only need to follow it.\n"
-DEMOWORLDEVENT.48.a:0 "An interesting development from Italy"
+DEMOWORLDEVENT.48.t:0 "베로나 회의가 끝나다"
+DEMOWORLDEVENT.48.d:0 "이탈리아 제국의 미래 방향을 결정하기 위해 열린 베로나 회의가 오늘 끝났습니다. 치아노 두체는 의회에서 폐막 연설을 했습니다. 뜨거운 논의와 격렬한 논쟁 끝에 의회 대다수가 치아노의 권한을 인정한 것으로 보입니다. 치아노 두체가 개혁에 착수하자 베로나에서 시칠리아까지 전 이탈리아에서 군중들이 거리로 몰려나와 환호성을 지르고, 교회 종을 울렸습니다. 성가대는 노래를 불렀습니다!\n\n하지만 모두가 이 결과를 반기는 것은 아닙니다. 치아노의 정적인 카를로 스코르차는 두체가 폐막 연설을 하는 동안 불만에 찬 모습으로 회의실을 떠났습니다. 또한 이탈리아 전역에서 검은여단이 폭력을 행사하고 축하 군중과 싸움을 벌였다는 보고가 있었습니다. 하지만 길은 이제 정해졌습니다. 남은 것은 길을 따라가는 것 뿐입니다.\n"
+DEMOWORLDEVENT.48.a:0 "흥미로운 일이군"
 
 DEMOWORLDEVENT.49.t:0 "Verona Conference ends"
 DEMOWORLDEVENT.49.d:0 "Today, Verona Conference, the assembly gathered together to determine the future direction of Italian Empire, has come to an end. As Duce Ciano made a half-hearted closing speech, it seems majority of the Congress seem to be in an agreement with Carlo Scorza, a renown traditional fascist and political rival of Ciano. His supporters all around the Empire are rallying in the city squares, showing their support for Scorza and his ideas to make the Empire strong once again!\n\nNot everybody is happy with this result of course, Duce Ciano himself is clearly disappointed with the result, as his mandate is denied and his power as Duce have been questioned by Scorza, more so people that were anticipating for reforms to the Empire have to protest even now. Yet, the path is now clear for Italy and her people, they only need to follow it.\n"
