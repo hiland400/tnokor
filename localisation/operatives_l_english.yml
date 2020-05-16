@@ -1,5 +1,5 @@
 ﻿l_english:
- INTELLIGENCEAGENCYVIEW_TITLE:0 "Intelligence Agency"
+ INTELLIGENCEAGENCYVIEW_TITLE:0 "정보기관"
  SPY_MASTER_STATUS_NONE:1 "There is currently no §HSpy Master§!"
  SPY_MASTER_STATUS_OTHER:0 "$COUNTRY|H$ is currently the Spy Master of $FACTION|H$."
  SPY_MASTER_STATUS_YOU:0 "You are Spy Master"
