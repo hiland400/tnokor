@@ -32,12 +32,12 @@ total_expenditures_value:0 "총 지출: §W[ROOT.Get_total_expenditures]§"
 economy_line_break:0 "--------------------------------------------"
 
 economy_topbar_GDP_text:0 "[ROOT.Get_GDP_topbar]"
-economy_topbar_GDP_short_tt:0 "Our §YGDP§! is currently §Y[ROOT.Get_GDP]§!\nOur §YGDP growth rate§! is [?ROOT.GDP_growth|2Y%] annually\n\nOur §YAnnual Budget§! is §Y[ROOT.Get_total_budget]§!\n\nOur §YDeficit to Income§! ratio is [Get_deficit_ratio]"
-economy_topbar_GDP_long_tt:0 "The §YGDP§! (§YGross Domestic Product§!) of our nation is a monetary measure of the value of all goods and services produced within a year, measured in §Y1960 USD§!."
+economy_topbar_GDP_short_tt:0 "현재 우리 §YGDP§!는 §Y[ROOT.Get_GDP]§!입니다.\n우리 §YGDP 성장률§!은 연간 [?ROOT.GDP_growth|2Y%]입니다.\n\n우리 §Y연간 예산§!은 §Y[ROOT.Get_total_budget]§!입니다.\n\n우리 §Y수익 대비 부족액§! 비율은 [Get_deficit_ratio]입니다."
+economy_topbar_GDP_long_tt:0 "§YGDP§! (§Y국내총생산§!)은 1년 동안 생산된 모든 재화와 서비스의 가치를 가격으로 측정한 것입니다. 측정 단위는 §Y1960년도 USD§!입니다."
 
 economy_topbar_debt_text:0 "[ROOT.Get_national_debt_topbar]"
-economy_topbar_debt_short_tt:0 "Our §YInterest Rates§! are currently [?ROOT.interest_rates|%Y]\nAnnual §YCivilian Expenditures§!: §Y[ROOT.Get_civilian_expenditures]§!\nAnnual §YMilitary Expenditures§!: §Y[ROOT.Get_military_expenditures]§!\nAnnual §YConstruction & Trade Expenditures§!: §Y[ROOT.Get_construction_expenditures]§!"
-economy_topbar_debt_long_tt:0 "The §YNational Debt§! represents the total unpaid funds carried by our national government, typically valued by the outstanding securities issued by our treasury, measured in §Y1960 USD§!. As creditors are not in the business of providing free money, we must pay a certain percentage of our national debt as interest each month, determined by our §YInterest Rates§!."
+economy_topbar_debt_short_tt:0 "현재 우리 §Y금리§!는 [?ROOT.interest_rates|%Y]입니다.\n연간 §Y민간 지출§!: §Y[ROOT.Get_civilian_expenditures]§!\n연간 §Y군사 지출§!: §Y[ROOT.Get_military_expenditures]§!\n연간 §Y건설 & 무역 지출§!: §Y[ROOT.Get_construction_expenditures]§!"
+economy_topbar_debt_long_tt:0 "§Y국가 부채§!는 우리 정부가 갚지 않은 자금을 의미합니다. 부채는 보통 우리 국무부에서 발행한 미지불 증권으로 측정됩니다. 측정 단위는 §Y1960년도 USD§!입니다. 채권자들이 아무 이유 없이 사주는 것이 아니므로 매월마다 우리 국채의 일정 비율을 이자로 지급해야 합니다. 이 비율은 §Y금리§!로 결정됩니다."
 
 military_expenditures_value_tt:0 "Personnel Costs\n--------------\nApproximate Fielded Manpower: [?approx_fielded_manpower|Y0]\n§Y75k§! USD per man annually\n\nMultiplicative Factors:\n[Get_training]\n[Get_military_supervision]\n[Get_oilcrisis_military]\n\nTotal: [Get_manpower_costs]\n\nProduction Costs\n--------------\nUsed Military Factories: [?used_mil_facs|Y0]\n§Y200M§! USD per factory annually\n\nMultiplicative Factors:\n[Get_industrial_expertise]\n[Get_industrial_equipment]\n\nTotal: [ROOT.Get_military_factory_costs]\n\nNuclear Stockpile Costs:\n--------------\n[Get_nuclear_weapons_cost]"
 military_expenditures_value_short_tt:0 "Personnel Costs: [Get_manpower_costs]\nProduction Costs: [Get_military_factory_costs]\n[Get_nuclear_weapons_cost]\n[Get_military_budget_modifier]"
