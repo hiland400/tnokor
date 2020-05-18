@@ -156,13 +156,13 @@ DEMOWORLDEVENT.37.desc:0 "제2차 세계 대전 이후 서아프리카는 힘든
 DEMOWORLDEVENT.37.a:0 "흥미롭군"
 
 ##Japanese Interregnum
-DEMOWORLDEVENT.38.t:0 "키도가 일본 촐리로 선출되다"
+DEMOWORLDEVENT.38.t:0 "키도가 일본 총리로 선출되다"
 DEMOWORLDEVENT.38.d:0 "Considered the Darkhorse of contemporary Japanese politics, Koichi Kido has secured himself the position of Prime Minister once again following serious deadlock within the Diet. With support from the Emperor, Kido spoke before the assembled Diet and offered promises of "greater cooperation" between all portions of the Japanese government.\n\nThe most common criticism of Kido cites his previous tenure as Prime Minister, with his camp's flagrant corruption and deal-brokering that turned the Taisei Yokusankai to a party ruling by loose agreements and under-the-table compensation.\n"
 DEMOWORLDEVENT.38.a:0 "The restoration of an unlikely candidate."
 
 DEMOWORLDEVENT.39.t:0 "이케다가 일본 총리로 선출되다"
-DEMOWORLDEVENT.39.d:0 "Masanosuke Ikeda, considered by many to be the ideological successor to former Prime Minister Hiroya Ino, has secured himself the Diet's appointment as Prime Minister of Japan. A social and fiscal conservative, Ikeda has vowed to maintain the power and prosperity of the Taisei Yokusankai by mending party rifts and empowering civilian institutions.\n\nMany within the Diet already have expressed their distaste for the "son of Ino" and believe Ikeda has much work to do if he wishes to preserve the purity Ino's corruption has shaken so thoroughly."
-DEMOWORLDEVENT.39.a:0 "Status quo wins again."
+DEMOWORLDEVENT.39.d:0 "이노 히로야 전 총리대신의 사상적 후계자로 여겨지던 이케다 마사노스케가 국회의 지명을 받아 일본 내각총리대신에 임명되었습니다. 사회야 경제 양면에서 보수적인 이케다는 당내 분열을 봉합하고 민간기관에 권한을 줘 대정익찬회의 권력과 번영을 유지하겠다고 맹세했습니다.\n\n많은 의원들은 "이노의 아들"에 대해 불쾌감을 표했습니다. 이들은 이노의 부패가 뒤흔든 순수함을 지키고자 한다면 이케다가 많은 일을 해야 할 것으로 생각합니다."
+DEMOWORLDEVENT.39.a:0 "상황 유지가 또 한 번 승리했다."
 
 DEMOWORLDEVENT.40.t:0 "가야가 일본 총리로 선출되다"
 DEMOWORLDEVENT.40.d:0 "Former Finance Minister Okinori Kaya has secured himself the Diet's vote as Prime Minister today, solidifying his "Reform Bureaucrat" faction's position of power within the Taisei Yokusankai. In a speech to the Diet this morning, Kaya vowed to empower the civilian system and introduce economic reforms to "reverse the Ino slide" and revitalize the nation so wrought with decadence.\n\nThe fiery speech was well-received by members of the Diet, with some of Kaya's principal supporters flying in from Manchukuo and Guangdong to attend and support their ideological mentor."
@@ -170,7 +170,7 @@ DEMOWORLDEVENT.40.a:0 "An economist's touch, perhaps."
 
 DEMOWORLDEVENT.41.t:0 "다카기가 일본 총리로 선출되다"
 DEMOWORLDEVENT.41.d:0 "Former IJN Admiral Soukichi Takagi has secured the Diet's vote for Prime Minister today, a victory to which he credits his "base of sensible public representatives" within the legislative house. Though few expressed worry, doubts about a Navy man heading the government, more have praised him for his promises of reform for the Taisei Yokusankai and secure "national unity" through common principles.\n\nSome members of the Diet offered comment on Takagi's assumption of power, expressing doubt in Takagi's sincerity and others going so far as to say Takagi's appointment is to "destroy the balance of power" in a "Navy coup"."
-DEMOWORLDEVENT.41.a:0 "What does the Army think?"
+DEMOWORLDEVENT.41.a:0 "육군의 생각은 어떨까?"
 
 #English Civil War
 DEMOWORLDEVENT.42.t:0 "잉글랜드 내전"
