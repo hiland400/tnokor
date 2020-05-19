@@ -201,7 +201,7 @@ DEMOWORLDEVENT.46.a:0 "A feat of our diplomacy!"
 DEMOWORLDEVENT.46.b:0 "A feat of our diplomacy!"
 DEMOWORLDEVENT.46.c:0 "At least nobody is shooting each other, for now."
 
-# Italy
+# 이탈
 
 DEMOWORLDEVENT.47.t:0 "베로나 회의"
 DEMOWORLDEVENT.47.d:0 "이탈리아의 초대 두체이자 파시즘의 창시자였던 베니토 무솔리니가 사망한 후, 파시즘은 이탈리아에서 힘을 잃기 시작했습니다. 오늘은 이탈리아와 그 국민들에게 역사적인 일입니다. 이탈리아 제국의 미래 방향을 결정하기 위한 회의가 베로나에서 열리며 변화의 바람이 불고 있습니다.\n\n이탈리아가 어느 방향으로 갈지는 이 회의에 달려 있습니다. 논쟁이 벌어질 것입니다. 합의가 도출될 것입니다. 긴장이 고조될 것입니다. 적대감이 무뎌질 것입니다. 마침내 이탈리아인을 위한 길에 도달할 것입니다. 여러 나라의 관측다들은 치아노 두체의 연설을 흥분 속에서 들었습니다. 이들은 세계 최대의 식민제국 중 하나가 고삐를 풀지 조일지 궁금해 했습니다. 베로나 회의가 이탈리아의 운명을 결정할 것입니다.\n"
@@ -241,7 +241,7 @@ DEMOWORLDEVENT.55.t:0 "1964 Tokyo Olympic Games Come To An End" # WORLD.581 # 66
 DEMOWORLDEVENT.55.d:0 "The first Olympic Games to be held in Asia, the 1964 Summer Olympics have now concluded. Opening itself up to the world Japan took every opportunity to showcase its growing technological might, the games being the first to be telecast internationally, with over 70% of the population viewing Emperor Hirohito officially open the games. International admirers have praised Tokyo itself especially, its modernizing efforts crowned with the newly put into service 'Bullet Train' transporting attendees around the city.\n\nThe United States claimed the most success this time around, winning 46 gold medals, followed by the Japanese Empire with 22 gold medals and Italy with 18. Noticeably absent from this entry of the Olympic Games were teams from Germany, South Africa and England due to ongoing conflicts.\n"
 DEMOWORLDEVENT.55.a:0 "Tokyo has left quite the impression."
 
-# Burgundy
+# 부르군트
 
 DEMOWORLDEVENT.56.t:0 "부르군트가 결국 저질렀나?"
 DEMOWORLDEVENT.56.d:0 "스위스 지진 서비스가 걱정스러운 공식 발표를 했습니다. 지난 밤, 취리히의 지진 서비스 본부는 부르군트령 쥐라에서 발생한 지진을 관측했습니다. 지진은 4초 동안 계속되었으며 진도는 리히터 규모 4.6이었습니다. 스위스 지진 서비스는 여진이 없었기에 "자연적인 지진이 아닌 인공 지진으로 보인다"고 결론내렸습니다. 몇몇 방사선과 의사들은 공기중 방사선량이 가벼운 노심융융이나 공중 핵폭발과 같은 수준으로 치솟았다고 보고했습니다.\n\n전세계 정부는 한가지 결론에 도달했습니다. 부르군트가 핵실험에 성공했습니다. 사용된 핵무기의 위력은 1945년 진주만에 떨어진 것의 두 배입니다. 그림자 국가가 계속 입을 닫고 있기에 이 뉴스가 검증될 일은 없을 것입니다. 그래도 [GetYear]년은 역사의 어두운 순간으로 기억될 것입니다. 부르군트가 핵보유국이 된 해로.\n"
@@ -253,23 +253,22 @@ DEMOWORLDEVENT.57.t:0 "A Second Sun"
 DEMOWORLDEVENT.57.d:0 "Germany is aflame.\n\nIgnited in the chaos of the interwar, she burned brighter than any candle a man could hold. Her fires raged and soared and Europe was illuminated by a war that brought the Reich's fire to the darkest corners of what was once civilization. The world winced in fear at the bright light blinding it.\n\nIn a great flash in the Pacific Ocean, the war finally ended - but the scorching rage proved too strong for its creator. \n\nThe German Civil War has turned nuclear, with the contenders fielding tactical nuclear arms to eradicate their former brothers.\n\nWhere the nation once stood now blares a second sun, incinerating all it had built and more. Whoever wins the war shall be crowned the King of Ashes, baptized with light turned to darkness.\n"
 DEMOWORLDEVENT.57.a:0 "Germany's legacy is one of destruction."
 
-## Softboyanarchist
+## 소프트보이 무정부주의자
 
 DEMOWORLDEVENT.58.t:0 "숨겨진 영웅"
 DEMOWORLDEVENT.58.d:0 "불화와 혼란으로 가득찬 잉글랜드가 다시 한 번 국제 뉴스에 나타났습니다. 하지만 이번에는 폭탄테러나 주둔군의 무력진압이 아닌 평범한 예술이었습니다.\n\n런던 거리 전역에서 스프레이로 그려진 그림 몇몇이 발견 되었습니다. 첫 번째 그림은 별로 관심을 끌지 못했지만 정체를 알 수 없는 예술가가 의회 정문에 스프레이 그림을 남기며 뉴스에 오르내리게 되었습니다.\n\n도발적이지만 잘 그려진 이 그림은 대중의 상상력에 불을 붙였습니다. '소프트보이'라고 알려진 그 예술가가 그린 그림은 전 세계에 퍼졌습니다. 이 예술가에 대해 알려진 것은 적습니다. 이 예술이 영국 사회주의 운동과 관련이 있을지도 모른다는 것만이 알려져 있지만 사람들은 이게 진짜로 의미하는 것이 뭔지 계속 논의하고 있습니다.\n"
 DEMOWORLDEVENT.58.a:0 "Great minds of a generation, working from the dark!"
 
-#Angola
-
+#앙골라
 DEMOWORLDEVENT.59.t:0 "앙골라의 자유?"
 DEMOWORLDEVENT.59.d:0 "남아프리카 전쟁이 남아프리카 전역을 덮친 가운데 남서아프리카의 수도에서 이해할 수 없는 소식이 들어왔습니다. 오늘 아침 한 무리의 루프트바페 수송기가 알 수 없는 곳을 향해 이륙했습니다. 그 승객 중에는 볼프강 솅크 국가판무관과 그의 부관, 가족도 있었습니다. 더 충격적인 것은 비행기가 떠난 지 몇 시간이 지난 후 국가판무관의 주치의인 조나스 사빔비가 라디오 루안다에서 한 선언입니다. 사빔비는 자신을 독립 앙골라의 대통령이라고 선언하고는 시민들에게 무기를 들고 일어나 새로운 국가를 지킬 것을 요구했습니다. 앙골라 전역에서 독립 앙골라와 실트 소속국 간의 전투가 발생하며 수천 명의 오빔분두계 민병대원이 후방에 주둔하던 원주민 친위대와 합세해 새 대통령에게 충성을 바쳤습니다."
 DEMOWORLDEVENT.59.a:0 "잠깐, 뭐라고?"
 
-DEMOWORLDEVENT.60.t:0 "German Loyalists Seize Namibia"
-DEMOWORLDEVENT.60.d:0 "A new development has presented itself in the chaos that continues to engulf Africa. German settlers in Namibia have joined hands with soldiers stranded by the Angolan independence movement to seize control of the region. Native organizations proved too disunited and disorganized to resist the German takeover.\n\nThe German prospects in the region are uncertain. Their logistics badly affected by the Angolan rebellion, the German armies in the African south west face a tough fight to hold their ground against enemy offensives. International observers fear bloody waves of retaliatory violence against native population as the new German administration desperately attempts to restore order with its limited ressources." #(World event about Namibia falling under control of the German remnants after Angola is Freed)
-DEMOWORLDEVENT.60.a:0 "Namibia is German again, but for how long?"
-#Ostafrika
+DEMOWORLDEVENT.60.t:0 "독일계 충성파가 나미비아를 점거하다"
+DEMOWORLDEVENT.60.d:0 "남아프리카가 혼란에 휩싸인 가운데 또 다른 일이 일어났습니다. 나미비아에 살던 독일 정착민들이 앙골라 독립운동으로 발이 묶인 병사들과 합세해 나미비아를 점령했습니다. 원주민 조직은 독일인에게 저항할 만큼 체계적이지 못했습니다.\n\n나미비아 독일인의 앞날은 불투명합니다. 남서아프리카 독일군은 앙골라 반란으로 군수 체계가 붕괴한 상태에서 적 공세를 막아내야 합니다. 독일인들이 세운 새 행정부가 제한된 자원으로 질서를 회복하기 위해 노력하며, 국제 관측자들은 원주민에 대한 피비린내 나는 보복을 두려워하고 있습니다." #(앙골라 독립 후 나미비아가 독일계 잔당에게 함락되는 월드 이벤트)
+DEMOWORLDEVENT.60.a:0 "나미비아가 다시 독일인의 것이 되었군. 하지만 얼마나 갈까?"
 
+#동아프리카
 DEMOWORLDEVENT.61.t:0 "남아프리카에서 화학무기가 사용되다!"
 DEMOWORLDEVENT.61.d:0 "전선에서 산발적인 보고가 처음 도착했을 때, 사람들은 당황한 병사들이 먼지구름을 보고 착각한거라고 여겼습니다. 하지만 숨막혀하며 헐떡거리는 희생자의 모습이 TV 카메라와 리포터를 통해 전해지자 이 사실을 부정하는 사람은 아무도 없었습니다.\n\n미군은 제1차 세계 대전 이후 처음으로 독일군의 가스 공격을 받았습니다. 오스트아프리카의 한스 휘티히 휘한 군대가 화학무기를 가지고 있다는 의심은 있었지만 전장에서 이게 사용될거라고 믿었던 사람은 적었습니다. 하지만 휘티히는 현대전의 널리 알려진 금기 중 하나를 어겼습니다. 미국 정부는 보복을 다짐했으며 세계 각국에서 미국을 위한 지원이 몰려들고 있습니다. 이제 남아프리카 전쟁에서 더 나쁜 놈이 누군지 의심하는 사람은 거의 없습니다."
 DEMOWORLDEVENT.61.a:0 "끔찍해라!"
@@ -282,62 +281,61 @@ DEMOWORLDEVENT.62.a:0 "They'll even kill each other."
 DEMOWORLDEVENT.62.b:0 "하일 휘티히!"
 DEMOWORLDEVENT.62.c:0 "그냥 계속 싸워!"
 
-DEMOWORLDEVENT.63.t:0 "미국이 아프리카 실트에 선전포고하다"
-DEMOWORLDEVENT.63.d:0 "The latest in a series of dramatic escalations in the South African War, Cold War tensions have now reached their highest point since the Hawaiian Missile Crisis with the US decision to directly enter the South African War along with their OFN allies. Speaking before Congress the US President claimed that the Afrika-Schild had left the OFN no choice following the German use of chemical weapons which resulted in the deaths of almost 300 US soldiers.\n\nSo far the German response remains unclear, with reports of vicious debate consuming the Reichstag and rumor that the Führer has ordered the arrest of Reichskommissar Hans Hüttig. Yet the world now holds its breath fearing a German direct intervention in response will begin an apocalyptic third world war, as tens of thousands of US soldiers now prepare for deployment."
-DEMOWORLDEVENT.63.a:0 "이것이 시작의 끝인가?"
+DEMOWORLDEVENT.63.t:0 "미국이 아프리카-실트에 선전포고하다"
+DEMOWORLDEVENT.63.d:0 "연이어 벌어진 사건으로 미국이 남아프리카 전쟁에 직접 개입할 것을 결정하며 냉전의 긴장감이 하와이 미사일 위기 이후 최고점에 올랐습니다. 미 대통령은 국회에서 아프리카-실트가 화학무기로 미군 약 300명을 살해했기에 참전할 수밖에 없었다고 연설했습니다.\n\n독일의 반응은 지금도 불확실합니다. 라이히스탁에서 격렬한 토론이 벌어졌다는 보고가 있었습니다. 또한 총통이 한스 휘티히 국가판무관을 체포하라고 지시했다는 소문이 나돌기도 합니다. 만여 명의 미군이 파병을 준비하고 있는 가운데, 세계는 독일도 직접 개입해 제3차 세계 대전이 벌어지지 않을까 공포에 떨고 있습니다."
+DEMOWORLDEVENT.63.a:0 "이것이 끝의 시작인가?"
 
-DEMOWORLDEVENT.64.t:0 "The End Of The South African War"
-DEMOWORLDEVENT.64.d:0 "The most controversial and significant international conflict since the Second World War, the South African War has now come to an end with today's coming into force of the Treaty of Windhoek. With Oberst Rolf Steiner signing for the German forces, and General Creighton Abrams signing for the forces of the OFN, the outcome of the war appears to be firmly in favor of the OFN.\n\nWith the African Reichskommissariats surrendering significant territory and the Boer Republic dismantled as per the terms of the treaty, leadership on both sides now look towards the future. Yet with South Africa now responsible for the administration of a vast swathe of new territories, and enduring internal strife consuming German Africa, many internationally fear that the end of one conflict may only be the beginning of many more."
-DEMOWORLDEVENT.64.a:0 "Peace at last."
+DEMOWORLDEVENT.64.t:0 "남아프리카 전쟁의 끝"
+DEMOWORLDEVENT.64.d:0 "제2차 세계 대전 이후 제일 중요한 국제분쟁이었던 남아프리카 전쟁이 빈트후크 조약에 따라서 오늘 끝났습니다. 독일 대표 롤프 슈타이너 대령과 OFN 대표 크레이튼 에이브럼스 장군이 서명한 이 조약은 OFN에게 유리하게 맺어졌습니다.\n\n아프리카 국가판무관들은 상당한 면적의 영토를 포기했으며 보어 공화국은 해체되었습니다. 두 세력의 지도자들은 이제 미래를 내다보고 있습니다. 남아프리카가 새 영토의 관리를 책임지고 독일령 아프리카 내에서 계속되는 내부 분쟁이 발생하는 가운데, 세계인들은 이 전쟁의 끝이 수많은 전쟁의 시작이 될 것을 두려워하고 있습니다."
+DEMOWORLDEVENT.64.a:0 "드디어 평화가 찾아왔군."
  
-DEMOWORLDEVENT.65.t:0 "The End Of The South African War"
-DEMOWORLDEVENT.65.d:0 "The most controversial and significant international conflict since the Second World War, the South African War has now come to an end with today's coming into force of the Treaty of Gaborone. With Oberst Rolf Steiner signing for the German forces, and General Creighton Abrams signing for the forces of the OFN, the development of the war into a bitter and costly stalemate has forced a return to the pre-war borders.\n\nWith the border unchanged and a terrible loss of lives on both sides, the controversy of the war appears solidified in history as many now ask whether the war was truly worth it. Now as the Boer people reintegrate into South Africa, many within the OFN now fear that the last beacon of democracy in Africa will swiftly return to its pre-war troubles whilst German Africa faces an uncertain future now that the Schild's gamble to secure Africa has failed."
-DEMOWORLDEVENT.65.a:0 "Peace at last."
+DEMOWORLDEVENT.65.t:0 "남아프리카 전쟁의 끝"
+DEMOWORLDEVENT.65.d:0 "제2차 세계 대전 이후 제일 중요한 국제분쟁이었던 남아프리카 전쟁이 가보로네 조약에 따라서 오늘 끝났습니다. 많은 희생자가 발생한 격렬한 교착상태 끝에 맺어진 이 조약은 독일 대표 롤프 슈타이너 대령과 OFN 대표 크레이튼 에이브럼스 장군이 서명한 것으로, 국경을 전쟁 전으로 되돌리기로 했습니다.\n\n많은 이들은 양측이 끔찍한 희생을 치렀음에도 국경 변화가 없는 이 전쟁이 정말 필요했던 것인지 묻고 있습니다. 남아프리카 전쟁을 둘러싼 논란은 역사에 깊이 새겨질 것으로 보입니다. 보어인은 다시 남아프리카의 일부가 되었습니다. 아프리카를 손에 넣기 위한 실트에 도박이 실패하며 독일령 아프리카의 미래는 불확실해졌습니다. 한편, OFN 내의 많은 이들은 아프리카 민주주의의 마지막 횃불이 전쟁 전 문제로 빠르게 돌아갈 것을 걱정하고 있습니다."
+DEMOWORLDEVENT.65.a:0 "드디어 평화가 찾아왔군."
  
-DEMOWORLDEVENT.66.t:0 "The End Of The South African War"
-DEMOWORLDEVENT.66.d:0 "The most controversial and significant international conflict since the Second World War, the South African War has now come to an end with today's coming into force of the Treaty of Pretoria. With Oberst Rolf Steiner signing for the German forces, and General William Westmoreland signing for the forces of the OFN, the outcome of the war appears to be firmly in favor of the Afrika-Schild.\n\nWith South Africa surrendering its northern territory and the Boer independence recognised as per the terms of the treaty, leadership on both sides now look towards the future. Whilst international consensus agrees that the now further overextended African Reickskommissariats will surely face fresh struggles to maintain their increasingly weak grasp on their territories, the future of South Africa and how its people will accept their new reality remains worryingly unclear."
-DEMOWORLDEVENT.66.a:0 "Peace at last."
+DEMOWORLDEVENT.66.t:0 "남아프리카 전쟁의 끝"
+DEMOWORLDEVENT.66.d:0 "제2차 세계 대전 이후 제일 중요한 국제분쟁이었던 남아프리카 전쟁이 프리토리아 조약에 따라서 오늘 끝났습니다. 독일 대표 롤프 슈타이너 대령과 OFN 대표 크레이튼 에이브럼스 장군이 서명한 이 조약은 아프리카-실트에게 유리하게 맺어졌습니다.\n\n남아프리카는 북쪽 영토를 포기하였고 보어는 독립을 인정받았습니다. 두 세력의 지도자들은 이제 미래를 내다보고 있습니다. 많은 이들은 아프리카 국가판무관부들이 급격한 영토 확장으로 통제력이 약해져 원래 영토를 통제하는데 큰 고생을 할 것이라 예상합니다. 한편, 남아프리카인들이 이 상황을 어떻게 받아들일지, 그리고 남아프리카의 미래가 어떻게 될지는 확실하지 않습니다."
+DEMOWORLDEVENT.66.a:0 "드디어 평화가 찾아왔군."
  
-DEMOWORLDEVENT.67.t:0 "The End Of The South African War"
-DEMOWORLDEVENT.67.d:0 "The most controversial and significant international conflict since the Second World War, the South African War has now seemingly come to an end as German forces finally overran the last OFN positions across South Africa. Whilst the bulk of US Forces had already been evacuated, the final days of the war were still consumed by chaos as pro-OFN South Africans attempted to flee the country, with the US Embassy in Cape Town forced to evacuate by helicopter.\n\nWhilst hostilities officially continue with no formal ceasefire signed, the catastrophic outcome of the war for the OFN has raised serious questions about the future of the United States internationally following a second decisive withdrawal from a conflict within two decades, with the abandonment of another key ally to the forces of Nazism."
-DEMOWORLDEVENT.67.a:0 "Peace at last."
+DEMOWORLDEVENT.67.t:0 "남아프리카 전쟁의 끝"
+DEMOWORLDEVENT.67.d:0 "독일군이 남아프리카의 마지막 OFN 거점을 함락시키며 제2차 세계 대전 이후 제일 중요한 국제분쟁이었던 남아프리카 전쟁이 끝난 것으로 보입니다. 미군 대부분이 이미 철수한 가운데 해외로 출국하려는 친OFN 남아프리카인들이 혼란을 일으켰습니다. 이 때문에 케이프타운의 미 대사관 직원들은 헬리콥터를 타고 탈출해야 했습니다.\n\n공식적인 정전협정 없이 전투가 계속되는 가운데 미국은 20년 만에 또 다른 전쟁에서 철수해 주요 동맹국을 나치즘의 먹이로 만들었습니다. 이 전쟁의 재앙적인 결과는 OFN 소속국이 미국의 미래 행보에 대해 큰 의문을 품게 만들었습니다."
+DEMOWORLDEVENT.67.a:0 "드디어 평화가 찾아왔군."
  
-DEMOWORLDEVENT.68.t:0 "The End Of The South African War"
-DEMOWORLDEVENT.68.d:0 "The most controversial and significant international conflict since the Second World War, the South African War has now seemingly come to an end with the total collapse of the German regimes in Africa. It is a collapse which can only be described as utter chaos, with thousands of German soldiers surrendering en-mass to OFN forces, native SS divisions entering open revolt and several high ranking German Generals taken prisoner.\n\nWhat comes next for the former German territories remains unclear, with no definitive post war OFN policy having been made public. Whilst OFN commanders and policy makers celebrate the most significant and decisive defeat of Nazi forces in history, the alliance now finds itself occupying vast and volitile territory, with early reports suggesting that local German administrations have so far been largely kept in place."
-DEMOWORLDEVENT.68.a:0 "Peace at last."
+DEMOWORLDEVENT.68.t:0 "남아프리카 전쟁의 끝"
+DEMOWORLDEVENT.68.d:0 "아프리카 내 독일 정권이 완전히 붕괴하며 제2차 세계 대전 이후 제일 중요한 국제분쟁이었던 남아프리카 전쟁이 끝난 것으로 보입니다. 이 상황은 완벽한 혼돈이라고밖에 말할 수 없습니다. 수천 명의 독일 군인들이 떼 지어 OFN군에게 항복하고 있으며 원주민 친위사단은 반란을 일으켜 독일 장군 몇 명을 포로로 잡았습니다.\n\nOFN이 확정적인 전후 계획을 발표하지 않았기에 독일령이었던 영토가 어떻게 될지는 알 수 없습니다. OFN 사령관들과 정책 입안자들이 나치를 상대로 벌인 가장 중요한 승리를 축하하고 있습니다. 하지만 OFN에게는 독일인 행정부가 여전히 뿌리를 내린 광활하고 변덕스러운 영토를 점령하는 일이 아직 남아 있습니다."
+DEMOWORLDEVENT.68.a:0 "드디어 평화가 찾아왔군."
 
-DEMOWORLDEVENT.69.t:0 "German Intervention in the South African War"
-DEMOWORLDEVENT.69.desc:0 "The world staggers ever closer to midnight as Germany turns its attention to the South African War. In a speech to the nation today, Führer Hermann Göring has declared his anger at continued chaos in Africa, and that German troops would be sent to restore order in the southern Reichskomissariats and reinforce the proud garrisons of the dark continent.\n\nWith chaos in Germany it had been widely assumed that the African Reichskomissar would be abandoned to their fate. Now, the new Fuhrer's decision to reinforce Germany's colonies has brought the world perilously close to open conflict between two nuclear armed superpowers, even as no official declaration of war has been made."
-DEMOWORLDEVENT.69.a:0 "The beginning of the end for us all."
-DEMOWORLDEVENT.69.b:0 "The beginning of the end for them."
-DEMOWORLDEVENT.69.c:0 "The beginning of the end for us, surely."
+DEMOWORLDEVENT.69.t:0 "독일이 남아프리카 전쟁에 개입하다"
+DEMOWORLDEVENT.69.desc:0 "독일이 남아프리카 전쟁에 관심을 돌리며 세계가 점점 어둠에 가까워지고 있습니다. 헤르만 괴링 총리는 오늘 있었던 연설에서 아프리카에서 계속되는 혼란에 분노를 표한 다음 남부 국가판무관부의 질서를 회복하고 암흑대륙의 자랑스러운 주둔군을 보강하기 위해 군대를 보내겠다고 선언했습니다.\n\n아프리카의 국가판무관들은 독일의 혼란으로 아무 지원도 받을 수 없을 거라 추측되었습니다. 공식 선전포고는 없었지만 새 총통이 독일 식민지를 지원하기로 하며 세상은 핵무기를 가진 두 초강대국의 전쟁에 더 가까워졌습니다."
+DEMOWORLDEVENT.69.a:0 "우리 모두에게 끝의 시작이군."
+DEMOWORLDEVENT.69.b:0 "놈들에게 끝의 시작이군."
+DEMOWORLDEVENT.69.c:0 "우리에게 끝의 시작이군, 확실해."
 
-DEMOWORLDEVENT.70.t:0 "German Intervention in the South African War"
-DEMOWORLDEVENT.70.desc:0 "In a fiery midday speech broadcast across the Reich and the world, Fuhrer Martin Bormann has declared his intention to assist the Afrikan Reichskommissariats in their war against "American hostility." He made it clear that he would accept nothing less than the total removal of foreign troops from Africa, although many observers believe he would settle a negotiated peace.\n\nThe move surprised few. A war fought across the world in just the thing to restore the German people's spirit following a war fought at home. The speech ended with a parade celebrating the Aryan will and Germany's eventual triumph over America and the OFN."
-DEMOWORLDEVENT.70.a:0 "Will this war never end?"
-DEMOWORLDEVENT.70.b:0 "The Fatherland awakens."
-DEMOWORLDEVENT.70.c:0 "Just keep fighting."
+DEMOWORLDEVENT.70.t:0 "독일이 남아프리카 전쟁에 개입하다"
+DEMOWORLDEVENT.70.desc:0 "오늘 정오 전세계에 방송된 맹렬한 연설에서, 마틴 보어만 총통은 "미국의 적대행위"에 맞서는 아프리카 국가판무관무들을 돕겠다는 의사를 밝혔습니다. 많은 이들이 보어만이 평화 협상을 주선할 거라 예상했지만, 그는 모든 외국 군대는 아프리카를 떠나야 한다는 의견을 분명하게 표했습니다.\n\n그의 행동에 놀란 사람은 별로 없었습니다. 고향에서 벌어진 전쟁 이후 독일 민족의 정신을 되찾을 것은 전 세계에서 벌이는 전쟁뿐이었습니다. 보어만의 연설은 아리아인의 의지와 독일이 미국과 OFN에게서 거둘 궁극적인 승리에 대한 계속되는 찬사로 끝났습니다."
+DEMOWORLDEVENT.70.a:0 "이 전쟁이 끝나기는 하나?"
+DEMOWORLDEVENT.70.b:0 "조국이 깨어났다."
+DEMOWORLDEVENT.70.c:0 "그냥 계속 싸워."
 
-DEMOWORLDEVENT.71.t:0 "German Intervention in the South African War"
-DEMOWORLDEVENT.71.desc:0 "In a press release published by the office of the Führer, Hans Speidel announced today that his government would be intervening in the South African War.\n\nThe move comes after weeks of speculation over whether Führer Speidel would take action. The former Wehrmacht commander is notably averse to military engagements and has reportedly questioned the value of intervening to defend "profitless hell-holes".\n\nNonetheless, it seems that the cabal of generals that surrounds the Führer have managed to convince him to engage the Americans and South Africans after all. So far, Germany has sent only a handful of special-forces and logistical units into battle, but more are likely to come. While they will no doubt come as a relief to the embattled RK's, time will tell if it's enough to turn the tide."
-DEMOWORLDEVENT.71.a:0 "Will this war never end?"
+DEMOWORLDEVENT.71.t:0 "독일이 남아프리카 전쟁에 개입하다"
+DEMOWORLDEVENT.71.desc:0 "오늘 총통 집무실 명의로 나온 발표에서 한스 슈파이델은 정부가 남아프리카 전쟁에 개입할 것이라고 선언했습니다.\n\n이는 슈파이델 총통이 행동을 취할 것인지 몇 주간의 추측이 있고 난 뒤의 일이었습니다. 전직 국방군 사령관이었던 슈파이델은 군사 교전에 반대했습니다. 소문에 따르면 "나오는 게 없는 지옥구덩이"를 지키기 위해 개입하는 것이 무슨 가치가 있는지 묻기까지 했다고 합니다.\n\n하지만 총통을 둘러싼 장군 무리가 슈파이델이 미국과 남아프리카를 상대로 교전을 벌이도록 설득해냈습니다. 현재 독일은 소수의 특수부대와 군수 부대를 전장에 투입했으며 더 많은 병력이 올 것으로 보입니다. 하지만 이 지원이 궁지에 몰린 국가판무관부에게 구원이 될 것은 의심할 여지가 없습니다. 이 일로 전세를 역전할 수 있는지는 시간만이 말해줄 것입니다."
+DEMOWORLDEVENT.71.a:0 "이 전쟁이 끝나기는 하나?"
 DEMOWORLDEVENT.71.b:0 "드디어 증원군이 왔다."
-DEMOWORLDEVENT.71.c:0 "At least they've grown some ethics."
+DEMOWORLDEVENT.71.c:0 "최소한 윤리는 생기긴 했군."
 
-DEMOWORLDEVENT.72.t:0 "German Intervention in the South African War"
-DEMOWORLDEVENT.72.desc:0 "In a televised press conference from the Reichstag this morning, Fuhrer Albert Speer of the German Reich announced that the Wehrmacht would be immediately moving to intervene in South Africa in "an attempt to bring stability to the region."\n\nIn his speech, the Fuhrer detailed his fears about the escalation of violence in Africa without a German presence. Although he did not go so far as to condemn American and OFN forces, which he referenced indirectly several times, he instead firmly stated that "peace will return to Africa" and that he is seeking a negotiated end to hostilities and the return of all unlawfully seized German territory."
-DEMOWORLDEVENT.72.a:0 "The Reformer has some teeth."
+DEMOWORLDEVENT.72.t:0 "독일이 남아프리카 전쟁에 개입하다"
+DEMOWORLDEVENT.72.desc:0 "오늘 아침 텔레비전으로 방영된 라이히스탁 회의에서, 알베르트 슈페어 총통은 국방군이 "안정을 되찾기 위해" 남아프리카에 즉시 투입될 것이라고 발표했습니다.\n\n총통은 연설에서 아프리카에 독일이 없다면 미국의 폭력행위가 확대될지도 모른다고 걱정을 표했습니다. 그는 미국과 OFN군을 여러 차례 간접적으로 언급했지만 비난하지는 않았습니다. 대신 "평화가 아프리카에 돌아올 것"이라고 단호하게 말했습니다. 또한, 평화협정과 불법적으로 강탈된 독일 영토의 반환을 위해 노력하고 있다고 발표했습니다."
+DEMOWORLDEVENT.72.a:0 "개혁가라도 총은 들었군."
 DEMOWORLDEVENT.72.b:0 "드디어 증원군이 왔다."
-DEMOWORLDEVENT.72.c:0 "At least they've got some moral backbone."
+DEMOWORLDEVENT.72.c:0 "최소한 도덕적 기반은 있군."
 
-
-DEMOWORLDEVENT.73.t:0 "German Intervention in the South African War"
-DEMOWORLDEVENT.73.desc:0 "In a fiery speech from outside of the ruins of the Reichstag, Ferdinand Schörner today announced that his "Government of National Reconstruction" would be immediately intervening "to end the unprecedented American Aggression" in Africa.\n\nTo those inexperienced with Schörner's leadership style, the move might come as a surprise. Germany lies largely in ruins, its people are wrought with trauma and starvation and dissident followers of the defeated Führers infest every corner of the nation. But despite these problems, or perhaps because of them, the Reich has decided to join its colonies' war.\n\nAlready, Schörner has sent units of the long-suffering Volkssturm accompanied by shock troops to join the fight. Whether it will be enough to turn the tide remains to be seen."
-DEMOWORLDEVENT.73.a:0 "Will this war never end?"
+DEMOWORLDEVENT.73.t:0 "독일이 남아프리카 전쟁에 개입하다"
+DEMOWORLDEVENT.73.desc:0 "오늘 라이히스탁 폐허 앞에서 행해진 격렬한 연설에서, 페르디난트 쇠르너는 "국가재건정부"가 "미국의 전례 없는 적대행위를 끝내기 위해" 아프리카에 즉시 개입하겠다고 발표했습니다.\n\n쇠르너의 통치 방식을 모르는 이들은 이 소식에 놀랐을지도 모릅니다. 여전히 독일 대부분이 폐허로 남아있고 국민은 트라우마와 기아로 고통받으며, 패배한 총통들의 지지자들이 독일 각지를 물들이고 있습니다. 하지만 이런 문제에도 불구하고 -어쩌면 이런 문제 때문에- 라이히는 식민지의 전쟁에 뛰어들기로 했습니다.\n\n쇠르너는 이미 끈기 있는 국민돌격대와 돌격부대를 아프리카로 보냈습니다. 이 일로 전세를 역전할 수 있는지 알게 될 것입니다."
+DEMOWORLDEVENT.73.a:0 "이 전쟁이 끝나기는 하나?"
 DEMOWORLDEVENT.73.b:0 "드디어 증원군이 왔다."
-DEMOWORLDEVENT.73.c:0 "Just how many of them are there?"
+DEMOWORLDEVENT.73.c:0 "그래서 얼마나 온데?"
 
-##Russia unification - im dying please help
+##러시아 통일 - 나 죽는다 살려줘
 ### West Russia World Events ###
 DEMOWORLDEVENT.74.t:0 "Aryan Brotherhood Unifies West Russia!"
 DEMOWORLDEVENT.74.desc:0 "For the first time since the war in the 1950s, West Russia is united under one banner. Unfortunately for the country and the world, that banner is the swastika. The first transmissions and declarations coming from the region talk about the cryptic Aryan Brotherhood, a society of Russians who believe that being Aryan is not based on race, but is a state the Slavic race can achieve, thus becoming equal to their conquerors.\n\nAs insane and unlikely as this sounds, the Brotherhood under the rule of one Gutrum Vagner is now in control of West Russia. They have announced their success and their equality to the "Reykh". The world looks silently in awe and confusion, as they wait for what happens next. What will be the future moves of this new Russian warlord state, and what will be the reaction of the mighty Reich to this absurd entity?"
