@@ -353,7 +353,7 @@
  BACKINBLACK:0 "§bBACK§"
  SELECT:0 "Select"
  M_MENU_BUTTON:0 "Main menu"
- SHORTCUT:0 "Shortcut: $KEY$"
+ SHORTCUT:0 "단축키: $KEY$"
  ADD_NEW_AIRWING:1 "Add new Air Wing"
  ADD_NEW_AIRWING_VOLUNTEER_BASE:0 "§RCannot create airwing in the volunteer airbase§!"
  CREATING_PROVINCE:0 "Creating Province #"
