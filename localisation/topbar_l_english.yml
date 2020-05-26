@@ -67,7 +67,7 @@
  TOPBAR_DECISIONVIEW:0 "결정"
  TOPBAR_DECISIONVIEW_DESC:0 "결정을 내리고 국가에 일어나는 사건에 대응합니다.\n"
  TOPBAR_DECISIONS_TIMEOUT_DESC:0 "§YEvents or Decisions Timeout§! ($AMOUNT|R$)\n$LIST$\n"
- TOPBAR_DECISIONS_CAN_TAKE_DESC:0 "§YDecisions possible to take§! ($AMOUNT|G$)\n$LIST$\n"
+ TOPBAR_DECISIONS_CAN_TAKE_DESC:0 "§Y할 수 있는 결정§! ($AMOUNT|G$)\n$LIST$\n"
  TOPBAR_OPERATIONS_AVAILABLE_DESC:0 "§YAvailable Operations§! ($AMOUNT$)\n"
  TOPBAR_OPERATIONS_PREPARED_OR_COMPLETED_DESC:0 "§YPrepared and Completed Operations§! ($AMOUNT$)\n"
  TOPBAR_OPERATIONS_PREPARED_DESC:0 "§HPrepared Operations§! ($AMOUNT$)\n"
