@@ -73,6 +73,6 @@
  TOPBAR_OPERATIONS_PREPARED_DESC:0 "§HPrepared Operations§! ($AMOUNT$)\n"
  TOPBAR_OPERATIONS_COMPLETED_DESC:0 "§HCompleted Operations§! ($AMOUNT$)\n"
  TOPBAR_TIMEOUT_ITEM_LOC:0 "$NAME$ ($DAYS|R0$ days left)"
- TOPBAR_DECISIONS_DESC:0 "§GRight-click§! to turn off notification on all currently available Decisions."
+ TOPBAR_DECISIONS_DESC:0 "§G오른쪽 클릭§!으로 할 수 있는 결정 알림 끄기."
  SLIDER_WINNER:0 "§GYOU WIN§!"
  SLIDER_NOT_WINNER:0 ""
