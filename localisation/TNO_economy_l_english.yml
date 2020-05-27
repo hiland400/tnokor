@@ -39,7 +39,7 @@ economy_topbar_debt_text:0 "[ROOT.Get_national_debt_topbar]"
 economy_topbar_debt_short_tt:0 "현재 우리 §Y금리§!는 [?ROOT.interest_rates|%Y]입니다.\n연간 §Y민간 지출§!: §Y[ROOT.Get_civilian_expenditures]§!\n연간 §Y군사 지출§!: §Y[ROOT.Get_military_expenditures]§!\n연간 §Y건설 & 무역 지출§!: §Y[ROOT.Get_construction_expenditures]§!"
 economy_topbar_debt_long_tt:0 "§Y국가 부채§!는 우리 정부가 갚지 않은 자금을 의미합니다. 부채는 보통 우리 국무부에서 발행한 미지불 증권으로 측정됩니다. 측정 단위는 §Y1960년도 USD§!입니다. 채권자들이 아무 이유 없이 사주는 것이 아니므로 매월마다 우리 국채의 일정 비율을 이자로 지급해야 합니다. 이 비율은 §Y금리§!로 결정됩니다."
 
-military_expenditures_value_tt:0 "인건비\n--------------\n배치된 인력 추정치: [?approx_fielded_manpower|Y0]\n명당 매년 §Y75k§! USD 소모\n\n보정치:\n[Get_training]\n[Get_military_supervision]\n[Get_oilcrisis_military]\n\n총 인건비: [Get_manpower_costs]\n\n생산비\n--------------\n사용중인 군수 공장: [?used_mil_facs|Y0]\n채당 매년 §Y200M§! USD 소모\n\n보정치:\n[Get_industrial_expertise]\n[Get_industrial_equipment]\n\n총 생산비: [ROOT.Get_military_factory_costs]\n\n핵무기 유지비:\n--------------\n[Get_nuclear_weapons_cost]"
+military_expenditures_value_tt:0 "인건비\n--------------\n배치된 인력 추정치: [?approx_fielded_manpower|Y0]\n명당 매년 §Y75k§! USD 소모\n\n변동치:\n[Get_training]\n[Get_military_supervision]\n[Get_oilcrisis_military]\n\n총 인건비: [Get_manpower_costs]\n\n생산비\n--------------\n사용중인 군수 공장: [?used_mil_facs|Y0]\n채당 매년 §Y200M§! USD 소모\n\n변동치:\n[Get_industrial_expertise]\n[Get_industrial_equipment]\n\n총 생산비: [ROOT.Get_military_factory_costs]\n\n핵무기 유지비:\n--------------\n[Get_nuclear_weapons_cost]"
 military_expenditures_value_short_tt:0 "인건비: [Get_manpower_costs]\n생산비: [Get_military_factory_costs]\n[Get_nuclear_weapons_cost]\n[Get_military_budget_modifier]"
 income_rate_value_tt:0 "GDP 대비 수익 비율: [?ROOT.income_rate|%G]"
 income_rate_value_tt_delayed:0 "[Get_tax_rate]\n[Get_income_tax]"
@@ -58,7 +58,7 @@ tno_nuclear_stockpile_many_econ_tt:0 "많은 양의 핵무기 비축: §Y5.00B§
 tno_nuclear_stockpile_massive_econ_tt:0 "엄청난 양의 핵무기 비축: §Y15.00B§! USD"
 tno_nuclear_stockpile_apocalyptic_econ_tt:0 "묵시록적인 양의 핵무기 비축: §Y50.00B§! USD"
 
-#수익률 보정치
+#수익률 변동치
 tno_tax_rate_no_taxation_gui:0 "세금 없음: §Y+0.0%§!"
 tno_tax_rate_low_taxation_gui:0 "적은 세금: §G+10.0%§!"
 tno_tax_rate_medium_taxation_gui:0 "보통치 세금: §G+20.0%§!"
@@ -71,7 +71,7 @@ tno_income_taxation_low_income_weighted_gui:0 "저소득자 중심: §G+7.5%§!"
 tno_income_taxation_flat_taxes_gui:0 "일률 과세: §G+10%§!"
 tno_income_taxation_high_income_weighted_gui:0 "고소득자 중심: §G+12.5%§!"
 
-#민간 예산 보정치
+#민간 예산 변동치
 tno_health_care_no_health_care_gui:0 "건강보험 없음: §Y+0.0%§!"
 tno_health_care_private_health_care_gui:0 "민간 의료보험: §R+1.0%§!"
 tno_health_care_public_health_care_gui:0 "공공 의료보험: §R+7.5%§!"
@@ -105,7 +105,7 @@ tno_unemployment_basic_income_gui:0 "보편적 기본소득: §R+15.0%§!"
 
 tno_oil_crisis_civilian_expenditure:0 "석유파동: §R+8.0%§!\n"
 
-#군사 예산 보정치
+#군사 예산 변동치
 tno_training_none_gui:0 "훈련 없음: §G60%§!"
 tno_training_minimal_training_gui:0 "최소한의 훈련: §G80%§!"
 tno_training_basic_training_gui:0 "기본적인 훈련: §Y100%§!"
@@ -134,7 +134,7 @@ tno_industrial_equipment_cutting_edge_gui:0 "최첨단 장비: §R120%§!"
 
 tno_oil_crisis_military_expenditure:0 "석유파동: §Y125%§!\n"
 
-#건설 예산 보정치
+#건설 예산 변동치
 construction_level_not_applicable_gui:0 "비중 §Y없음§!: GDP의 §Y0.0%§!"
 construction_level_0_gui:0 "비중 §Y없음§!: GDP의 §Y0.0%§!"
 construction_level_1_gui:0 "§Y10%§! 비중: GDP의 §R5.0%§!"
@@ -245,15 +245,15 @@ annual_debt_payments_billion:0 "§Y[?ROOT.annual_debt_payments_billion|2]B§! US
 annual_debt_payments_million:0 "§Y[?ROOT.annual_debt_payments|2]M§! USD"
 annual_debt_payments_thousand:0 "§Y[?ROOT.annual_debt_payments_thousand|2]K§! USD"
 
-civilian_budget_cuts_gui:0 "\n(최근의 예산 감축으로 §G85%§! 보정)"
-civilian_budget_boost_gui:0 "\n(최근의 예산 증가로 §R115%§! 보정)"
-civilian_budget_cuts_heavy_gui:0 "\n(최근의 긴급 감축으로 §G70%§! 보정)"
-bankrupt_civilian_gui:0 "\n(최근의 파산으로 §G40%§! 보정)"
+civilian_budget_cuts_gui:0 "\n(최근의 예산 감축으로 §G85%§! 변동)"
+civilian_budget_boost_gui:0 "\n(최근의 예산 증가로 §R115%§! 변동)"
+civilian_budget_cuts_heavy_gui:0 "\n(최근의 긴급 감축으로 §G70%§! 변동)"
+bankrupt_civilian_gui:0 "\n(최근의 파산으로 §G40%§! 변동)"
 
-military_budget_cuts_gui:0 "\n(최근의 예산 감축으로 §G85%§! 보정)"
-military_budget_boost_gui:0 "\n(최근의 예산 증가로 §R115%§! 보정)"
-military_budget_cuts_heavy_gui:0 "\n(최근의 긴급 감축으로 §G70%§! 보정)"
-bankrupt_military_gui:0 "\n(최근의 파산으로 §G40%§! 보정)"
+military_budget_cuts_gui:0 "\n(최근의 예산 감축으로 §G85%§! 변동)"
+military_budget_boost_gui:0 "\n(최근의 예산 증가로 §R115%§! 변동)"
+military_budget_cuts_heavy_gui:0 "\n(최근의 긴급 감축으로 §G70%§! 변동)"
+bankrupt_military_gui:0 "\n(최근의 파산으로 §G40%§! 변동)"
 
 deficit_ratio_green:0 "[?deficit_ratio|1G%]"
 deficit_ratio_yellow:0 "[?deficit_ratio|1Y%]"
