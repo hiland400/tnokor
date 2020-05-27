@@ -435,7 +435,7 @@
  MODIFIER_MIN_EXPORT_FACTOR:0 "Resources to Market"
  MODIFIER_CONSCRIPTION_FACTOR:0 "Recruitable Population"
  MODIFIER_CONSCRIPTION_FACTOR_DESC:0 "Modifies how much your manpower you can access from states."
- MODIFIER_CONSCRIPTION_TOTAL_FACTOR:0 "Recruitable Population Factor"
+ MODIFIER_CONSCRIPTION_TOTAL_FACTOR:0 "동원할 수 있는 인구 비율"
  MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC:0 "Modifies how much your manpower you can access from states."
  MODIFIER_TRADE_OPINION_FACTOR:0 "Trade deal opinion factor"
  MODIFIER_TRADE_OPINION_FACTOR_DESC:0 "Factor of opinion value in trade deals"
